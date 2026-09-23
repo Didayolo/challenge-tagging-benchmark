@@ -1,0 +1,11 @@
+text
+Clinical Named Entity Recognition : Identify diseases treatments and medications in clinical notes and discharge summaries using sequence labeling.
+Medical Question Answering : Answer clinical questions from patient records and medical literature using reading comprehension models.
+Health Information Extraction : Extract structured medical information from unstructured clinical text and radiology reports.
+Chest X-Ray Pathology Detection : Detect 14 thoracic diseases from frontal chest X-rays using convolutional neural networks.
+Credit Default Prediction : Predict whether a loan applicant will default using demographic and financial features.
+Stock Price Movement Prediction : Predict next-day stock price movement direction using historical OHLCV data.
+Autonomous Driving Object Detection : Detect pedestrians vehicles cyclists and traffic signs in urban driving scenes.
+Network Intrusion Detection : Detect network attacks and intrusions using graph-based models on network traffic.
+Robot Navigation in Unknown Environments : Train agents to navigate unknown indoor environments using reinforcement learning.
+Visual Question Answering for Radiology : Answer clinical questions about radiological images using multimodal models.

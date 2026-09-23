@@ -1,0 +1,201 @@
+text
+Clinical Named Entity Recognition : Identify diseases treatments and medications in clinical notes and discharge summaries using sequence labeling.
+Medical Question Answering : Answer clinical questions from patient records and medical literature using reading comprehension models.
+Health Information Extraction : Extract structured medical information from unstructured clinical text and radiology reports.
+Clinical Note Classification : Classify clinical notes into diagnostic categories for automated ICD coding and billing.
+Medical Abbreviation Disambiguation : Resolve ambiguous medical abbreviations in clinical text to correct long-form expansions.
+Patient Cohort Identification : Identify patient cohorts from electronic health records using natural language processing.
+Drug Interaction Extraction : Extract drug-drug interactions from biomedical literature and clinical texts.
+Medical Summarization : Generate concise summaries of patient discharge notes for clinical use.
+Symptom Classification : Classify patient-reported symptoms from online health forums into medical categories.
+Clinical Relation Extraction : Identify semantic relations between medical entities in clinical narratives.
+Chest X-Ray Pathology Detection : Detect 14 thoracic diseases from frontal chest X-rays using convolutional neural networks.
+Skin Lesion Classification : Classify dermoscopic images of skin lesions into benign and malignant categories.
+Retinal Disease Detection : Detect diabetic retinopathy and macular degeneration from fundus photographs.
+Brain Tumor Segmentation : Segment brain tumors in multi-modal MRI scans including T1 T2 and FLAIR sequences.
+Histopathology Image Analysis : Classify tissue samples in whole-slide histopathology images for cancer diagnosis.
+Colonoscopy Polyp Detection : Detect and segment colorectal polyps in colonoscopy video frames.
+Dental X-Ray Analysis : Detect dental caries and periodontal disease from panoramic dental radiographs.
+Fetal Ultrasound Plane Classification : Classify standard fetal biometric planes from 2D ultrasound images.
+Chest CT Nodule Detection : Detect and classify pulmonary nodules in low-dose chest CT scans.
+Wound Assessment : Assess wound size type and healing progress from clinical wound photographs.
+Credit Default Prediction : Predict whether a loan applicant will default using demographic and financial features.
+Fraud Detection : Identify fraudulent credit card transactions from anonymized transaction features.
+Customer Churn Prediction : Predict banking customer churn using account activity and transaction history.
+Loan Approval Classification : Classify loan applications as approved or rejected based on applicant features.
+Insurance Claim Prediction : Predict insurance claim amounts from policyholder and vehicle features.
+Portfolio Risk Assessment : Assess investment portfolio risk using market indicators and asset features.
+Revenue Forecasting : Forecast quarterly revenue for retail companies using sales and economic features.
+Tax Fraud Detection : Identify fraudulent tax returns from anonymized taxpayer and transaction features.
+Credit Scoring : Predict credit scores for individuals using financial history and demographic data.
+Bank Marketing Response : Predict whether a customer will subscribe to a term deposit from campaign features.
+Stock Price Movement Prediction : Predict next-day stock price movement direction using historical OHLCV data.
+Volatility Forecasting : Forecast financial market volatility using high-frequency trading data.
+Cryptocurrency Trend Prediction : Predict cryptocurrency price trends using historical price and volume series.
+Intraday Trading Signal Generation : Generate buy and sell signals from tick-level order book data.
+Economic Indicator Forecasting : Forecast macroeconomic indicators using time series of financial and economic data.
+Algorithmic Trading Strategy : Optimize trading strategies on limit order book data to maximize risk-adjusted returns.
+Default Risk Monitoring : Monitor time-varying corporate default risk from financial statement time series.
+Exchange Rate Forecasting : Forecast foreign exchange rates using multivariate financial time series.
+Commodity Price Prediction : Predict commodity futures prices using supply demand and macroeconomic time series.
+Market Regime Detection : Detect market regimes and structural breaks in financial time series data.
+Autonomous Driving Object Detection : Detect pedestrians vehicles cyclists and traffic signs in urban driving scenes.
+Lane Detection for Self-Driving Cars : Detect and segment drivable road lanes from front-facing camera images.
+Depth Estimation from Monocular Camera : Predict dense depth maps from single RGB images for autonomous navigation.
+Traffic Sign Recognition : Classify traffic signs from dashboard camera images across international categories.
+Semantic Scene Understanding : Perform semantic segmentation of outdoor scenes for autonomous vehicle perception.
+3D Point Cloud Object Detection : Detect 3D bounding boxes of objects in LiDAR point clouds for autonomous driving.
+Drone Obstacle Avoidance : Detect obstacles from aerial camera images for UAV collision avoidance systems.
+Robot Grasp Point Detection : Predict optimal grasp points from RGB-D images for robotic manipulation.
+Parking Lot Occupancy Detection : Detect free and occupied parking spaces from aerial drone imagery.
+Pedestrian Trajectory Prediction : Predict pedestrian future trajectories from camera observations in urban scenes.
+Hate Speech Detection : Identify hateful and offensive content in social media posts across multiple platforms.
+Political Stance Classification : Classify political stance and ideology from Twitter and news article text.
+Propaganda Detection : Detect propaganda techniques and persuasion methods in news articles and social media.
+Fake News Classification : Classify news articles as real or fake using linguistic and source features.
+Sentiment Analysis of Reviews : Classify sentiment polarity in product reviews and customer feedback text.
+Opinion Aspect Extraction : Extract aspects and corresponding opinions from consumer reviews for sentiment analysis.
+Humor Detection : Detect humorous content in social media posts and news headlines.
+Emotion Classification : Classify emotions expressed in social media posts into anger joy sadness fear disgust.
+Sarcasm Detection : Detect sarcasm and irony in social media comments and product reviews.
+Rumor Veracity Classification : Classify rumors in social media as true false or unverified using evidence.
+Network Intrusion Detection : Detect network attacks and intrusions using graph-based models on network traffic.
+Malware Call Graph Classification : Classify malware families using function call graphs extracted from executables.
+Botnet Detection : Detect botnet communication patterns in network flow graphs using graph neural networks.
+Phishing Website Detection : Detect phishing websites using graph features from URL and hyperlink structures.
+Software Vulnerability Detection : Detect security vulnerabilities in source code using abstract syntax tree graphs.
+Anomalous User Behavior Detection : Detect insider threats using user activity graphs in enterprise networks.
+DGA Domain Detection : Detect domain generation algorithm domains using character-level graph representations.
+Attack Path Analysis : Identify attack paths in enterprise security graphs for vulnerability prioritization.
+IoT Device Fingerprinting : Fingerprint IoT devices from network communication graphs using graph embeddings.
+Fraud Ring Detection : Detect organized fraud rings in transaction networks using graph learning methods.
+Automated Essay Scoring : Score student essays automatically based on content coherence and grammar quality.
+Reading Comprehension Assessment : Evaluate reading comprehension by answering questions about educational texts.
+Student Knowledge Tracing : Predict student knowledge state from response sequences to educational questions.
+Code Plagiarism Detection : Detect plagiarism in student code submissions using structural and semantic analysis.
+Educational Question Generation : Generate educational questions from textbook passages for adaptive testing systems.
+Lecture Video Captioning : Generate accurate captions for educational lecture videos using speech and context.
+Math Word Problem Solving : Solve elementary math word problems using natural language understanding and reasoning.
+Student Feedback Classification : Classify student feedback into categories for educational quality improvement.
+Learning Objective Classification : Classify learning objectives from course syllabi into Bloom taxonomy categories.
+Discourse Relation Classification : Classify discourse relations in educational texts for coherence analysis.
+Patient Readmission Prediction : Predict 30-day hospital readmission risk from patient demographics and diagnoses.
+Disease Prevalence Prediction : Predict regional disease prevalence from demographic and socioeconomic features.
+Drug Response Prediction : Predict patient drug response outcomes from genomic and clinical tabular features.
+Sepsis Early Warning : Predict sepsis onset in ICU patients from vital signs and lab test results.
+Diabetes Progression Forecasting : Forecast diabetes disease progression from baseline clinical and biological features.
+Mental Health Assessment : Predict depression severity scores from questionnaire and behavioral features.
+Healthcare Cost Prediction : Predict annual healthcare costs for insurance beneficiaries from health features.
+Surgical Outcome Prediction : Predict surgical complications and recovery time from preoperative patient features.
+Medication Adherence Prediction : Predict medication adherence from patient demographics and prescription history.
+Clinical Trial Outcome Prediction : Predict clinical trial success from trial design and phase features.
+Cell Instance Segmentation : Segment individual cells in fluorescence microscopy images for biological analysis.
+Protein Structure Visualization : Classify protein secondary structure from 3D molecular visualization images.
+Plant Disease Detection : Detect diseases in crop plants from leaf photographs using transfer learning methods.
+Animal Species Classification : Classify wildlife species from camera trap photographs in natural habitats.
+Coral Reef Health Assessment : Assess coral reef health from underwater survey photographs and video.
+Pollen Classification : Classify pollen types from microscopy images for environmental and allergenic monitoring.
+Fish Species Identification : Identify marine fish species from underwater video frames for biodiversity surveys.
+Bacterial Colony Counting : Count and classify bacterial colonies in petri dish photographs automatically.
+Nuclei Segmentation : Segment cell nuclei in histopathology images for quantitative tissue analysis.
+Insect Classification : Classify insect species from macro-photography images for ecological monitoring.
+Air Quality Forecasting : Forecast PM2.5 and ozone concentrations using meteorological and pollutant time series.
+Temperature Anomaly Detection : Detect temperature anomalies and extreme events in global climate time series.
+Energy Consumption Forecasting : Forecast building energy consumption using weather and occupancy time series.
+Wind Energy Production Forecasting : Forecast wind turbine power output from meteorological sensor data.
+River Flow Prediction : Predict river streamflow and flood risk from precipitation and temperature data.
+Sea Level Rise Monitoring : Monitor and forecast sea level rise from satellite altimetry time series.
+Wildfire Risk Prediction : Predict wildfire risk using weather soil moisture and vegetation index time series.
+Solar Irradiance Forecasting : Forecast solar irradiance for photovoltaic energy planning from weather station data.
+Drought Index Prediction : Predict drought severity indices from climatological and hydrological time series.
+Extreme Weather Event Detection : Detect extreme weather events from reanalysis climate data time series.
+Protein Function Prediction from Literature : Predict protein function from biomedical abstracts describing protein studies.
+Gene Expression Event Extraction : Extract gene expression events from biomedical literature using information extraction.
+Chemical-Disease Relation Mining : Mine chemical-disease causal relations from PubMed biomedical abstracts.
+Biological Pathway Extraction : Extract biological pathways and their components from scientific literature.
+Species Mention Recognition : Recognize species names in ecological and biological literature for biodiversity.
+Gene Ontology Term Classification : Classify proteins into Gene Ontology terms based on textual descriptions.
+Mutation Mention Extraction : Extract mutation mentions and their functional effects from genomics literature.
+Biomedical Event Trigger Detection : Detect event triggers in biomedical text for biological knowledge extraction.
+Scientific Claim Verification : Verify scientific claims in biomedical literature against evidence databases.
+Drug Target Interaction Prediction : Predict drug-target interactions from biomedical literature text features.
+Robot Navigation in Unknown Environments : Train agents to navigate unknown indoor environments using reinforcement learning.
+Multi-Robot Coordination : Learn coordination policies for multi-robot systems in warehouse automation.
+Quadruped Locomotion : Learn robust locomotion gaits for quadruped robots on uneven terrain.
+Autonomous Racing : Train racing agents to minimize lap time on procedurally generated race tracks.
+Dexterous Manipulation Learning : Learn dexterous in-hand manipulation skills for robotic hands using deep RL.
+Traffic Light Control Optimization : Optimize adaptive traffic light control using multi-agent reinforcement learning.
+Drone Delivery Path Planning : Plan optimal delivery paths for drone fleets using deep reinforcement learning.
+Surgical Robot Assistance : Learn assistive control policies for robotic surgical instruments using RL.
+Supply Chain Inventory Optimization : Optimize inventory management decisions using model-free reinforcement learning.
+Sim-to-Real Transfer for Robotics : Bridge the sim-to-real gap for reinforcement learning policies in physical robots.
+Medical Image Synthesis : Generate synthetic medical images to augment training data in low-data clinical regimes.
+Face Generation with Attribute Control : Generate and edit facial images with controlled attributes using GANs.
+Molecular Graph Generation : Generate valid drug-like molecular graphs satisfying pharmacological property constraints.
+Text-to-3D Shape Generation : Generate 3D object shapes from textual descriptions using neural radiance fields.
+Satellite Imagery Domain Adaptation : Transfer image styles between satellite imagery domains for cross-sensor adaptation.
+Anomaly Detection via Reconstruction : Detect anomalies in industrial images using reconstruction-based generative models.
+Video Prediction for Weather Radar : Predict future weather radar frames using convolutional generative networks.
+Code Generation from Natural Language : Generate executable code from natural language specifications using large models.
+Synthetic Data Generation for Privacy : Generate privacy-preserving synthetic datasets matching real data distributions.
+Music Score Generation : Generate musical score notation from style and structure constraints using generative models.
+Neural Architecture Search for Classification : Search for optimal neural architectures for classification tasks using NAS.
+Hyperparameter Optimization Challenge : Optimize hyperparameters for machine learning pipelines on tabular datasets.
+Automated Feature Engineering : Automatically engineer features from raw tabular data to improve model performance.
+Meta-Learning for Few-Shot Classification : Learn to quickly adapt to new classification tasks using meta-learning.
+Pipeline Selection and Configuration : Select and configure optimal ML pipelines for heterogeneous tabular datasets.
+Efficient Neural Architecture Design : Design efficient neural architectures for edge deployment with minimal computation.
+Transfer Learning Optimization : Optimize transfer learning from large pre-trained models to small tabular datasets.
+Zero-Shot Learning for Structured Data : Perform zero-shot prediction on tabular datasets with unseen feature distributions.
+Continual Learning Benchmark : Evaluate continual learning methods on sequences of related classification tasks.
+Ensemble Method Selection : Automatically select and combine base learners for ensemble methods on tabular data.
+Visual Question Answering for Radiology : Answer clinical questions about radiological images using multimodal models.
+Medical Report Generation : Generate structured radiology reports from chest X-ray images using vision-language models.
+Pathology Slide Classification with Text : Classify histopathology slides using image features and pathology text reports.
+Drug Discovery Multimodal Learning : Predict drug properties from molecular graphs and text descriptions.
+Clinical Video Understanding : Analyze clinical procedure videos with metadata for patient outcome prediction.
+Mental Health Multimodal Assessment : Assess depression from audio video and text features in clinical interviews.
+Surgical Phase Recognition : Recognize surgical phases from video audio and sensor data in laparoscopic surgery.
+Biomedical Figure Classification : Classify biomedical figures from scientific papers using image and caption text.
+Patient Monitoring Fusion : Fuse wearable sensor data and clinical notes for continuous patient state monitoring.
+Symptom-Image Diagnosis : Diagnose skin conditions from patient-reported symptoms and dermoscopy images.
+Federated Intrusion Detection : Train federated intrusion detection models across distributed network nodes.
+Privacy-Preserving Medical Analytics : Analyze sensitive medical data using federated learning without data sharing.
+Differential Privacy Text Classification : Classify sensitive text documents with differential privacy guarantees.
+Secure Aggregation for Finance : Perform secure aggregation of financial model updates across banking institutions.
+Federated Fraud Detection : Detect financial fraud using federated learning across multiple financial institutions.
+Private Genomic Analysis : Perform genomic analysis with privacy preservation using secure computation protocols.
+Federated Recommendation Systems : Build recommendation systems with federated learning to preserve user privacy.
+Membership Inference Attack Defense : Develop defenses against membership inference attacks on ML models.
+Federated Edge Intelligence : Train distributed models on edge devices with communication efficiency constraints.
+Confidential Computing for Healthcare : Enable confidential AI in healthcare using trusted execution environments.
+Financial Sentiment Analysis : Analyze sentiment in financial news articles and earnings call transcripts.
+ESG Report Classification : Classify environmental social and governance disclosures in corporate reports.
+Earnings Call Transcript Analysis : Extract forward guidance and management sentiment from earnings call transcripts.
+Financial Regulation Compliance : Classify regulatory compliance of financial documents against legal requirements.
+Market News Impact Prediction : Predict stock price impact from financial news articles and press releases.
+Credit Rating Justification : Extract and classify factors cited in credit rating agency justification reports.
+Annual Report Classification : Classify risk factors and business segments from annual report text.
+Financial Rumor Detection : Detect market-moving financial rumors in social media and financial news.
+Insider Trading Pattern Detection : Identify suspicious trading patterns from textual regulatory filings.
+Economic Policy Uncertainty Classification : Classify economic policy uncertainty from news and central bank communications.
+Satellite Land Cover Classification : Classify land cover types from multispectral satellite imagery for environmental monitoring.
+Glacier Calving Detection : Detect glacier calving events from time-lapse satellite imagery in polar regions.
+Oil Spill Detection : Detect and segment oil spills from synthetic aperture radar satellite images.
+Deforestation Monitoring : Monitor deforestation and forest degradation from multi-temporal satellite imagery.
+Urban Heat Island Mapping : Map urban heat islands using thermal infrared satellite imagery over city areas.
+Flood Extent Mapping : Map flood extents from synthetic aperture radar images during flood events.
+Crop Type Mapping : Map crop types from time-series satellite imagery for agricultural and environmental analysis.
+Arctic Sea Ice Segmentation : Segment sea ice types from radar and optical satellite imagery in polar regions.
+Wildfire Burn Area Mapping : Map wildfire burn areas and severity from post-fire satellite imagery.
+Air Pollution Estimation : Estimate ground-level air pollution concentrations from satellite aerosol depth data.
+Crop Yield Prediction : Predict crop yields from soil weather and agricultural management tabular features.
+Pest and Disease Risk Modeling : Model pest and disease risk for crops using weather and farm management data.
+Soil Quality Classification : Classify soil quality and suitability for different crops from soil analysis features.
+Irrigation Optimization : Optimize irrigation scheduling from soil moisture weather and crop growth features.
+Food Safety Classification : Classify food contamination risk from supply chain and food handling tabular features.
+Livestock Disease Prediction : Predict livestock disease outbreaks from animal health and environmental features.
+Precision Fertilization Prediction : Predict fertilizer requirements from soil analysis and crop performance features.
+Crop Insurance Risk Assessment : Assess crop insurance risk from agricultural yield history and climate features.
+Food Fraud Detection : Detect food fraud and adulteration from chemical composition and traceability features.
+Post-Harvest Loss Prediction : Predict post-harvest losses from storage conditions and crop quality features.

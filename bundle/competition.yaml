@@ -1,0 +1,71 @@
+version: 2
+title: Codabench Challenge Tagging Benchmark
+description: Automatically assign ML methodology and application-domain taxonomy tags
+  to Codabench competitions from their titles and descriptions.
+image: logo.png
+terms: pages/terms.md
+docker_image: codalab/codalab-legacy:py312
+registration_auto_approve: true
+make_programs_available: false
+make_input_data_available: false
+auto_run_submissions: true
+forum_enabled: true
+contact_email: pavao@mlchallenges.com
+
+pages:
+- title: Overview
+  file: pages/overview.md
+- title: Evaluation
+  file: pages/evaluation.md
+- title: Data
+  file: pages/data.md
+- title: Terms
+  file: pages/terms.md
+
+phases:
+- index: 0
+  name: Open Benchmark
+  description: Submit your model.py and receive immediate leaderboard feedback. No
+    deadline - this is a perpetual open benchmark.
+  start: '2026-09-09 00:00:00'
+  execution_time_limit: 1800
+  starting_kit: starting_kit/
+  tasks:
+  - 0
+
+tasks:
+- index: 0
+  name: Competition Tagging Task
+  description: Multi-label classification of ML competitions by methodology area (ML_sector)
+    and application domain (Field_sector). Evaluated via 4-fold cross-validation on
+    the full labeled dataset.
+  input_data: input_data/
+  reference_data: reference_data/
+  ingestion_program: ingestion_program/
+  scoring_program: scoring_program/
+
+leaderboards:
+- title: Results
+  key: main
+  submission_rule: Force_Best
+  columns:
+  - title: Mean Macro F1
+    key: primary
+    index: 0
+    sorting: desc
+    precision: 4
+  - title: F1 Std Dev
+    key: f1_std
+    index: 1
+    sorting: asc
+    precision: 4
+  - title: Train Time (s)
+    key: train_time_s
+    index: 2
+    sorting: asc
+    precision: 2
+  - title: Infer Time (ms/sample)
+    key: infer_time_ms_per_sample
+    index: 3
+    sorting: asc
+    precision: 3
