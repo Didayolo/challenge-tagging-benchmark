@@ -1,4 +1,6 @@
-# Codabench bundle: Challenge Tagger
+![logo](bundle/logo.png)
+
+### Codabench bundle: Challenge Tagger
 
 Layout:
 
