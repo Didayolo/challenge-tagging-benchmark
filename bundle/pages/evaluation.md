@@ -40,7 +40,7 @@ primary = mean([fold_score_1, fold_score_2, fold_score_3, fold_score_4])
 
 ## Label Binarization
 
-Labels are encoded with `sklearn.preprocessing.MultiLabelBinarizer` fitted on the full known taxonomy for each column. All 10 labels are always present in the binarized matrix, even if absent from a given fold. The fixed class order matches the taxonomy tables on the Overview page (index 0 = first entry, index 9 = last entry).
+Labels are encoded with `sklearn.preprocessing.MultiLabelBinarizer` fitted on the full known taxonomy for each column. All labels are always present in the binarized matrix, even if absent from a given fold. The fixed class order matches the taxonomy tables on the Overview page.
 
 ## Leaderboard Column Order
 

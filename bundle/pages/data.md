@@ -14,8 +14,8 @@ Each sample is one ML competition described by its title and description, concat
 
 Ground-truth labels are assigned across two independent multi-label taxonomies:
 
-- **ML_sector** — the ML methodology area(s) of the competition (10 possible labels, multi-label)
-- **Field_sector** — the application domain(s) of the competition (10 possible labels, multi-label)
+- **ML_sector** — the ML methodology area(s) of the competition (11 possible labels, multi-label)
+- **Field_sector** — the application domain(s) of the competition (11 possible labels, multi-label)
 
 A competition may belong to multiple sectors in each column simultaneously.
 
@@ -42,12 +42,12 @@ Example — first row of each file:
 
 ```
 text
-Clinical NER : Identify medical entities in clinical notes.
+Clinical Named Entity Recognition : Identify diseases treatments and medications in clinical notes and discharge summaries using sequence labeling.
 ```
 
 ```
 ML_sector;Field_sector
-Natural Language Processing;Healthcare & Medicine
+NLP / Text;Healthcare / Biology
 ```
 
 ## Sample Data

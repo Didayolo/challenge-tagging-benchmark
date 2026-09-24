@@ -24,30 +24,58 @@ from sklearn.model_selection import KFold
 from sklearn.metrics import f1_score
 from sklearn.preprocessing import MultiLabelBinarizer
 
-ML_LABELS = [
-    'Natural Language Processing',
-    'Computer Vision',
-    'Tabular / Structured Data',
-    'Time Series & Forecasting',
-    'Reinforcement Learning',
-    'Generative Models',
-    'Graph Learning',
-    'Federated & Privacy-Preserving Learning',
-    'AutoML & Neural Architecture Search',
-    'Multimodal Learning',
+# ML_LABELS = [
+#     'Natural Language Processing',
+#     'Computer Vision',
+#     'Tabular / Structured Data',
+#     'Time Series & Forecasting',
+#     'Reinforcement Learning',
+#     'Generative Models',
+#     'Graph Learning',
+#     'Federated & Privacy-Preserving Learning',
+#     'AutoML & Neural Architecture Search',
+#     'Multimodal Learning',
+# ]
+# 
+# FIELD_LABELS = [
+#     'Healthcare & Medicine',
+#     'Biology & Bioinformatics',
+#     'Climate & Environment',
+#     'Finance & Economics',
+#     'Agriculture & Food Science',
+#     'Autonomous Systems & Robotics',
+#     'Social Sciences & Humanities',
+#     'Cybersecurity',
+#     'Education & Learning Sciences',
+#     'Materials & Physical Sciences',
+# ]
+
+ML_labels = [
+    "NLP / Text",
+    "Computer Vision",
+    "Speech / Audio",
+    "Time Series / Forecasting",
+    "Graph / Networks",
+    "Reinforcement Learning",
+    "Generative / LLM",
+    "Tabular / Classical ML",
+    "ML / AutoML / HPO / NAS",
+    "Algorithmics / non-ML",
+    "Other"
 ]
 
-FIELD_LABELS = [
-    'Healthcare & Medicine',
-    'Biology & Bioinformatics',
-    'Climate & Environment',
-    'Finance & Economics',
-    'Agriculture & Food Science',
-    'Autonomous Systems & Robotics',
-    'Social Sciences & Humanities',
-    'Cybersecurity',
-    'Education & Learning Sciences',
-    'Materials & Physical Sciences',
+sector_labels = [
+    "Healthcare / Biology",
+    "Climate / Energy",
+    "E-commerce / Retail / Finance",
+    "Security & Privacy",
+    "Robotics & Autonomous",
+    "Agriculture & Food",
+    "Transportation & Mobility",
+    "Hard Sciences / Mathematics",
+    "Human Sciences",
+    "Media / Social",
+    "Other"
 ]
 
 # Column separator used by the dataset CSVs.
@@ -128,8 +156,8 @@ def main():
     print(f"Loaded {len(texts)} samples")
 
     # Binarize labels using fixed class order (all 10 labels always present)
-    mlb_ml = MultiLabelBinarizer(classes=ML_LABELS)
-    mlb_field = MultiLabelBinarizer(classes=FIELD_LABELS)
+    mlb_ml = MultiLabelBinarizer(classes=ML_labels)
+    mlb_field = MultiLabelBinarizer(classes=sector_labels)
     y_ml = mlb_ml.fit_transform(ml_label_lists)
     y_field = mlb_field.fit_transform(field_label_lists)
     X = np.array(texts, dtype=object)

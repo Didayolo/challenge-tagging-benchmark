@@ -8,29 +8,31 @@ The goal of this benchmark is to evaluate the ability of machine learning models
 
 Given the title and description of a competition (as a single text string of the form `"<title> : <description>"`), predict which ML sector(s) and Field sector(s) apply. Each competition may belong to multiple sectors simultaneously — this is a **multi-label** classification task.
 
-**ML_sector** taxonomy (10 labels):
-- Natural Language Processing
+**ML_sector** taxonomy (11 labels):
+- NLP / Text
 - Computer Vision
-- Tabular / Structured Data
-- Time Series & Forecasting
+- Speech / Audio
+- Time Series / Forecasting
+- Graph / Networks
 - Reinforcement Learning
-- Generative Models
-- Graph Learning
-- Federated & Privacy-Preserving Learning
-- AutoML & Neural Architecture Search
-- Multimodal Learning
+- Generative / LLM
+- Tabular / Classical ML
+- ML / AutoML / HPO / NAS
+- Algorithmics / non-ML
+- Other
 
-**Field_sector** taxonomy (10 labels):
-- Healthcare & Medicine
-- Biology & Bioinformatics
-- Climate & Environment
-- Finance & Economics
-- Agriculture & Food Science
-- Autonomous Systems & Robotics
-- Social Sciences & Humanities
-- Cybersecurity
-- Education & Learning Sciences
-- Materials & Physical Sciences
+**Field_sector** taxonomy (11 labels):
+- Healthcare / Biology
+- Climate / Energy
+- E-commerce / Retail / Finance
+- Security & Privacy
+- Robotics & Autonomous
+- Agriculture & Food
+- Transportation & Mobility
+- Hard Sciences / Mathematics
+- Human Sciences
+- Media / Social
+- Other
 
 ## Data
 

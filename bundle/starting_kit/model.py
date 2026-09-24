@@ -58,8 +58,8 @@ class Model:
     """TF-IDF + Logistic Regression baseline for competition tagging.
 
     Two independent taggers, one per output column:
-      ml_tagger    -> predicts ML_sector    binary matrix (n_samples x 10)
-      field_tagger -> predicts Field_sector binary matrix (n_samples x 10)
+      ml_tagger    -> predicts ML_sector    binary matrix (n_samples x 11)
+      field_tagger -> predicts Field_sector binary matrix (n_samples x 11)
     """
 
     def __init__(self):
@@ -76,7 +76,7 @@ class Model:
         """Predict label matrices for both output columns.
 
         Returns:
-            (y_ml_pred, y_field_pred)  each shape (n_samples, 10), dtype int.
+            (y_ml_pred, y_field_pred)  shape (n_samples, 11) and (n_samples, 11), dtype int.
         """
         return (
             np.asarray(self._ml_tagger.predict(X), dtype=int),

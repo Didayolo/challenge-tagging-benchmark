@@ -16,8 +16,8 @@ class Model:
 
         Args:
             X       : list of N text strings, each "<title> : <description>"
-            y_ml    : np.ndarray of shape (N, 10), binary, ML_sector labels
-            y_field : np.ndarray of shape (N, 10), binary, Field_sector labels
+            y_ml    : np.ndarray of shape (N, 11), binary, ML_sector labels
+            y_field : np.ndarray of shape (N, 11), binary, Field_sector labels
 
         Returns:
             self
@@ -31,6 +31,6 @@ class Model:
             X : list of N text strings
 
         Returns:
-            (y_ml_pred, y_field_pred) : two np.ndarray of shape (N, 10), dtype int.
+            (y_ml_pred, y_field_pred) : two np.ndarray of shape (N, 11) and (N, 11), dtype int.
         """
         raise NotImplementedError
