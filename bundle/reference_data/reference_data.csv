@@ -1,831 +1,831 @@
 ML_sector,Field_sector
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['Other']
-['Computer Vision'],['Healthcare / Biology']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['Healthcare / Biology']
-['Computer Vision'],['Other']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Other']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['E-commerce / Retail / Finance']
-"['NLP / Text', 'Computer Vision']",['E-commerce / Retail / Finance']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['Agriculture & Food']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['Computer Vision'],['Healthcare / Biology']
-['Time Series / Forecasting'],"['Transportation & Mobility', 'Hard Sciences / Mathematics']"
-['NLP / Text'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['Other']
-"['NLP / Text', 'Computer Vision']",['Healthcare / Biology']
-"['NLP / Text', 'Computer Vision']",['Other']
-['Speech / Audio'],['Healthcare / Biology']
-['Computer Vision'],['Transportation & Mobility']
-['Computer Vision'],['Transportation & Mobility']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['Speech / Audio'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['Computer Vision'],['Transportation & Mobility']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Other']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Media / Social']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-"['NLP / Text', 'Computer Vision']",['Other']
-['Reinforcement Learning'],['Other']
-"['NLP / Text', 'Computer Vision']",['Other']
-"['NLP / Text', 'Computer Vision']",['Other']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['Other']
-['NLP / Text'],['Other']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Media / Social']
-['Computer Vision'],['Other']
-['NLP / Text'],['Healthcare / Biology']
-['Computer Vision'],['Other']
-['NLP / Text'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['ML / AutoML / HPO / NAS'],['Other']
-['NLP / Text'],"['E-commerce / Retail / Finance', 'Other']"
-['Computer Vision'],['Agriculture & Food']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Other']
-"['NLP / Text', 'Computer Vision']",['Robotics & Autonomous']
-['NLP / Text'],['Other']
-['NLP / Text'],['Other']
-['NLP / Text'],['Climate / Energy']
-['NLP / Text'],['Climate / Energy']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['Reinforcement Learning'],['Robotics & Autonomous']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Other']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-"['Computer Vision', 'Speech / Audio']",['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],['E-commerce / Retail / Finance']
-['Computer Vision'],['E-commerce / Retail / Finance']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Climate / Energy']
-['Computer Vision'],['Other']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['E-commerce / Retail / Finance']
-"['NLP / Text', 'Computer Vision']",['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Healthcare / Biology']
-"['NLP / Text', 'Computer Vision']",['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['Reinforcement Learning'],['Climate / Energy']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Transportation & Mobility']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Other']
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Other']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Media / Social']
-"['Computer Vision', 'Speech / Audio']",['Healthcare / Biology']
-['Computer Vision'],['Hard Sciences / Mathematics']
-['Computer Vision'],['Other']
-['NLP / Text'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Other'],['Other']
-['NLP / Text'],['Hard Sciences / Mathematics']
-['NLP / Text'],['Other']
-['Other'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Other']
-['Reinforcement Learning'],['Climate / Energy']
-"['NLP / Text', 'Speech / Audio']",['Other']
-"['NLP / Text', 'Speech / Audio']",['Other']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Other']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],"['Media / Social', 'Other']"
-['Computer Vision'],"['Media / Social', 'Other']"
-['Computer Vision'],"['Media / Social', 'Other']"
-['Computer Vision'],"['Media / Social', 'Other']"
-['Computer Vision'],"['Media / Social', 'Other']"
-['Computer Vision'],"['Media / Social', 'Other']"
-['Speech / Audio'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Other']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Healthcare / Biology']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Security & Privacy']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],"['Security & Privacy', 'Media / Social']"
-['NLP / Text'],"['Security & Privacy', 'Media / Social']"
-['Computer Vision'],['Climate / Energy']
-"['NLP / Text', 'Computer Vision']",['Climate / Energy']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Other'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['E-commerce / Retail / Finance']
-"['NLP / Text', 'Computer Vision']",['E-commerce / Retail / Finance']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Climate / Energy']
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],['Climate / Energy']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],['Transportation & Mobility']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['E-commerce / Retail / Finance', 'Security & Privacy']"
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['NLP / Text'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Reinforcement Learning'],['Robotics & Autonomous']
-['Reinforcement Learning'],['Robotics & Autonomous']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],"['Media / Social', 'Other']"
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],"['Healthcare / Biology', 'Media / Social']"
-['Speech / Audio'],"['Healthcare / Biology', 'Other']"
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],['Robotics & Autonomous']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Hard Sciences / Mathematics']
-['NLP / Text'],['Climate / Energy']
-['Computer Vision'],['Media / Social']
-['Reinforcement Learning'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Hard Sciences / Mathematics', 'Human Sciences']"
-['NLP / Text'],"['Hard Sciences / Mathematics', 'Human Sciences']"
-['Computer Vision'],['Media / Social']
-['Reinforcement Learning'],['Other']
-['Reinforcement Learning'],['Other']
-['NLP / Text'],['Human Sciences']
-['Speech / Audio'],['Other']
-"['NLP / Text', 'Speech / Audio']",['Other']
-['NLP / Text'],['Human Sciences']
-['Speech / Audio'],['Other']
-['Speech / Audio'],['Other']
-['Speech / Audio'],['Other']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['Reinforcement Learning'],['Climate / Energy']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Speech / Audio'],['Other']
-['Computer Vision'],"['Healthcare / Biology', 'Climate / Energy']"
-['Computer Vision'],"['Healthcare / Biology', 'Climate / Energy']"
-['Computer Vision'],"['Healthcare / Biology', 'Climate / Energy']"
-['Computer Vision'],"['Healthcare / Biology', 'Climate / Energy']"
-['NLP / Text'],['Other']
-['NLP / Text'],['Other']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Speech / Audio'],['Other']
-['Computer Vision'],['Robotics & Autonomous']
-['Reinforcement Learning'],['Climate / Energy']
-['Reinforcement Learning'],['Climate / Energy']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],['Other']
-['NLP / Text'],['Human Sciences']
-['Reinforcement Learning'],['Climate / Energy']
-['Computer Vision'],['Other']
-['Computer Vision'],['Other']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Security & Privacy']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Healthcare / Biology']
-"['NLP / Text', 'Computer Vision']",['Other']
-['NLP / Text'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Speech / Audio']","['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Transportation & Mobility']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Human Sciences']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Healthcare / Biology']
-['Computer Vision'],['Climate / Energy']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Healthcare / Biology']
-['Speech / Audio'],['Other']
-['NLP / Text'],['Hard Sciences / Mathematics']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['Speech / Audio'],['Other']
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['NLP / Text'],['Other']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Transportation & Mobility']
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Speech / Audio']",['Other']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Hard Sciences / Mathematics']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-"['NLP / Text', 'Speech / Audio']",['Other']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['ML / AutoML / HPO / NAS'],['Other']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],"['Healthcare / Biology', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Speech / Audio'],['Other']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Healthcare / Biology', 'Human Sciences']"
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Other']
-['NLP / Text'],['Human Sciences']
-['Speech / Audio'],['Other']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Agriculture & Food']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['E-commerce / Retail / Finance']
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Agriculture & Food']
-['NLP / Text'],['Climate / Energy']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['ML / AutoML / HPO / NAS'],['Other']
-['Speech / Audio'],['Other']
-['Computer Vision'],"['Robotics & Autonomous', 'Media / Social']"
-['Computer Vision'],['Agriculture & Food']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['ML / AutoML / HPO / NAS'],['Other']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Agriculture & Food']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Speech / Audio'],['Other']
-['Speech / Audio'],['Other']
-['NLP / Text'],['Healthcare / Biology']
-['Speech / Audio'],['Other']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Healthcare / Biology', 'Human Sciences']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Transportation & Mobility']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Healthcare / Biology']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],['Agriculture & Food']
-['NLP / Text'],"['Hard Sciences / Mathematics', 'Human Sciences']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Media / Social']
-['NLP / Text'],"['Hard Sciences / Mathematics', 'Human Sciences']"
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']","['Security & Privacy', 'Media / Social']"
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Speech / Audio'],['Other']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Other']
-['NLP / Text'],"['Security & Privacy', 'Human Sciences']"
-['NLP / Text'],['Healthcare / Biology']
-['Speech / Audio'],['Other']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Agriculture & Food']
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['Computer Vision'],['Healthcare / Biology']
-['NLP / Text'],['Hard Sciences / Mathematics']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Reinforcement Learning'],['Other']
-['NLP / Text'],['Climate / Energy']
-['Speech / Audio'],['Other']
-['Speech / Audio'],['Other']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Other'],['Other']
-['Other'],['Other']
-['Other'],['Other']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Climate / Energy']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Healthcare / Biology']
-"['NLP / Text', 'Computer Vision']",['Healthcare / Biology']
-['Reinforcement Learning'],['E-commerce / Retail / Finance']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Transportation & Mobility']
-['Computer Vision'],['Transportation & Mobility']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Climate / Energy']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],"['Security & Privacy', 'Human Sciences', 'Media / Social']"
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-"['NLP / Text', 'Computer Vision', 'Speech / Audio']",['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Agriculture & Food']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Security & Privacy']
-['Computer Vision'],['Robotics & Autonomous']
-['NLP / Text'],['Other']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],"['Security & Privacy', 'Media / Social']"
-['NLP / Text'],['E-commerce / Retail / Finance']
-['Computer Vision'],"['Security & Privacy', 'Media / Social']"
-['Computer Vision'],"['Security & Privacy', 'Media / Social']"
-['Computer Vision'],"['Security & Privacy', 'Media / Social']"
-['Computer Vision'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],"['Healthcare / Biology', 'Media / Social']"
-"['NLP / Text', 'Computer Vision']",['E-commerce / Retail / Finance']
-"['Computer Vision', 'Speech / Audio']",['Media / Social']
-"['Computer Vision', 'Speech / Audio']",['Media / Social']
-['Reinforcement Learning'],['Other']
-"['Computer Vision', 'ML / AutoML / HPO / NAS']",['Media / Social']
-"['Computer Vision', 'ML / AutoML / HPO / NAS']",['Media / Social']
-"['Computer Vision', 'ML / AutoML / HPO / NAS']",['Media / Social']
-['ML / AutoML / HPO / NAS'],['Other']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-"['NLP / Text', 'Computer Vision']",['Media / Social']
-['Computer Vision'],['Media / Social']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],"['Agriculture & Food', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['NLP / Text'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],['Other']
-['Speech / Audio'],['Other']
-['Speech / Audio'],['Other']
-['Speech / Audio'],['Other']
-['Computer Vision'],"['Healthcare / Biology', 'Media / Social']"
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['E-commerce / Retail / Finance', 'Human Sciences']"
-['Computer Vision'],['Media / Social']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['NLP / Text'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Healthcare / Biology']
-['Computer Vision'],"['Climate / Energy', 'Transportation & Mobility', 'Hard Sciences / Mathematics', 'Media / Social']"
-['Computer Vision'],['Robotics & Autonomous']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],"['Transportation & Mobility', 'Media / Social']"
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],"['Transportation & Mobility', 'Hard Sciences / Mathematics']"
-['NLP / Text'],['Human Sciences']
-['NLP / Text'],['Human Sciences']
-['Reinforcement Learning'],['Other']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Speech / Audio'],['Other']
-['Computer Vision'],['Media / Social']
-['Speech / Audio'],['Other']
-['NLP / Text'],"['Healthcare / Biology', 'Human Sciences']"
-['Computer Vision'],['Media / Social']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['NLP / Text'],"['Human Sciences', 'Media / Social']"
-['NLP / Text'],['Human Sciences']
-['ML / AutoML / HPO / NAS'],['Media / Social']
-['ML / AutoML / HPO / NAS'],['Human Sciences']
-['ML / AutoML / HPO / NAS'],['Other']
-['ML / AutoML / HPO / NAS'],['Other']
-['ML / AutoML / HPO / NAS'],['Other']
-['ML / AutoML / HPO / NAS'],['Other']
-['ML / AutoML / HPO / NAS'],['Other']
-['ML / AutoML / HPO / NAS'],['Other']
-['Computer Vision'],['Healthcare / Biology']
-"['NLP / Text', 'Computer Vision']",['E-commerce / Retail / Finance']
-['NLP / Text'],['Human Sciences']
-['Computer Vision'],['Media / Social']
-['Computer Vision'],['Media / Social']
-['Reinforcement Learning'],['Other']
-"['Speech / Audio', 'ML / AutoML / HPO / NAS']",['Other']
-['ML / AutoML / HPO / NAS'],['Other']
-"['Speech / Audio', 'ML / AutoML / HPO / NAS']",['Other']
+NLP / Text,Human Sciences
+Computer Vision,Other
+Computer Vision,Healthcare / Biology
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Other
+NLP / Text,Other
+Computer Vision,Healthcare / Biology
+ML / AutoML / HPO / NAS,Other
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Other
+NLP / Text,Healthcare / Biology
+Computer Vision,Other
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Other
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Other
+Computer Vision,Healthcare / Biology
+NLP / Text,Human Sciences
+Computer Vision,Other
+Computer Vision,Other
+NLP / Text,E-commerce / Retail / Finance
+"NLP / Text,Computer Vision",E-commerce / Retail / Finance
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Other
+Computer Vision,Other
+NLP / Text,Agriculture & Food
+NLP / Text,Human Sciences
+Computer Vision,Other
+NLP / Text,E-commerce / Retail / Finance
+Computer Vision,Healthcare / Biology
+Time Series / Forecasting,"Transportation & Mobility,Hard Sciences / Mathematics"
+NLP / Text,Other
+Computer Vision,Other
+NLP / Text,Other
+"NLP / Text,Computer Vision",Healthcare / Biology
+"NLP / Text,Computer Vision",Other
+Speech / Audio,Healthcare / Biology
+Computer Vision,Transportation & Mobility
+Computer Vision,Transportation & Mobility
+Computer Vision,Transportation & Mobility
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Other
+Speech / Audio,Transportation & Mobility
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Other
+Computer Vision,Transportation & Mobility
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Other
+NLP / Text,E-commerce / Retail / Finance
+Computer Vision,Media / Social
+NLP / Text,Healthcare / Biology
+NLP / Text,Other
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Media / Social
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Other
+"NLP / Text,Computer Vision",Other
+Reinforcement Learning,Other
+"NLP / Text,Computer Vision",Other
+"NLP / Text,Computer Vision",Other
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Other
+Computer Vision,Other
+NLP / Text,Other
+NLP / Text,Other
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Other
+NLP / Text,Media / Social
+NLP / Text,Media / Social
+Computer Vision,Other
+NLP / Text,Healthcare / Biology
+Computer Vision,Other
+NLP / Text,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+ML / AutoML / HPO / NAS,Other
+NLP / Text,"E-commerce / Retail / Finance,Other"
+Computer Vision,Agriculture & Food
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Healthcare / Biology
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Other
+"NLP / Text,Computer Vision",Robotics & Autonomous
+NLP / Text,Other
+NLP / Text,Other
+NLP / Text,Climate / Energy
+NLP / Text,Climate / Energy
+NLP / Text,Healthcare / Biology
+NLP / Text,E-commerce / Retail / Finance
+Reinforcement Learning,Robotics & Autonomous
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Other
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+"Computer Vision,Speech / Audio",Healthcare / Biology
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,"Human Sciences,Media / Social"
+ML / AutoML / HPO / NAS,Other
+Computer Vision,E-commerce / Retail / Finance
+Computer Vision,E-commerce / Retail / Finance
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Other
+NLP / Text,Healthcare / Biology
+NLP / Text,Climate / Energy
+Computer Vision,Other
+NLP / Text,Media / Social
+NLP / Text,Media / Social
+"NLP / Text,Computer Vision",E-commerce / Retail / Finance
+"NLP / Text,Computer Vision",Other
+Computer Vision,Other
+Computer Vision,Healthcare / Biology
+"NLP / Text,Computer Vision",Other
+Computer Vision,Other
+Computer Vision,Robotics & Autonomous
+Computer Vision,Robotics & Autonomous
+Computer Vision,Healthcare / Biology
+NLP / Text,Human Sciences
+NLP / Text,E-commerce / Retail / Finance
+Reinforcement Learning,Climate / Energy
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Transportation & Mobility
+Computer Vision,Media / Social
+Computer Vision,Other
+Computer Vision,Robotics & Autonomous
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,"Healthcare / Biology,Media / Social"
+NLP / Text,"Healthcare / Biology,Media / Social"
+NLP / Text,Healthcare / Biology
+NLP / Text,Other
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Media / Social
+"Computer Vision,Speech / Audio",Healthcare / Biology
+Computer Vision,Hard Sciences / Mathematics
+Computer Vision,Other
+NLP / Text,Other
+Computer Vision,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Other,Other
+NLP / Text,Hard Sciences / Mathematics
+NLP / Text,Other
+Other,Healthcare / Biology
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Other
+Reinforcement Learning,Climate / Energy
+"NLP / Text,Speech / Audio",Other
+"NLP / Text,Speech / Audio",Other
+NLP / Text,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Other
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+NLP / Text,E-commerce / Retail / Finance
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,"Media / Social,Other"
+Computer Vision,"Media / Social,Other"
+Computer Vision,"Media / Social,Other"
+Computer Vision,"Media / Social,Other"
+Computer Vision,"Media / Social,Other"
+Computer Vision,"Media / Social,Other"
+Speech / Audio,Healthcare / Biology
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+"NLP / Text,Computer Vision",Other
+Computer Vision,Media / Social
+Computer Vision,Other
+NLP / Text,Healthcare / Biology
+NLP / Text,Healthcare / Biology
+Computer Vision,Media / Social
+NLP / Text,Security & Privacy
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Media / Social
+NLP / Text,Media / Social
+NLP / Text,"Security & Privacy,Media / Social"
+NLP / Text,"Security & Privacy,Media / Social"
+Computer Vision,Climate / Energy
+"NLP / Text,Computer Vision",Climate / Energy
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Media / Social
+NLP / Text,Media / Social
+Computer Vision,Media / Social
+Other,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",E-commerce / Retail / Finance
+"NLP / Text,Computer Vision",E-commerce / Retail / Finance
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Robotics & Autonomous
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Climate / Energy
+Computer Vision,Robotics & Autonomous
+Computer Vision,Climate / Energy
+Computer Vision,Healthcare / Biology
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+Computer Vision,Healthcare / Biology
+Computer Vision,Transportation & Mobility
+Computer Vision,Media / Social
+NLP / Text,"E-commerce / Retail / Finance,Security & Privacy"
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,E-commerce / Retail / Finance
+NLP / Text,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Reinforcement Learning,Robotics & Autonomous
+Reinforcement Learning,Robotics & Autonomous
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,"Media / Social,Other"
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Robotics & Autonomous
+Computer Vision,"Healthcare / Biology,Media / Social"
+Speech / Audio,"Healthcare / Biology,Other"
+Computer Vision,Robotics & Autonomous
+Computer Vision,Robotics & Autonomous
+Computer Vision,Media / Social
+NLP / Text,Healthcare / Biology
+NLP / Text,Hard Sciences / Mathematics
+NLP / Text,Climate / Energy
+Computer Vision,Media / Social
+Reinforcement Learning,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,"Hard Sciences / Mathematics,Human Sciences"
+NLP / Text,"Hard Sciences / Mathematics,Human Sciences"
+Computer Vision,Media / Social
+Reinforcement Learning,Other
+Reinforcement Learning,Other
+NLP / Text,Human Sciences
+Speech / Audio,Other
+"NLP / Text,Speech / Audio",Other
+NLP / Text,Human Sciences
+Speech / Audio,Other
+Speech / Audio,Other
+Speech / Audio,Other
+NLP / Text,E-commerce / Retail / Finance
+Reinforcement Learning,Climate / Energy
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Speech / Audio,Other
+Computer Vision,"Healthcare / Biology,Climate / Energy"
+Computer Vision,"Healthcare / Biology,Climate / Energy"
+Computer Vision,"Healthcare / Biology,Climate / Energy"
+Computer Vision,"Healthcare / Biology,Climate / Energy"
+NLP / Text,Other
+NLP / Text,Other
+Computer Vision,Media / Social
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+Speech / Audio,Other
+Computer Vision,Robotics & Autonomous
+Reinforcement Learning,Climate / Energy
+Reinforcement Learning,Climate / Energy
+Computer Vision,Other
+Computer Vision,Other
+Computer Vision,Healthcare / Biology
+Computer Vision,Other
+NLP / Text,Human Sciences
+Reinforcement Learning,Climate / Energy
+Computer Vision,Other
+Computer Vision,Other
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Security & Privacy
+Computer Vision,Media / Social
+NLP / Text,Transportation & Mobility
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Healthcare / Biology
+"NLP / Text,Computer Vision",Other
+NLP / Text,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Healthcare / Biology
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+"NLP / Text,Speech / Audio","Human Sciences,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Transportation & Mobility
+NLP / Text,Healthcare / Biology
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Human Sciences
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+NLP / Text,Healthcare / Biology
+Computer Vision,Climate / Energy
+NLP / Text,Human Sciences
+NLP / Text,Healthcare / Biology
+Speech / Audio,Other
+NLP / Text,Hard Sciences / Mathematics
+Computer Vision,Transportation & Mobility
+NLP / Text,Human Sciences
+Speech / Audio,Other
+NLP / Text,"Healthcare / Biology,Media / Social"
+NLP / Text,Other
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Transportation & Mobility
+NLP / Text,"Healthcare / Biology,Media / Social"
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+"NLP / Text,Speech / Audio",Other
+NLP / Text,Human Sciences
+NLP / Text,Hard Sciences / Mathematics
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+"NLP / Text,Speech / Audio",Other
+Computer Vision,Transportation & Mobility
+NLP / Text,Human Sciences
+NLP / Text,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+ML / AutoML / HPO / NAS,Other
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Healthcare / Biology
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+Computer Vision,"Healthcare / Biology,Media / Social"
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+Computer Vision,"Healthcare / Biology,Media / Social"
+Computer Vision,Healthcare / Biology
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,E-commerce / Retail / Finance
+NLP / Text,"Human Sciences,Media / Social"
+Speech / Audio,Other
+NLP / Text,Human Sciences
+Computer Vision,Transportation & Mobility
+NLP / Text,Human Sciences
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,"Healthcare / Biology,Human Sciences"
+NLP / Text,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Transportation & Mobility
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Other
+NLP / Text,Human Sciences
+Speech / Audio,Other
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+Computer Vision,Transportation & Mobility
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Agriculture & Food
+Computer Vision,Transportation & Mobility
+NLP / Text,"Healthcare / Biology,Media / Social"
+Computer Vision,"Transportation & Mobility,Media / Social"
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Human Sciences
+NLP / Text,Human Sciences
+ML / AutoML / HPO / NAS,Other
+Computer Vision,Media / Social
+NLP / Text,E-commerce / Retail / Finance
+NLP / Text,"Healthcare / Biology,Media / Social"
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Agriculture & Food
+NLP / Text,Climate / Energy
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Healthcare / Biology
+NLP / Text,Human Sciences
+ML / AutoML / HPO / NAS,Other
+Speech / Audio,Other
+Computer Vision,"Robotics & Autonomous,Media / Social"
+Computer Vision,Agriculture & Food
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+"NLP / Text,Computer Vision",Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+ML / AutoML / HPO / NAS,Other
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Agriculture & Food
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Speech / Audio,Other
+Speech / Audio,Other
+NLP / Text,Healthcare / Biology
+Speech / Audio,Other
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,"Healthcare / Biology,Human Sciences"
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Transportation & Mobility
+ML / AutoML / HPO / NAS,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Healthcare / Biology
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+NLP / Text,"Healthcare / Biology,Media / Social"
+NLP / Text,"Healthcare / Biology,Media / Social"
+Computer Vision,Agriculture & Food
+NLP / Text,"Hard Sciences / Mathematics,Human Sciences"
+NLP / Text,Human Sciences
+NLP / Text,Media / Social
+NLP / Text,"Hard Sciences / Mathematics,Human Sciences"
+"NLP / Text,Computer Vision",Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision","Security & Privacy,Media / Social"
+Computer Vision,"Transportation & Mobility,Media / Social"
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Speech / Audio,Other
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,"Transportation & Mobility,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Other
+NLP / Text,"Security & Privacy,Human Sciences"
+NLP / Text,Healthcare / Biology
+Speech / Audio,Other
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,"Transportation & Mobility,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Agriculture & Food
+Computer Vision,"Transportation & Mobility,Media / Social"
+Computer Vision,Healthcare / Biology
+NLP / Text,Hard Sciences / Mathematics
+ML / AutoML / HPO / NAS,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Reinforcement Learning,Other
+NLP / Text,Climate / Energy
+Speech / Audio,Other
+Speech / Audio,Other
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Other,Other
+Other,Other
+Other,Other
+NLP / Text,Human Sciences
+NLP / Text,Climate / Energy
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Healthcare / Biology
+"NLP / Text,Computer Vision",Healthcare / Biology
+Reinforcement Learning,E-commerce / Retail / Finance
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Transportation & Mobility
+Computer Vision,Transportation & Mobility
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Media / Social
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Climate / Energy
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+NLP / Text,"Security & Privacy,Human Sciences,Media / Social"
+Computer Vision,"Transportation & Mobility,Media / Social"
+Computer Vision,"Transportation & Mobility,Media / Social"
+Computer Vision,"Transportation & Mobility,Media / Social"
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+"NLP / Text,Computer Vision",Media / Social
+"NLP / Text,Computer Vision",Media / Social
+"NLP / Text,Computer Vision,Speech / Audio",Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Agriculture & Food
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Security & Privacy
+Computer Vision,Robotics & Autonomous
+NLP / Text,Other
+NLP / Text,"Human Sciences,Media / Social"
+ML / AutoML / HPO / NAS,Other
+Computer Vision,"Security & Privacy,Media / Social"
+NLP / Text,E-commerce / Retail / Finance
+Computer Vision,"Security & Privacy,Media / Social"
+Computer Vision,"Security & Privacy,Media / Social"
+Computer Vision,"Security & Privacy,Media / Social"
+Computer Vision,"Healthcare / Biology,Media / Social"
+Computer Vision,"Healthcare / Biology,Media / Social"
+"NLP / Text,Computer Vision",E-commerce / Retail / Finance
+"Computer Vision,Speech / Audio",Media / Social
+"Computer Vision,Speech / Audio",Media / Social
+Reinforcement Learning,Other
+"Computer Vision,ML / AutoML / HPO / NAS",Media / Social
+"Computer Vision,ML / AutoML / HPO / NAS",Media / Social
+"Computer Vision,ML / AutoML / HPO / NAS",Media / Social
+ML / AutoML / HPO / NAS,Other
+ML / AutoML / HPO / NAS,Other
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+"NLP / Text,Computer Vision",Media / Social
+Computer Vision,Media / Social
+ML / AutoML / HPO / NAS,Other
+Computer Vision,"Agriculture & Food,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+Computer Vision,Media / Social
+Computer Vision,"Transportation & Mobility,Media / Social"
+NLP / Text,"Healthcare / Biology,Media / Social"
+Computer Vision,Other
+Speech / Audio,Other
+Speech / Audio,Other
+Speech / Audio,Other
+Computer Vision,"Healthcare / Biology,Media / Social"
+Computer Vision,Media / Social
+NLP / Text,"E-commerce / Retail / Finance,Human Sciences"
+Computer Vision,Media / Social
+ML / AutoML / HPO / NAS,Other
+Computer Vision,"Transportation & Mobility,Media / Social"
+NLP / Text,Media / Social
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Computer Vision,Healthcare / Biology
+Computer Vision,"Climate / Energy,Transportation & Mobility,Hard Sciences / Mathematics,Media / Social"
+Computer Vision,Robotics & Autonomous
+NLP / Text,Human Sciences
+Computer Vision,"Transportation & Mobility,Media / Social"
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+Computer Vision,"Transportation & Mobility,Hard Sciences / Mathematics"
+NLP / Text,Human Sciences
+NLP / Text,Human Sciences
+Reinforcement Learning,Other
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Speech / Audio,Other
+Computer Vision,Media / Social
+Speech / Audio,Other
+NLP / Text,"Healthcare / Biology,Human Sciences"
+Computer Vision,Media / Social
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+NLP / Text,"Human Sciences,Media / Social"
+NLP / Text,Human Sciences
+ML / AutoML / HPO / NAS,Media / Social
+ML / AutoML / HPO / NAS,Human Sciences
+ML / AutoML / HPO / NAS,Other
+ML / AutoML / HPO / NAS,Other
+ML / AutoML / HPO / NAS,Other
+ML / AutoML / HPO / NAS,Other
+ML / AutoML / HPO / NAS,Other
+ML / AutoML / HPO / NAS,Other
+Computer Vision,Healthcare / Biology
+"NLP / Text,Computer Vision",E-commerce / Retail / Finance
+NLP / Text,Human Sciences
+Computer Vision,Media / Social
+Computer Vision,Media / Social
+Reinforcement Learning,Other
+"Speech / Audio,ML / AutoML / HPO / NAS",Other
+ML / AutoML / HPO / NAS,Other
+"Speech / Audio,ML / AutoML / HPO / NAS",Other
