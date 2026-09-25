@@ -371,7 +371,7 @@ Computer Vision;Media / Social
 Computer Vision;Media / Social
 Computer Vision;Media / Social
 Computer Vision;Media / Social
-Computer Vision;Other
+Computer Vision;Media / Social
 Computer Vision;Media / Social
 Computer Vision;Media / Social
 NLP / Text;Human Sciences
@@ -388,7 +388,7 @@ Computer Vision;Media / Social
 Computer Vision;Media / Social
 Computer Vision;Robotics & Autonomous
 Computer Vision;Healthcare / Biology,Media / Social
-Speech / Audio;Healthcare / Biology,Other
+Speech / Audio;Healthcare / Biology,Media / Social
 Computer Vision;Robotics & Autonomous
 Computer Vision;Robotics & Autonomous
 Computer Vision;Media / Social
@@ -404,17 +404,17 @@ Computer Vision;Media / Social
 Reinforcement Learning;Other
 Reinforcement Learning;Other
 NLP / Text;Human Sciences
-Speech / Audio;Other
-NLP / Text,Speech / Audio;Other
+Speech / Audio;Media / Social
+NLP / Text,Speech / Audio;Media / Social
 NLP / Text;Human Sciences
-Speech / Audio;Other
-Speech / Audio;Other
-Speech / Audio;Other
+Speech / Audio;Media / Social
+Speech / Audio;Media / Social
+Speech / Audio;Media / Social
 NLP / Text;E-commerce / Retail / Finance
 Reinforcement Learning;Climate / Energy
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
-Speech / Audio;Other
+Speech / Audio;Media / Social
 Computer Vision;Healthcare / Biology,Climate / Energy
 Computer Vision;Healthcare / Biology,Climate / Energy
 Computer Vision;Healthcare / Biology,Climate / Energy
@@ -424,7 +424,7 @@ NLP / Text;Other
 Computer Vision;Media / Social
 NLP / Text;Human Sciences,Media / Social
 NLP / Text;Human Sciences,Media / Social
-Speech / Audio;Other
+Speech / Audio;Media / Social
 Computer Vision;Robotics & Autonomous
 Reinforcement Learning;Climate / Energy
 Reinforcement Learning;Climate / Energy
@@ -476,11 +476,11 @@ NLP / Text;Healthcare / Biology
 Computer Vision;Climate / Energy
 NLP / Text;Human Sciences
 NLP / Text;Healthcare / Biology
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Hard Sciences / Mathematics
 Computer Vision;Transportation & Mobility
 NLP / Text;Human Sciences
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Healthcare / Biology,Media / Social
 NLP / Text;Other
 NLP / Text;Human Sciences,Media / Social
@@ -489,13 +489,13 @@ NLP / Text;Healthcare / Biology,Media / Social
 Computer Vision;Media / Social
 Computer Vision;Media / Social
 NLP / Text;Human Sciences
-NLP / Text,Speech / Audio;Other
+NLP / Text,Speech / Audio;Media / Social
 NLP / Text;Human Sciences
 NLP / Text;Hard Sciences / Mathematics
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
 NLP / Text,Computer Vision;Media / Social
-NLP / Text,Speech / Audio;Other
+NLP / Text,Speech / Audio;Media / Social
 Computer Vision;Transportation & Mobility
 NLP / Text;Human Sciences
 NLP / Text;Media / Social
@@ -517,7 +517,7 @@ NLP / Text;Human Sciences
 Computer Vision;Media / Social
 NLP / Text;E-commerce / Retail / Finance
 NLP / Text;Human Sciences,Media / Social
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Human Sciences
 Computer Vision;Transportation & Mobility
 NLP / Text;Human Sciences
@@ -537,7 +537,7 @@ NLP / Text;Human Sciences
 NLP / Text;Human Sciences
 NLP / Text,Computer Vision;Other
 NLP / Text;Human Sciences
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Human Sciences
 Computer Vision;Media / Social
 NLP / Text,Computer Vision;Media / Social
@@ -580,7 +580,7 @@ Computer Vision;Media / Social
 Computer Vision;Healthcare / Biology
 NLP / Text;Human Sciences
 ML / AutoML / HPO / NAS;Other
-Speech / Audio;Other
+Speech / Audio;Media / Social
 Computer Vision;Robotics & Autonomous,Media / Social
 Computer Vision;Agriculture & Food
 NLP / Text;Human Sciences
@@ -599,10 +599,10 @@ Computer Vision;Agriculture & Food
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
-Speech / Audio;Other
-Speech / Audio;Other
+Speech / Audio;Media / Social
+Speech / Audio;Media / Social
 NLP / Text;Healthcare / Biology
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Human Sciences,Media / Social
 NLP / Text;Healthcare / Biology,Human Sciences
 NLP / Text;Human Sciences
@@ -640,7 +640,7 @@ Computer Vision;Media / Social
 NLP / Text,Computer Vision;Media / Social
 Computer Vision;Media / Social
 Computer Vision;Media / Social
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
@@ -651,7 +651,7 @@ Computer Vision;Media / Social
 NLP / Text,Computer Vision;Other
 NLP / Text;Security & Privacy,Human Sciences
 NLP / Text;Healthcare / Biology
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
@@ -670,13 +670,13 @@ Computer Vision;Media / Social
 Computer Vision;Media / Social
 Reinforcement Learning;Other
 NLP / Text;Climate / Energy
-Speech / Audio;Other
-Speech / Audio;Other
+Speech / Audio;Media / Social
+Speech / Audio;Media / Social
 NLP / Text;Human Sciences
 NLP / Text;Human Sciences
-Other;Other
-Other;Other
-Other;Other
+Other;Media / Social
+Other;Media / Social
+Other;Media / Social
 NLP / Text;Human Sciences
 NLP / Text;Climate / Energy
 NLP / Text;Human Sciences
@@ -777,9 +777,9 @@ Computer Vision;Media / Social
 Computer Vision;Transportation & Mobility,Media / Social
 NLP / Text;Healthcare / Biology,Media / Social
 Computer Vision;Other
-Speech / Audio;Other
-Speech / Audio;Other
-Speech / Audio;Other
+Speech / Audio;Media / Social
+Speech / Audio;Media / Social
+Speech / Audio;Media / Social
 Computer Vision;Healthcare / Biology,Media / Social
 Computer Vision;Media / Social
 NLP / Text;E-commerce / Retail / Finance,Human Sciences
@@ -802,9 +802,9 @@ NLP / Text;Human Sciences
 Reinforcement Learning;Other
 Computer Vision;Media / Social
 NLP / Text;Human Sciences
-Speech / Audio;Other
+Speech / Audio;Media / Social
 Computer Vision;Media / Social
-Speech / Audio;Other
+Speech / Audio;Media / Social
 NLP / Text;Healthcare / Biology,Human Sciences
 Computer Vision;Media / Social
 NLP / Text;Human Sciences
@@ -814,7 +814,7 @@ NLP / Text;Human Sciences,Media / Social
 NLP / Text;Human Sciences
 ML / AutoML / HPO / NAS;Media / Social
 ML / AutoML / HPO / NAS;Human Sciences
-ML / AutoML / HPO / NAS;Other
+ML / AutoML / HPO / NAS;Media / Social
 ML / AutoML / HPO / NAS;Other
 ML / AutoML / HPO / NAS;Other
 ML / AutoML / HPO / NAS;Other
@@ -826,6 +826,6 @@ NLP / Text;Human Sciences
 Computer Vision;Media / Social
 Computer Vision;Media / Social
 Reinforcement Learning;Other
-Speech / Audio,ML / AutoML / HPO / NAS;Other
-ML / AutoML / HPO / NAS;Other
-Speech / Audio,ML / AutoML / HPO / NAS;Other
+Speech / Audio,ML / AutoML / HPO / NAS;Media / Social
+ML / AutoML / HPO / NAS,Graph / Networks;Other
+Speech / Audio,ML / AutoML / HPO / NAS;Media / Social
