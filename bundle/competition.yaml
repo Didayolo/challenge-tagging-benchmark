@@ -4,7 +4,7 @@ description: Automatically assign ML methodology and application-domain taxonomy
   to Codabench competitions from their titles and descriptions.
 image: logo.png
 terms: pages/terms.md
-docker_image: codalab/codalab-legacy:py312
+docker_image: ayemane1/codabench-tagging:py312
 registration_auto_approve: true
 make_programs_available: false
 make_input_data_available: false
