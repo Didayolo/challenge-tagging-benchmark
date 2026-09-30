@@ -829,3 +829,1373 @@ Reinforcement Learning;Other
 Speech / Audio,ML / AutoML / HPO / NAS;Media / Social
 ML / AutoML / HPO / NAS,Graph / Networks;Other
 Speech / Audio,ML / AutoML / HPO / NAS;Media / Social
+Other;Healthcare / Biology
+Other;E-commerce / Retail / Finance
+Graph / Networks;Other
+Tabular / Classical ML;Agriculture & Food
+ML / AutoML / HPO / NAS;Other
+NLP / Text;Human Sciences
+Other;Other
+NLP / Text;Human Sciences
+Other;Other
+Tabular / Classical ML;Hard Sciences / Mathematics
+Algorithmics / non-ML;Security & Privacy
+Algorithmics / non-ML;Security & Privacy
+Algorithmics / non-ML;Security & Privacy
+ML / AutoML / HPO / NAS;Other
+ML / AutoML / HPO / NAS;Other
+Tabular / Classical ML;Other
+NLP / Text,Generative / LLM;Human Sciences
+ML / AutoML / HPO / NAS;Other
+ML / AutoML / HPO / NAS;Other
+ML / AutoML / HPO / NAS;Other
+Generative / LLM;Other
+NLP / Text,Generative / LLM;Human Sciences
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text,Generative / LLM;Human Sciences
+NLP / Text,Generative / LLM;Other
+Computer Vision;Other
+Other;Hard Sciences / Mathematics
+Other;Hard Sciences / Mathematics
+Other;Other
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision,Speech / Audio;Other
+Computer Vision,Speech / Audio;Other
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision;Other
+Reinforcement Learning;Climate / Energy
+Other;Climate / Energy
+Other;Other
+Speech / Audio;Robotics & Autonomous
+Computer Vision;Hard Sciences / Mathematics
+NLP / Text,Generative / LLM;Healthcare / Biology
+NLP / Text;Other
+Tabular / Classical ML;Other
+Tabular / Classical ML;Other
+Computer Vision;Other
+NLP / Text,Generative / LLM;Security & Privacy,Human Sciences,Media / Social
+NLP / Text;Other
+Other;Healthcare / Biology,Human Sciences
+Tabular / Classical ML;Healthcare / Biology
+Other;Security & Privacy
+Other;Security & Privacy
+Other;Security & Privacy
+Other;Healthcare / Biology,Human Sciences
+Other;Security & Privacy
+Computer Vision;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+Reinforcement Learning;Climate / Energy
+NLP / Text;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+NLP / Text;Hard Sciences / Mathematics
+NLP / Text;Other
+Computer Vision;Other
+Algorithmics / non-ML;Other
+NLP / Text;Healthcare / Biology
+Computer Vision;Robotics & Autonomous
+NLP / Text,Generative / LLM;Other
+NLP / Text;Healthcare / Biology
+NLP / Text;Media / Social
+Computer Vision;Other
+Other;Robotics & Autonomous
+Computer Vision;Other
+NLP / Text;Media / Social
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision;Security & Privacy
+Time Series / Forecasting;Hard Sciences / Mathematics
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision,Time Series / Forecasting;Hard Sciences / Mathematics
+NLP / Text;Healthcare / Biology,Human Sciences,Media / Social
+NLP / Text;Human Sciences
+Computer Vision;Healthcare / Biology
+NLP / Text,Computer Vision;Media / Social
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Tabular / Classical ML;Agriculture & Food
+Other;Hard Sciences / Mathematics
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision;Healthcare / Biology
+NLP / Text,Generative / LLM;Human Sciences
+Tabular / Classical ML;Hard Sciences / Mathematics
+Tabular / Classical ML;Agriculture & Food
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text,Algorithmics / non-ML;Hard Sciences / Mathematics
+Generative / LLM;Hard Sciences / Mathematics
+Generative / LLM,Algorithmics / non-ML;Hard Sciences / Mathematics
+Tabular / Classical ML,NLP / Text;E-commerce / Retail / Finance,Media / Social
+NLP / Text,Algorithmics / non-ML;Hard Sciences / Mathematics
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Generative / LLM;E-commerce / Retail / Finance,Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision;Human Sciences
+Computer Vision;Human Sciences
+Time Series / Forecasting;Hard Sciences / Mathematics
+Speech / Audio;Media / Social
+NLP / Text;Other
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+Speech / Audio;Other
+Speech / Audio;Other
+Computer Vision,Time Series / Forecasting;Healthcare / Biology
+Computer Vision,Time Series / Forecasting;Healthcare / Biology
+NLP / Text;Other
+Computer Vision;Media / Social
+Generative / LLM;Hard Sciences / Mathematics
+NLP / Text,Computer Vision;Other
+NLP / Text,Computer Vision;Other
+Other;Other
+Computer Vision;Human Sciences,Media / Social
+Time Series / Forecasting;Climate / Energy
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision;Security & Privacy
+Generative / LLM;Hard Sciences / Mathematics
+Tabular / Classical ML;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Other;Other
+Other;Human Sciences
+Computer Vision;Other
+Computer Vision;Hard Sciences / Mathematics
+Tabular / Classical ML;Agriculture & Food
+Computer Vision;Media / Social
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision;Other
+NLP / Text,Computer Vision;Other
+Computer Vision;Healthcare / Biology
+Generative / LLM;Other
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Other
+Other;Other
+Tabular / Classical ML;Agriculture & Food
+Other;Other
+Time Series / Forecasting;Climate / Energy,Hard Sciences / Mathematics
+NLP / Text;Human Sciences
+Time Series / Forecasting;Climate / Energy
+Time Series / Forecasting;Climate / Energy
+Tabular / Classical ML;Hard Sciences / Mathematics
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text,Generative / LLM;Security & Privacy
+Time Series / Forecasting;Other
+NLP / Text;Healthcare / Biology,Media / Social
+Computer Vision,Generative / LLM;Other
+Other;Other
+NLP / Text;Other
+Tabular / Classical ML;Other
+Other;Other
+Computer Vision;Hard Sciences / Mathematics
+NLP / Text;Other
+NLP / Text;Other
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text;Other
+NLP / Text;Other
+NLP / Text;Other
+NLP / Text,Generative / LLM;Human Sciences
+Computer Vision,Generative / LLM;Other
+Computer Vision,Generative / LLM;Other
+Computer Vision,Generative / LLM;Other
+Other;Hard Sciences / Mathematics
+Speech / Audio;Other
+Time Series / Forecasting;Other
+Computer Vision;Other
+Other;Agriculture & Food
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Other
+NLP / Text;Other
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Security & Privacy,Media / Social
+NLP / Text;Other
+Other;Agriculture & Food
+Tabular / Classical ML;Agriculture & Food
+Computer Vision;Security & Privacy
+NLP / Text,Generative / LLM;Media / Social
+Computer Vision;Security & Privacy
+NLP / Text;Media / Social
+NLP / Text,Generative / LLM;Other
+NLP / Text;Media / Social
+Computer Vision,Graph / Networks;Other
+Tabular / Classical ML;Agriculture & Food
+Algorithmics / non-ML;Other
+Time Series / Forecasting;Other
+Other;Other
+Other;Security & Privacy
+NLP / Text;Other
+NLP / Text;Media / Social
+NLP / Text;E-commerce / Retail / Finance,Media / Social
+NLP / Text;Healthcare / Biology
+Computer Vision;Healthcare / Biology,Media / Social
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Other
+Time Series / Forecasting;Climate / Energy
+Computer Vision;Other
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision;Media / Social
+NLP / Text;Other
+Computer Vision,Time Series / Forecasting,Reinforcement Learning;E-commerce / Retail / Finance
+Computer Vision;Media / Social
+Computer Vision;Media / Social
+Computer Vision;Media / Social
+Computer Vision;Media / Social
+Computer Vision;Media / Social
+Computer Vision;Agriculture & Food
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Robotics & Autonomous,Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Healthcare / Biology
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+NLP / Text,Generative / LLM;Human Sciences
+Generative / LLM,Tabular / Classical ML;Security & Privacy
+Generative / LLM,Tabular / Classical ML;Security & Privacy
+Generative / LLM,Tabular / Classical ML;Security & Privacy
+Tabular / Classical ML;Healthcare / Biology
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Tabular / Classical ML;Agriculture & Food
+NLP / Text,Computer Vision;Other
+Computer Vision;Other
+NLP / Text,Computer Vision;Other
+NLP / Text,Speech / Audio;Other
+Computer Vision;Media / Social
+Computer Vision;Healthcare / Biology
+Speech / Audio;Healthcare / Biology,Security & Privacy
+NLP / Text,Speech / Audio;Other
+NLP / Text,Computer Vision;Other
+NLP / Text,Computer Vision;Other
+NLP / Text,Computer Vision;Other
+NLP / Text,Computer Vision;Other
+NLP / Text,Computer Vision;Other
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text;Other
+Computer Vision;Other
+NLP / Text;Other
+ML / AutoML / HPO / NAS;Other
+Computer Vision;Robotics & Autonomous
+NLP / Text,Generative / LLM;Healthcare / Biology
+Other;Other
+Computer Vision;Transportation & Mobility
+Computer Vision;Transportation & Mobility
+Computer Vision;Transportation & Mobility
+NLP / Text;Other
+Computer Vision,Generative / LLM;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+Other;E-commerce / Retail / Finance
+NLP / Text,Graph / Networks;Other
+NLP / Text;Media / Social
+Other;Healthcare / Biology
+NLP / Text,Generative / LLM;Human Sciences
+NLP / Text,Tabular / Classical ML;Other
+Other;Hard Sciences / Mathematics
+Computer Vision;Other
+Other;Other
+NLP / Text;Other
+NLP / Text,Generative / LLM;Media / Social
+Computer Vision,Generative / LLM;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Robotics & Autonomous
+Computer Vision;Robotics & Autonomous
+NLP / Text;Other
+Other;Other
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Other
+NLP / Text;Human Sciences
+Computer Vision;Other
+NLP / Text;Media / Social
+Speech / Audio;Other
+Graph / Networks;Robotics & Autonomous
+Other;Other
+NLP / Text;Healthcare / Biology,Human Sciences,Media / Social
+Other;Healthcare / Biology
+Tabular / Classical ML;Agriculture & Food
+Computer Vision,NLP / Text;Hard Sciences / Mathematics
+Computer Vision;Agriculture & Food
+NLP / Text;Human Sciences,Media / Social
+NLP / Text,Generative / LLM;Other
+NLP / Text;Other
+Other;Other
+Tabular / Classical ML;Other
+Reinforcement Learning,Tabular / Classical ML;Other
+Other;Media / Social
+Other;Other
+NLP / Text;Media / Social
+Other;Media / Social
+Other;Healthcare / Biology,Human Sciences
+NLP / Text;Media / Social
+NLP / Text;E-commerce / Retail / Finance,Media / Social
+NLP / Text;E-commerce / Retail / Finance,Media / Social
+NLP / Text;E-commerce / Retail / Finance,Media / Social
+Other;Other
+NLP / Text;Media / Social
+NLP / Text;Human Sciences,Media / Social
+NLP / Text;Media / Social
+Other;Other
+Other;Other
+Other;Climate / Energy,Human Sciences,Media / Social
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+NLP / Text;Other
+Other;E-commerce / Retail / Finance
+NLP / Text;Other
+Other;Media / Social
+Other;Healthcare / Biology,Media / Social
+Other;Media / Social
+NLP / Text;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+NLP / Text;Media / Social
+Other;Other
+Other;Media / Social
+Computer Vision;Media / Social
+Computer Vision;Security & Privacy
+Computer Vision,Generative / LLM;Other
+Computer Vision;Other
+Generative / LLM;Healthcare / Biology
+Computer Vision;Other
+Other;Other
+Other;Media / Social
+Other;Other
+Computer Vision;Other
+Computer Vision;Healthcare / Biology
+Computer Vision,Generative / LLM;Healthcare / Biology
+Computer Vision,Generative / LLM;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Other;Healthcare / Biology
+Computer Vision;Security & Privacy
+Computer Vision;Healthcare / Biology
+Tabular / Classical ML;Agriculture & Food
+NLP / Text,Computer Vision;Other
+Other;Other
+Other;Other
+NLP / Text,Generative / LLM;Other
+Other;Other
+Other;Human Sciences
+Computer Vision;Other
+Other;Human Sciences
+Other;Human Sciences
+Other;Human Sciences
+Other;Security & Privacy
+Other;Human Sciences
+Tabular / Classical ML;Other
+NLP / Text;Human Sciences
+Computer Vision;Other
+NLP / Text;Other
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Computer Vision;Robotics & Autonomous,Agriculture & Food
+NLP / Text,Computer Vision;Other
+NLP / Text;Healthcare / Biology
+NLP / Text;Media / Social
+Other;Other
+Computer Vision;Healthcare / Biology
+Computer Vision;Other
+Tabular / Classical ML;Agriculture & Food
+Computer Vision;Healthcare / Biology
+Other;Other
+NLP / Text;Other
+Other;E-commerce / Retail / Finance
+Other;Other
+NLP / Text,Computer Vision;Other
+Other;Other
+Other;Other
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision,Generative / LLM;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Other
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Tabular / Classical ML;Agriculture & Food
+Tabular / Classical ML;Agriculture & Food
+Other;Other
+Other;Other
+Other;Other
+Tabular / Classical ML;Climate / Energy,Security & Privacy,Hard Sciences / Mathematics
+Generative / LLM;Healthcare / Biology
+NLP / Text,Computer Vision;Other
+NLP / Text,Computer Vision;Other
+Tabular / Classical ML;Climate / Energy,Security & Privacy,Hard Sciences / Mathematics
+Other;Other
+Computer Vision;Other
+Other;Other
+Other;Other
+Computer Vision,Generative / LLM;Other
+Other;Healthcare / Biology
+Algorithmics / non-ML;Healthcare / Biology,Hard Sciences / Mathematics
+Computer Vision;Other
+Tabular / Classical ML;Agriculture & Food
+Other;Other
+Other;Media / Social
+NLP / Text;Hard Sciences / Mathematics
+Graph / Networks;Other
+Other;Other
+Other;Hard Sciences / Mathematics
+NLP / Text;Other
+NLP / Text,Generative / LLM;Other
+Computer Vision;Human Sciences,Media / Social
+Other;Other
+NLP / Text;Hard Sciences / Mathematics
+Other;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Human Sciences,Media / Social
+Computer Vision;Other
+Time Series / Forecasting;Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision;Agriculture & Food
+Generative / LLM;Other
+NLP / Text;Human Sciences
+Generative / LLM;Other
+Computer Vision;Other
+Speech / Audio;Human Sciences
+Other;Healthcare / Biology,Human Sciences
+Speech / Audio;Other
+Other;Other
+Other;Other
+NLP / Text;Healthcare / Biology,Human Sciences
+Other;Other
+Other;Other
+NLP / Text;Hard Sciences / Mathematics
+Computer Vision;Other
+Other;Healthcare / Biology,Human Sciences
+NLP / Text,Computer Vision;Healthcare / Biology
+NLP / Text;Hard Sciences / Mathematics
+Generative / LLM;Healthcare / Biology,Human Sciences
+NLP / Text,Computer Vision;Other
+NLP / Text;Hard Sciences / Mathematics
+Computer Vision,Generative / LLM;Healthcare / Biology
+Other;Other
+Computer Vision;Other
+Computer Vision;Healthcare / Biology
+Computer Vision,Generative / LLM;Healthcare / Biology
+Computer Vision,Generative / LLM;Healthcare / Biology
+Computer Vision;Other
+Computer Vision,Graph / Networks;Robotics & Autonomous
+Computer Vision;Hard Sciences / Mathematics
+Other;Healthcare / Biology,Human Sciences
+Computer Vision;Media / Social
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+Computer Vision;Healthcare / Biology
+Computer Vision;Other
+Generative / LLM;Human Sciences
+Generative / LLM;Human Sciences
+Tabular / Classical ML;Agriculture & Food
+NLP / Text,Generative / LLM;Other
+NLP / Text;Other
+NLP / Text,Generative / LLM;Other
+NLP / Text;Media / Social
+NLP / Text,Generative / LLM;Other
+Computer Vision;Agriculture & Food
+Algorithmics / non-ML;Hard Sciences / Mathematics
+Tabular / Classical ML;Hard Sciences / Mathematics
+Computer Vision;Other
+Other;Hard Sciences / Mathematics
+Computer Vision;Security & Privacy
+NLP / Text,Computer Vision;Robotics & Autonomous
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Human Sciences
+NLP / Text;Other
+Other;Other
+NLP / Text,Computer Vision,Generative / LLM;Robotics & Autonomous,Transportation & Mobility
+Computer Vision,Generative / LLM;Other
+NLP / Text;Human Sciences
+Tabular / Classical ML;Agriculture & Food
+Tabular / Classical ML;Other
+Computer Vision;Healthcare / Biology
+Other;Other
+Computer Vision,NLP / Text,Generative / LLM;Other
+NLP / Text,ML / AutoML / HPO / NAS;Other
+Other;Other
+Computer Vision,Generative / LLM;Other
+Computer Vision,Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Healthcare / Biology
+Computer Vision,Speech / Audio;Other
+Computer Vision;Robotics & Autonomous
+Computer Vision;Healthcare / Biology,Media / Social
+Computer Vision;Healthcare / Biology,Media / Social
+NLP / Text,Computer Vision;Human Sciences,Transportation & Mobility
+Other;Other
+Time Series / Forecasting,Tabular / Classical ML;Climate / Energy
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+Computer Vision,Graph / Networks;Robotics & Autonomous
+Reinforcement Learning;Other
+ML / AutoML / HPO / NAS;Other
+Other;Other
+Other;Healthcare / Biology
+Generative / LLM;Media / Social
+Other;Human Sciences
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Robotics & Autonomous
+Computer Vision;Transportation & Mobility
+Speech / Audio;Other
+Other;Other
+NLP / Text;Other
+Time Series / Forecasting;Other
+NLP / Text,Generative / LLM;Human Sciences
+NLP / Text,Generative / LLM;Human Sciences
+NLP / Text,Generative / LLM;Human Sciences
+Computer Vision;Other
+Time Series / Forecasting;Climate / Energy,Agriculture & Food
+Computer Vision;Robotics & Autonomous
+Algorithmics / non-ML;Other
+NLP / Text,Generative / LLM;Human Sciences
+NLP / Text;Other
+Other;Other
+Time Series / Forecasting;Other
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Other;Healthcare / Biology
+Speech / Audio,Generative / LLM;Security & Privacy
+Generative / LLM;Security & Privacy
+Other;Healthcare / Biology,Human Sciences,Media / Social
+Computer Vision;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Transportation & Mobility
+Computer Vision;Transportation & Mobility
+Computer Vision;Transportation & Mobility
+Computer Vision;Transportation & Mobility
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Human Sciences
+Tabular / Classical ML;Agriculture & Food
+NLP / Text,Generative / LLM;Human Sciences
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Human Sciences
+NLP / Text,Generative / LLM;Other
+Computer Vision;Media / Social
+Computer Vision,NLP / Text;Human Sciences
+Other;Other
+NLP / Text;Media / Social,Security & Privacy
+Computer Vision;Media / Social
+Time Series / Forecasting;Climate / Energy
+Other;Other
+Other;Other
+Tabular / Classical ML;Robotics & Autonomous
+Other;Other
+NLP / Text;Other
+NLP / Text,Generative / LLM;Human Sciences
+Computer Vision;Other
+NLP / Text,Computer Vision;Other
+Computer Vision;Other
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+Computer Vision,Generative / LLM;Security & Privacy,Media / Social
+NLP / Text;Other
+NLP / Text;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Computer Vision;Agriculture & Food
+Time Series / Forecasting;Climate / Energy
+NLP / Text;Other
+NLP / Text;Other
+NLP / Text;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text,Computer Vision;Other
+NLP / Text;Hard Sciences / Mathematics
+NLP / Text;Hard Sciences / Mathematics
+Computer Vision;Robotics & Autonomous
+Time Series / Forecasting,Tabular / Classical ML;E-commerce / Retail / Finance
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text;Other
+NLP / Text;Other
+Tabular / Classical ML;Healthcare / Biology
+Other;Security & Privacy
+NLP / Text;Media / Social,Human Sciences
+Other;Security & Privacy
+NLP / Text;Media / Social,Human Sciences
+Time Series / Forecasting;Climate / Energy
+Computer Vision;Other
+Speech / Audio;Other
+Other;Other
+NLP / Text;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+Tabular / Classical ML;Hard Sciences / Mathematics
+Algorithmics / non-ML;Transportation & Mobility
+Speech / Audio;Security & Privacy
+Computer Vision,Time Series / Forecasting;Media / Social
+Computer Vision,Time Series / Forecasting;Media / Social
+NLP / Text;Security & Privacy,Media / Social
+NLP / Text;Human Sciences
+NLP / Text;Other
+Computer Vision;Hard Sciences / Mathematics
+NLP / Text;Other
+NLP / Text;Media / Social
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text;Other
+Computer Vision;Media / Social
+Computer Vision;Media / Social
+Computer Vision;Other
+NLP / Text;Other
+NLP / Text;Media / Social,Human Sciences
+Algorithmics / non-ML;Climate / Energy
+Time Series / Forecasting;Transportation & Mobility,Hard Sciences / Mathematics
+Generative / LLM;Other
+Other;Other
+Computer Vision;Other
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision;Media / Social
+NLP / Text,Generative / LLM;Security & Privacy
+Tabular / Classical ML;Agriculture & Food
+Computer Vision;Media / Social
+Other;Other
+Computer Vision;Other
+NLP / Text,Computer Vision,Speech / Audio;Security & Privacy
+Computer Vision,NLP / Text;Media / Social,Human Sciences
+NLP / Text;Media / Social,Human Sciences
+NLP / Text;Media / Social
+Other;Other
+NLP / Text,Generative / LLM;Other
+Other;Healthcare / Biology
+Generative / LLM;Human Sciences,Media / Social
+Computer Vision,NLP / Text;Media / Social,Human Sciences
+Generative / LLM;Human Sciences
+Computer Vision;Other
+Computer Vision;Media / Social
+Time Series / Forecasting;Hard Sciences / Mathematics
+Computer Vision;Other
+Other;Other
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Computer Vision,Generative / LLM;Healthcare / Biology
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Other
+Computer Vision;Hard Sciences / Mathematics
+Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Other
+Speech / Audio;Human Sciences
+Computer Vision;Other
+ML / AutoML / HPO / NAS;Other
+NLP / Text;Other
+Tabular / Classical ML;Human Sciences
+Other;Other
+NLP / Text;Healthcare / Biology
+Computer Vision;Media / Social
+Computer Vision;Media / Social
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision;Robotics & Autonomous
+NLP / Text,Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Healthcare / Biology
+NLP / Text,Generative / LLM;Other
+Other;Other
+Computer Vision;Other
+Computer Vision;Other
+Other;Other
+Tabular / Classical ML;Healthcare / Biology
+NLP / Text,Generative / LLM;Human Sciences
+Generative / LLM;Other
+Generative / LLM;Other
+Generative / LLM;Other
+Generative / LLM;Other
+Computer Vision;Other
+NLP / Text;Human Sciences,Media / Social
+Other;Other
+NLP / Text;Healthcare / Biology
+NLP / Text;Other
+NLP / Text;Other
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text,Generative / LLM;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+Tabular / Classical ML;Agriculture & Food
+Computer Vision;Hard Sciences / Mathematics
+NLP / Text,Computer Vision;Security & Privacy,Media / Social
+NLP / Text,Computer Vision;Healthcare / Biology,Security & Privacy,Media / Social
+NLP / Text,Computer Vision;Human Sciences,Media / Social
+NLP / Text,Computer Vision;Human Sciences,Media / Social
+NLP / Text,Generative / LLM;Agriculture & Food
+NLP / Text;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+Tabular / Classical ML;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Other;Human Sciences
+Tabular / Classical ML;E-commerce / Retail / Finance,Security & Privacy
+NLP / Text;E-commerce / Retail / Finance,Human Sciences
+Computer Vision;Other
+Algorithmics / non-ML;Climate / Energy
+Other;Other
+Other;Climate / Energy,Media / Social
+Other;Other
+Other;Other
+NLP / Text,Speech / Audio;Other
+NLP / Text,Speech / Audio;Other
+Computer Vision;Transportation & Mobility
+NLP / Text;Human Sciences,Media / Social
+Computer Vision;Climate / Energy
+NLP / Text,Generative / LLM;Security & Privacy
+Computer Vision;Security & Privacy
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text;Media / Social
+NLP / Text,Generative / LLM;Media / Social
+Computer Vision;Media / Social
+Time Series / Forecasting;Climate / Energy,Agriculture & Food
+NLP / Text;Other
+NLP / Text;Other
+NLP / Text;Media / Social
+Computer Vision;Other
+Other;Other
+Other;Other
+Computer Vision;Other
+Computer Vision;Other
+Other;Other
+Other;Other
+Computer Vision;Other
+Speech / Audio,Generative / LLM;Other
+Speech / Audio,Generative / LLM;Other
+Computer Vision;Other
+NLP / Text;Other
+Computer Vision;Healthcare / Biology
+NLP / Text;Other
+NLP / Text;Other
+Tabular / Classical ML;Other
+Graph / Networks,Generative / LLM;Other
+Other;Other
+Computer Vision,Generative / LLM;Healthcare / Biology
+NLP / Text;Media / Social
+Computer Vision;Other
+NLP / Text;Other
+Computer Vision,Speech / Audio;Other
+Computer Vision;Other
+Computer Vision,Generative / LLM;Other
+NLP / Text;Other
+NLP / Text;Other
+NLP / Text;Other
+Other;Other
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision,Time Series / Forecasting;Robotics & Autonomous,Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision;Other
+Generative / LLM;Other
+Computer Vision,Generative / LLM;Security & Privacy,Media / Social
+Computer Vision;Other
+Graph / Networks;Other
+Computer Vision;Other
+Computer Vision;Other
+Tabular / Classical ML;Healthcare / Biology,Hard Sciences / Mathematics
+Tabular / Classical ML;Hard Sciences / Mathematics,Healthcare / Biology
+Computer Vision;Other
+Other;Other
+Computer Vision;Security & Privacy
+Computer Vision;Climate / Energy
+Computer Vision;Other
+Other;Security & Privacy
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision,NLP / Text;Hard Sciences / Mathematics
+Computer Vision,NLP / Text;Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision,NLP / Text;Hard Sciences / Mathematics
+Computer Vision,NLP / Text;Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision;Other
+Tabular / Classical ML;E-commerce / Retail / Finance
+Other;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Graph / Networks;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision,Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text,Computer Vision;Other
+Other;Other
+Computer Vision;Media / Social
+Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text;Other
+NLP / Text;Other
+Speech / Audio;Other
+NLP / Text;Other
+NLP / Text;Other
+NLP / Text,Generative / LLM;Other
+Computer Vision;Other
+Computer Vision,Generative / LLM;Media / Social
+Other;Other
+Speech / Audio,NLP / Text;Other
+NLP / Text;Healthcare / Biology,Human Sciences
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Robotics & Autonomous
+Other;Human Sciences
+Computer Vision;Climate / Energy
+Computer Vision,NLP / Text,Generative / LLM;Media / Social
+Computer Vision,Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text;Healthcare / Biology
+NLP / Text,Generative / LLM;Healthcare / Biology
+NLP / Text;Healthcare / Biology
+Computer Vision;Media / Social
+Computer Vision;Agriculture & Food
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Climate / Energy
+Computer Vision;Climate / Energy
+Computer Vision;Other
+Other;Media / Social
+Other;Other
+Time Series / Forecasting;Climate / Energy
+Other;Other
+Computer Vision;Security & Privacy
+Computer Vision;Robotics & Autonomous
+Computer Vision;Other
+Other;Other
+Computer Vision;Other
+Computer Vision,Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Other
+Speech / Audio;Other
+Computer Vision;Other
+Computer Vision,Generative / LLM;Robotics & Autonomous,Media / Social
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Tabular / Classical ML;Agriculture & Food
+NLP / Text,Speech / Audio;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Other;Healthcare / Biology
+NLP / Text;Other
+Time Series / Forecasting,Tabular / Classical ML;E-commerce / Retail / Finance
+Computer Vision,Generative / LLM;Other
+Computer Vision;Other
+NLP / Text,Computer Vision;Other
+Time Series / Forecasting;Climate / Energy
+Other;Other
+Speech / Audio;Other
+Speech / Audio;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Transportation & Mobility
+Generative / LLM;Media / Social
+Other;Other
+NLP / Text;Other
+Other;Security & Privacy,Media / Social
+Computer Vision;Security & Privacy
+Tabular / Classical ML,NLP / Text;E-commerce / Retail / Finance,Media / Social
+ML / AutoML / HPO / NAS;Other
+Time Series / Forecasting;Climate / Energy
+Computer Vision,Generative / LLM;Media / Social
+Computer Vision;Climate / Energy
+NLP / Text,Computer Vision,Generative / LLM;Healthcare / Biology
+NLP / Text;Healthcare / Biology,Media / Social
+Computer Vision;Other
+Graph / Networks;Other
+Computer Vision;Climate / Energy
+NLP / Text;Media / Social,Security & Privacy
+Computer Vision,Generative / LLM;Media / Social
+NLP / Text,Computer Vision,Generative / LLM;Healthcare / Biology,Media / Social
+NLP / Text,Computer Vision,Generative / LLM;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision,Speech / Audio;Other
+Computer Vision;Agriculture & Food
+Computer Vision;Agriculture & Food
+Computer Vision;Agriculture & Food
+Computer Vision;Agriculture & Food
+Computer Vision;Agriculture & Food
+Computer Vision;Agriculture & Food
+NLP / Text;Healthcare / Biology,Media / Social
+Computer Vision;Other
+Computer Vision;Other
+Other;Robotics & Autonomous
+Other;Climate / Energy,Media / Social
+Computer Vision,Speech / Audio,NLP / Text;Media / Social,Human Sciences
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text,Time Series / Forecasting;Healthcare / Biology,Human Sciences,Media / Social
+Other;Other
+Computer Vision;Other
+NLP / Text,Computer Vision;Media / Social
+Computer Vision;Hard Sciences / Mathematics
+NLP / Text;Healthcare / Biology
+Reinforcement Learning;Robotics & Autonomous
+Tabular / Classical ML;Other
+Other;Other
+Other;Other
+Computer Vision;Other
+NLP / Text;Healthcare / Biology,Media / Social
+NLP / Text;Human Sciences,Media / Social
+Computer Vision;E-commerce / Retail / Finance
+Speech / Audio;Human Sciences
+Speech / Audio;Human Sciences
+NLP / Text;Healthcare / Biology
+Computer Vision,NLP / Text;Human Sciences,Media / Social,Security & Privacy
+NLP / Text,Generative / LLM;Healthcare / Biology
+Computer Vision;Other
+NLP / Text;Human Sciences
+Computer Vision;Other
+Tabular / Classical ML;E-commerce / Retail / Finance
+NLP / Text,Speech / Audio;Other
+Tabular / Classical ML;Human Sciences
+Computer Vision;Healthcare / Biology
+Computer Vision;Robotics & Autonomous
+Computer Vision;Other
+NLP / Text,Computer Vision;Other
+Computer Vision;Healthcare / Biology
+NLP / Text,Generative / LLM;Other
+Tabular / Classical ML;Human Sciences
+Tabular / Classical ML;Climate / Energy
+Tabular / Classical ML;Healthcare / Biology
+Time Series / Forecasting;Climate / Energy
+NLP / Text;Other
+NLP / Text,Generative / LLM;Other
+Tabular / Classical ML;Human Sciences
+Tabular / Classical ML;Human Sciences
+Time Series / Forecasting;E-commerce / Retail / Finance
+Tabular / Classical ML;Hard Sciences / Mathematics
+Reinforcement Learning;Climate / Energy
+Tabular / Classical ML;Security & Privacy
+Time Series / Forecasting;Climate / Energy
+Computer Vision,Time Series / Forecasting;Other
+Tabular / Classical ML;Other
+Computer Vision;Robotics & Autonomous,Media / Social
+NLP / Text;Human Sciences
+Time Series / Forecasting;Climate / Energy
+Time Series / Forecasting;Climate / Energy
+Time Series / Forecasting;Climate / Energy
+Time Series / Forecasting;Climate / Energy
+Time Series / Forecasting;Climate / Energy
+Time Series / Forecasting;Climate / Energy
+Time Series / Forecasting;Media / Social
+NLP / Text;Media / Social
+Tabular / Classical ML;Climate / Energy,Hard Sciences / Mathematics
+Time Series / Forecasting;Climate / Energy
+Computer Vision;Healthcare / Biology
+Reinforcement Learning;Robotics & Autonomous
+Time Series / Forecasting;Climate / Energy
+Tabular / Classical ML;Hard Sciences / Mathematics,Healthcare / Biology
+Time Series / Forecasting,Tabular / Classical ML;E-commerce / Retail / Finance
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Media / Social
+Tabular / Classical ML;Human Sciences
+Tabular / Classical ML;Climate / Energy
+NLP / Text;Hard Sciences / Mathematics
+NLP / Text;Human Sciences,Media / Social
+Other;Other
+Computer Vision;Other
+Computer Vision;Media / Social
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+Time Series / Forecasting,Tabular / Classical ML;E-commerce / Retail / Finance
+Graph / Networks;Robotics & Autonomous
+NLP / Text,Time Series / Forecasting;Healthcare / Biology,Human Sciences,Media / Social
+NLP / Text;Media / Social
+NLP / Text;Hard Sciences / Mathematics
+Time Series / Forecasting;E-commerce / Retail / Finance
+NLP / Text;Security & Privacy
+Computer Vision;Other
+NLP / Text;Media / Social
+NLP / Text,Time Series / Forecasting;Healthcare / Biology,Human Sciences,Media / Social
+NLP / Text,Graph / Networks;Transportation & Mobility,Human Sciences,Media / Social
+Computer Vision;Media / Social
+NLP / Text;Media / Social
+Other;Other
+NLP / Text;Human Sciences
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+Speech / Audio;Other
+NLP / Text;Other
+NLP / Text;Healthcare / Biology
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+NLP / Text;Human Sciences,Media / Social
+Computer Vision;Other
+NLP / Text;Security & Privacy
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+NLP / Text;Human Sciences
+NLP / Text;Other
+NLP / Text;Other
+Computer Vision;Other
+NLP / Text;Human Sciences
+Tabular / Classical ML;Agriculture & Food
+NLP / Text;Media / Social,Security & Privacy
+NLP / Text;Media / Social
+Computer Vision;Robotics & Autonomous
+NLP / Text;Media / Social
+Other;Other
+Computer Vision;Media / Social
+Other;Other
+Computer Vision;Other
+NLP / Text;Media / Social
+Other;Other
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+NLP / Text;Security & Privacy,Media / Social
+NLP / Text;Human Sciences
+NLP / Text;Media / Social
+Other;Other
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+NLP / Text;Hard Sciences / Mathematics
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+NLP / Text;Media / Social
+NLP / Text;Other
+NLP / Text;Media / Social
+Other;Other
+Other;Other
+NLP / Text,Tabular / Classical ML;Media / Social
+NLP / Text;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text;Media / Social
+NLP / Text;Human Sciences,Media / Social
+Algorithmics / non-ML,Graph / Networks;Hard Sciences / Mathematics
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision,NLP / Text;Human Sciences
+Computer Vision,NLP / Text;Human Sciences
+Computer Vision,NLP / Text;Human Sciences
+Computer Vision;Healthcare / Biology
+NLP / Text;Media / Social
+NLP / Text,Graph / Networks;Other
+Computer Vision;Other
+Tabular / Classical ML;Agriculture & Food
+Computer Vision;Climate / Energy
+Time Series / Forecasting;Media / Social
+Computer Vision;Other
+NLP / Text;Other
+Computer Vision;Agriculture & Food
+Computer Vision;Human Sciences
+Computer Vision;Other
+Other;Other
+Other;Other
+Algorithmics / non-ML;Other
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+NLP / Text,Generative / LLM;Other
+Computer Vision;Other
+Algorithmics / non-ML;Transportation & Mobility
+NLP / Text;Robotics & Autonomous
+Speech / Audio;Other
+Computer Vision,Generative / LLM;Media / Social
+Computer Vision;Climate / Energy
+Tabular / Classical ML;Human Sciences
+NLP / Text;E-commerce / Retail / Finance
+NLP / Text;Healthcare / Biology
+NLP / Text;Hard Sciences / Mathematics
+Tabular / Classical ML;Human Sciences
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision,Generative / LLM;Security & Privacy,Media / Social
+NLP / Text,Graph / Networks;Other
+Computer Vision;Robotics & Autonomous
+Other;Other
+Computer Vision;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Tabular / Classical ML;Other
+Tabular / Classical ML;Agriculture & Food
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Other;Other
+NLP / Text,Generative / LLM;Human Sciences,Media / Social
+Other;Other
+Computer Vision,Generative / LLM;Media / Social
+Other;Other
+Other;Other
+Other;Other
+Other;Other
+Reinforcement Learning;Other
+Other;Other
+NLP / Text,Generative / LLM;Security & Privacy
+Generative / LLM;Other
+Generative / LLM;Other
+Computer Vision;Agriculture & Food,Transportation & Mobility
+Computer Vision;Healthcare / Biology,Human Sciences
+Computer Vision;Other
+Graph / Networks,Algorithmics / non-ML;Hard Sciences / Mathematics
+Computer Vision;Healthcare / Biology
+NLP / Text;Media / Social,Security & Privacy
+Other;Other
+Computer Vision,Generative / LLM;Healthcare / Biology
+NLP / Text,Graph / Networks;Other
+NLP / Text,Graph / Networks;Other
+NLP / Text,Graph / Networks;Other
+NLP / Text,Graph / Networks;Other
+NLP / Text;Other
+NLP / Text;Media / Social,Security & Privacy
+NLP / Text;Media / Social,Security & Privacy
+Generative / LLM;Other
+Other;Other
+Computer Vision;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Human Sciences
+Computer Vision;Security & Privacy
+Time Series / Forecasting;Climate / Energy
+Tabular / Classical ML;E-commerce / Retail / Finance
+NLP / Text;Media / Social,Security & Privacy
+Computer Vision;Healthcare / Biology
+Tabular / Classical ML;Human Sciences
+NLP / Text;Media / Social,Security & Privacy
+Generative / LLM;Media / Social
+Generative / LLM;Media / Social
+Algorithmics / non-ML;Other
+Tabular / Classical ML;Human Sciences
+Computer Vision;Agriculture & Food
+Other;Other
+NLP / Text,Generative / LLM;Other
+Computer Vision,Speech / Audio,Generative / LLM;Security & Privacy
+NLP / Text,Speech / Audio;Other
+NLP / Text,Generative / LLM;Media / Social
+Other;Other
+NLP / Text,Computer Vision,Generative / LLM;Security & Privacy
+Computer Vision;Healthcare / Biology,Human Sciences
+NLP / Text,Speech / Audio;Security & Privacy,Human Sciences,Media / Social
+Speech / Audio,NLP / Text;Human Sciences,Media / Social
+NLP / Text,Graph / Networks;Other
+Other;Human Sciences
+NLP / Text,Time Series / Forecasting,Tabular / Classical ML;E-commerce / Retail / Finance,Human Sciences,Media / Social
+NLP / Text,Graph / Networks;Other
+Reinforcement Learning;Other
+NLP / Text;Media / Social,Security & Privacy
+Other;Healthcare / Biology
+NLP / Text,Computer Vision,Generative / LLM;Human Sciences
+Other;Human Sciences
+Computer Vision;Other
+Other;Other
+Computer Vision;Media / Social
+Computer Vision;Healthcare / Biology
+NLP / Text;Hard Sciences / Mathematics
+Time Series / Forecasting;Healthcare / Biology,Human Sciences
+NLP / Text;Hard Sciences / Mathematics
+Computer Vision;Hard Sciences / Mathematics
+Computer Vision;Security & Privacy
+Computer Vision;Healthcare / Biology
+Computer Vision;Other
+Computer Vision;Healthcare / Biology
+NLP / Text;Hard Sciences / Mathematics
+Other;Other
+NLP / Text;Security & Privacy
+Computer Vision;Other
+Algorithmics / non-ML;Hard Sciences / Mathematics
+Computer Vision;Other
+NLP / Text;Hard Sciences / Mathematics
+Other;Other
+Other;Other
+Graph / Networks;Robotics & Autonomous
+Computer Vision;Healthcare / Biology
+Computer Vision,Speech / Audio;Other
+Other;Other
+Tabular / Classical ML;Agriculture & Food
+Algorithmics / non-ML;Hard Sciences / Mathematics
+Tabular / Classical ML;Climate / Energy,Hard Sciences / Mathematics
+Computer Vision,Generative / LLM;Other
+Computer Vision;Other
+Computer Vision;Robotics & Autonomous
+Reinforcement Learning;Other
+Computer Vision;Other
+Computer Vision;Other
+Generative / LLM;Other
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Other
+Other;Other
+Algorithmics / non-ML;Hard Sciences / Mathematics
+Other;Other
+Computer Vision,NLP / Text;Media / Social
+Computer Vision;Other
+Computer Vision,NLP / Text;Media / Social
+NLP / Text,Computer Vision;Other
+NLP / Text;Hard Sciences / Mathematics
+NLP / Text;Healthcare / Biology
+NLP / Text;Other
+NLP / Text;Media / Social
+NLP / Text,Generative / LLM;Media / Social
+NLP / Text;E-commerce / Retail / Finance
+NLP / Text;Human Sciences,Media / Social
+Computer Vision;Other
+Computer Vision;Other
+Computer Vision;Other
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text,Generative / LLM;Other
+NLP / Text,Generative / LLM;Other
+NLP / Text;Media / Social
+NLP / Text,Generative / LLM;Other
+NLP / Text;Media / Social,Human Sciences
+Other;Healthcare / Biology
+Computer Vision;Agriculture & Food
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+NLP / Text;Media / Social
+Computer Vision;Healthcare / Biology
+Computer Vision;Security & Privacy
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text,Generative / LLM;Security & Privacy
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+Computer Vision;Climate / Energy
+Computer Vision;Healthcare / Biology
+Computer Vision;Climate / Energy
+NLP / Text;Other
+Computer Vision;Media / Social
+Computer Vision,Time Series / Forecasting;Media / Social
+Computer Vision,Time Series / Forecasting;Media / Social
+Computer Vision,NLP / Text;Other
+NLP / Text;Security & Privacy
+NLP / Text;Security & Privacy
+Computer Vision;Other
+NLP / Text;Other
+Tabular / Classical ML;Healthcare / Biology
+NLP / Text,Computer Vision;Other
+NLP / Text;Media / Social
+Computer Vision;Other
+NLP / Text,Generative / LLM;Other
+Computer Vision,Generative / LLM;Robotics & Autonomous,Media / Social
+Computer Vision,NLP / Text;Human Sciences,Media / Social
+Computer Vision;Other
+NLP / Text,Generative / LLM;Healthcare / Biology
+Other;Other
+Other;Other
+NLP / Text,Generative / LLM;Other
+NLP / Text,Generative / LLM;Security & Privacy
+Computer Vision;Agriculture & Food
+Computer Vision;Agriculture & Food
+Computer Vision,Generative / LLM;Other
+NLP / Text,Generative / LLM;Other
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+NLP / Text,Speech / Audio;Other
+NLP / Text;Human Sciences
+Computer Vision;Other
+Other;Human Sciences
+Other;Healthcare / Biology,Security & Privacy
+NLP / Text;Security & Privacy
+Computer Vision,NLP / Text;Media / Social,Human Sciences
+NLP / Text;Human Sciences
+Algorithmics / non-ML;Other
+Computer Vision;Security & Privacy,Media / Social
+Computer Vision;Security & Privacy,Media / Social
+Algorithmics / non-ML;Other
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+Computer Vision;Other
+NLP / Text;Human Sciences
+NLP / Text;Human Sciences
+Computer Vision,Generative / LLM;Human Sciences
+Graph / Networks,Reinforcement Learning;Transportation & Mobility
+NLP / Text,Generative / LLM;Other
+NLP / Text,Generative / LLM;Other
+Other;Media / Social
+Other;Media / Social
+Other;Media / Social
+Other;Media / Social
+Other;Media / Social
+Other;Media / Social
+Speech / Audio;Other
+Computer Vision;Other
+Other;Other
+Computer Vision,NLP / Text;Robotics & Autonomous
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Other
+Computer Vision,Speech / Audio;Human Sciences
+Computer Vision,Speech / Audio;Human Sciences
+Computer Vision;Human Sciences
+Computer Vision;Human Sciences
+Computer Vision;Agriculture & Food
+NLP / Text,Generative / LLM;Media / Social
+Algorithmics / non-ML;Other
+NLP / Text,Generative / LLM;Media / Social
+Other;Other
+Computer Vision,Generative / LLM;Other
+Speech / Audio;Security & Privacy
+Speech / Audio;Security & Privacy,Media / Social
+NLP / Text,Computer Vision;Robotics & Autonomous
+Other;Other
+Other;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Computer Vision;Healthcare / Biology
+Speech / Audio;Human Sciences
+NLP / Text,Speech / Audio;Human Sciences
+Tabular / Classical ML;Healthcare / Biology
+Other;Robotics & Autonomous
+Other;Robotics & Autonomous
+NLP / Text,Speech / Audio;Human Sciences
+NLP / Text,Speech / Audio;Human Sciences
+NLP / Text,Speech / Audio;Human Sciences
+Speech / Audio;Human Sciences
+Speech / Audio;Human Sciences
+Other;Robotics & Autonomous
+Other;Robotics & Autonomous
+Other;Other
+Tabular / Classical ML;Climate / Energy
+Other;Human Sciences
+Other;Media / Social,Human Sciences,Healthcare / Biology
+Computer Vision;Media / Social,Human Sciences,Healthcare / Biology
+NLP / Text;Other
+Computer Vision,Graph / Networks;Robotics & Autonomous
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Computer Vision;Robotics & Autonomous,Transportation & Mobility
+Other;Robotics & Autonomous
+Other;Robotics & Autonomous
