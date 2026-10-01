@@ -44,10 +44,22 @@ tasks:
   ingestion_program: ingestion_program/
   scoring_program: scoring_program/
 
+# Fact sheets to add more information in the leaderboard
+fact_sheet: {
+    "method_name": {
+        "key": "name",
+        "type": "text",
+        "title": "Method name",
+        "selection": "",
+        "is_required": "true",
+        "is_on_leaderboard": "true"
+    }
+}
+
 leaderboards:
 - title: Results
   key: main
-  submission_rule: Force_Best
+  submission_rule: Add_And_Delete_Multiple
   columns:
   - title: Mean Macro F1
     key: primary
