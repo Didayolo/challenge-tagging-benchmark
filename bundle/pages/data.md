@@ -12,12 +12,12 @@ Each sample is one ML competition described by its title and description, concat
 "<title> : <description>"
 ```
 
-Ground-truth labels are assigned across two independent multi-label taxonomies:
+Ground-truth labels are evaluated across two independent multi-label taxonomies:
 
-- **ML_sector** — the ML methodology area(s) of the competition (11 possible labels, multi-label)
-- **Field_sector** — the application domain(s) of the competition (11 possible labels, multi-label)
+- **Machine Learning Domain** — the ML methodology area(s) of the competition (13 possible labels, multi-label)
+- **Fields of Application** — the application domain(s) of the competition (18 possible labels, multi-label)
 
-A competition may belong to multiple sectors in each column simultaneously.
+A competition may belong to multiple tags in each category simultaneously, or none.
 
 ## CSV Schema
 
@@ -35,19 +35,20 @@ Both files are **semicolon-separated** (`;`). Inside a label cell, several label
 
 | Column | Type | Description |
 |--------|------|-------------|
-| `ML_sector` | str | Comma-separated label names from the ML_sector taxonomy (empty string if none) |
-| `Field_sector` | str | Comma-separated label names from the Field_sector taxonomy (empty string if none) |
+| `Machine Learning Domain` | str | Comma-separated label names (empty string if none) |
+| `Fields of Application` | str | Comma-separated label names (empty string if none) |
+| `Conferences` | str | Optional column (ignored during scoring) |
 
-Example — first row of each file:
+Example — row from the dataset:
 
 ```
 text
-Clinical Named Entity Recognition : Identify diseases treatments and medications in clinical notes and discharge summaries using sequence labeling.
+Shared Task 1: BanglaKnight : Classify Bangla prompts (Bangla script, romanized, code-mixed) as Safe, Offensive, Harmful or Severe.
 ```
 
 ```
-ML_sector;Field_sector
-NLP / Text;Healthcare / Biology
+Machine Learning Domain;Fields of Application;Conferences
+NLP,LLM;Cybersecurity;NAACL
 ```
 
 ## Sample Data
@@ -56,12 +57,8 @@ A 10-row sample illustrating the data schema is available in the **Starting Kit*
 
 ## Split Policy
 
-Inside the scoring program, the full dataset is split into 4 folds using:
-```python
-sklearn.model_selection.KFold(n_splits=4, shuffle=True, random_state=42)
-```
-Each fold has approximately 150 training samples and 50 test samples.
+Inside the scoring program, the dataset is split using iterative multi-label stratification (`TEST_SIZE=0.25`, `SEED=42`), allocating 75% for training and 25% for test evaluation.
 
 ## License
 
-CC-BY 4.0. To be confirmed when real competition archive data replaces the synthetic stand-in.
+CC-BY 4.0.

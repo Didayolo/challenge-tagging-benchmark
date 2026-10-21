@@ -3,7 +3,7 @@
 
 Participants submit a model.py containing a Model class.
 This program copies model.py to the output directory so the
-scoring program can import it and run 4-fold cross-validation.
+scoring program can import it and run evaluation.
 
 It also forwards input_data.csv (the unlabeled texts) to the output
 directory: the scoring program can only read the reference data and

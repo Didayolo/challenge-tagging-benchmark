@@ -36,9 +36,9 @@ phases:
 tasks:
 - index: 0
   name: Competition Tagging Task
-  description: Multi-label classification of ML competitions by methodology area (ML_sector)
-    and application domain (Field_sector). Evaluated via 4-fold cross-validation on
-    the full labeled dataset.
+  description: Multi-label classification of ML competitions across Machine Learning Domain
+    and Fields of Application. Evaluated via a stratified train/test split on the
+    full labeled dataset.
   input_data: input_data/
   reference_data: reference_data/
   ingestion_program: ingestion_program/

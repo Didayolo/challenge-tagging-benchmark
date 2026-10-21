@@ -3,6 +3,7 @@
 Replace the body of each method with your implementation.
 Keep the class name `Model` and the method signatures exactly as shown.
 """
+from typing import Dict, List
 import numpy as np
 
 
@@ -11,26 +12,25 @@ class Model:
         # Initialise your model here.
         pass
 
-    def fit(self, X, y_ml, y_field):
+    def fit(self, X_train: List[str], y_train: Dict[str, np.ndarray]) -> 'Model':
         """Train your model.
 
         Args:
-            X       : list of N text strings, each "<title> : <description>"
-            y_ml    : np.ndarray of shape (N, 11), binary, ML_sector labels
-            y_field : np.ndarray of shape (N, 11), binary, Field_sector labels
+            X_train : list of N text strings, each "<title> : <description>"
+            y_train : dict mapping category name -> 0/1 binary np.ndarray of shape (N, n_tags)
 
         Returns:
             self
         """
         raise NotImplementedError
 
-    def predict(self, X):
-        """Predict label matrices.
+    def predict(self, X_test: List[str]) -> Dict[str, np.ndarray]:
+        """Predict multi-label 0/1 matrices.
 
         Args:
-            X : list of N text strings
+            X_test : list of M text strings
 
         Returns:
-            (y_ml_pred, y_field_pred) : two np.ndarray of shape (N, 11) and (N, 11), dtype int.
+            dict mapping category name -> 0/1 binary np.ndarray of shape (M, n_tags)
         """
         raise NotImplementedError

@@ -1,11 +1,11 @@
-ML_sector;Field_sector
-NLP / Text;Healthcare / Biology
-NLP / Text;Healthcare / Biology
-NLP / Text,Computer Vision;Healthcare / Biology
-Computer Vision;Healthcare / Biology
-Tabular / Classical ML;E-commerce / Retail / Finance
-Time Series / Forecasting;E-commerce / Retail / Finance
-Computer Vision;Transportation & Mobility,Robotics & Autonomous
-Graph / Networks;Security & Privacy
-Reinforcement Learning;Robotics & Autonomous
-NLP / Text,Computer Vision;Healthcare / Biology
+Machine Learning Domain;Fields of Application;Conferences
+NLP;Healthcare;
+NLP;Healthcare;
+NLP;Healthcare;
+Computer Vision;Healthcare;MICCAI
+Tabular;Finance;
+Time Series;Finance;
+Computer Vision;Transportation,Robotics;CVPR
+Graphs,Algorithms;Cybersecurity;
+Reinforcement Learning;Robotics;
+Multimodal,NLP,Computer Vision;Healthcare;MICCAI
