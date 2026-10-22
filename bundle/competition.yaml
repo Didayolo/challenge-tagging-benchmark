@@ -69,7 +69,7 @@ tasks:
 # Fact sheets to add more information in the leaderboard
 fact_sheet: {
     "method_name": {
-        "key": "name",
+        "key": "method_name",
         "type": "text",
         "title": "Method name",
         "selection": "",
