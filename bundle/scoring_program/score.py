@@ -356,7 +356,7 @@ def main():
     # One stratified split over all tags of all categories
     Y_all = np.hstack([y[c] for c in TAXONOMY])
     train_idx, test_idx = stratified_split(Y_all, TEST_SIZE, SEED)
-    print_split_report(y, train_idx, test_idx, TAXONOMY)
+    # print_split_report(y, train_idx, test_idx, TAXONOMY)
 
     X_train, X_test = X[train_idx].tolist(), X[test_idx].tolist()
     y_train = {c: y[c][train_idx] for c in TAXONOMY}
