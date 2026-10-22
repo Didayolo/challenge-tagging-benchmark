@@ -1,21 +1,21 @@
 # Terms and Conditions
 
-## Open Benchmark
+## Phases
 
-This is an **open benchmark** with no prizes, no submission caps, and no deadline. All participants may submit freely and indefinitely.
+This benchmark has no prizes. It runs in two phases: a **Feedback Phase** with unlimited submissions, evaluated on the validation set, followed by a **Final Phase** with a single submission per participant, evaluated on the unseen test set.
 
 ## Participation Rules
 
 1. **Eligible participants**: Any registered Codabench user may participate.
 2. **Team size**: No limit.
-3. **Submissions**: Unlimited daily submissions. Each submission is a `model.py` file containing a `Model` class conforming to the specified interface.
+3. **Submissions**: Unlimited submissions in the Feedback Phase, one submission in the Final Phase. Each submission is a `model.py` file containing a `Model` class conforming to the specified interface.
 4. **Code ownership**: All submitted code remains the intellectual property of the participant. By submitting you confirm you have the right to use and submit the code.
 5. **No cheating**: Multi-account usage to game the leaderboard is prohibited and will result in disqualification.
-6. **No data leakage**: The full labeled dataset is never exposed to participant code. Attempting to extract it from the scoring environment is prohibited.
+6. **No data leakage**: The validation and test labels are never exposed to participant code. Attempting to extract it from the scoring environment is prohibited.
 
 ## Reproducibility
 
-The scoring program enforces reproducibility via a fixed random seed (`random_state=42`) in the cross-validation split. Submitted models may set their own random seeds; variance in results across re-submissions will appear in the `f1_std` column.
+The train / validation / test split is fixed (shuffled once with `SEED=42`) and identical for every participant. Submitted models may set their own random seeds.
 
 ## Data License
 
