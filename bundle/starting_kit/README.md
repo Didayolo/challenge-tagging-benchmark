@@ -40,7 +40,9 @@ class Model:
         ...
 ```
 
-Columns of each array follow the order of the tag list in `TAXONOMY` defined in the scoring program.
+Columns of each array follow the order of the tag list in `TAXONOMY` defined in the ingestion and scoring programs.
+
+The ingestion program trains your model on the training set (3030 samples) and predicts the validation set (Feedback Phase) or the test set (Final Phase), 1030 samples each.
 
 ## This baseline
 

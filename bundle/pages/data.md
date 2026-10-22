@@ -21,17 +21,24 @@ A competition may belong to multiple tags in each category simultaneously, or no
 
 ## CSV Schema
 
-The dataset is stored as two CSV files, aligned **row by row**: row *i* of the input file is described by row *i* of the reference file. There is no identifier column — row order is the only link between the two files.
+Each set is stored as two CSV files, aligned **row by row**: row *i* of the data file is described by row *i* of the labels file. There is no identifier column — row order is the only link between the two files.
 
-Both files are **semicolon-separated** (`;`). Inside a label cell, several labels are separated by a comma (`,`).
+All files are **semicolon-separated** (`;`). Inside a label cell, several labels are separated by a comma (`,`).
 
-`input_data.csv` — the texts:
+| File | Content |
+|------|---------|
+| `train_data.csv` | training texts (given to `fit`) |
+| `train_labels.csv` | training labels (given to `fit`) |
+| `test_data.csv` | validation or test texts (given to `predict`) |
+| `test_labels.csv` | validation or test labels (hidden, used for scoring) |
+
+`*_data.csv` — the texts:
 
 | Column | Type | Description |
 |--------|------|-------------|
 | `text` | str | `"<title> : <description>"` |
 
-`reference_data.csv` — the ground-truth labels:
+`*_labels.csv` — the ground-truth labels:
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -53,11 +60,14 @@ NLP,LLM;Cybersecurity;NAACL
 
 ## Sample Data
 
-A 10-row sample illustrating the data schema is available in the **Starting Kit** download, as `sample_input_data.csv` and `sample_reference_data.csv`. Its sole purpose is to show participants the data format — no evaluation is performed on it.
+A 10-row sample illustrating the data schema is available in the **Starting Kit** download, as `sample_input_data.csv` (texts) and `sample_reference_data.csv` (labels). Its sole purpose is to show participants the data format — no evaluation is performed on it.
 
 ## Split Policy
 
-Inside the scoring program, the dataset is split using iterative multi-label stratification (`TEST_SIZE=0.25`, `SEED=42`), allocating 75% for training and 25% for test evaluation.
+The 5090 labeled samples are shuffled (`SEED=42`) and split into **3030 train**, **1030 validation** and **1030 test** samples. The split is checked so that every tag appears at least once in each of the three sets.
+
+- **Feedback Phase**: train on the train set, evaluate on the validation set.
+- **Final Phase**: train on the same train set, evaluate on the test set.
 
 ## License
 

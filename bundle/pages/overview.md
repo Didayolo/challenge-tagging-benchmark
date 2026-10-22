@@ -45,11 +45,13 @@ Given the title and description of a competition (as a single text string of the
 
 ## Data
 
-Data sourced from CodaLab and Codabench competition archives, collected by Abderrahmane Moujar and Aleksandra Kruchinina. A 10-row sample is provided in the starting kit to illustrate the data format. The full dataset is evaluated using a stratified train/test split.
+Data sourced from CodaLab and Codabench competition archives, collected by Abderrahmane Moujar and Aleksandra Kruchinina. A 10-row sample is provided in the starting kit to illustrate the data format. The 5090 labeled samples are split into 3030 train, 1030 validation and 1030 test samples, every tag being present in each set.
 
 ## Evaluation
 
-Submitted models are evaluated via a multi-label stratified train/test split (75% train / 25% test, `random_state=42`). The primary metric is the **Mean Macro F1** averaged across categories over the tags present in the test set. The leaderboard also displays the standard deviation of per-tag F1 scores, as well as training time and inference time.
+The competition has two phases. In the **Feedback Phase**, models are trained on the training set and evaluated on the validation set, with unlimited submissions. In the **Final Phase**, models are trained on the same training set and evaluated once on the unseen test set.
+
+The leaderboard reports the **Macro F1** of each category (Machine Learning Domain, Fields of Application). Submissions are ranked by the **average of their ranks** on these two columns. Training time and inference time are also displayed.
 
 ## Submission
 

@@ -22,32 +22,54 @@ pages:
 - title: Terms
   file: pages/terms.md
 
+# Two phases: a feedback phase to try many submissions (scored on the
+# validation set), and a final phase to test on fresh data (the test set).
 phases:
 - index: 0
-  name: Open Benchmark
-  description: Submit your model.py and receive immediate leaderboard feedback. No
-    deadline - this is a perpetual open benchmark.
+  name: Feedback Phase
+  description: Submit your model.py and receive immediate leaderboard feedback.
+    Models are trained on the training set and evaluated on the validation set.
   start: '2026-09-09 00:00:00'
+  end: '2027-06-30 23:59:59'
   execution_time_limit: 1800
   starting_kit: starting_kit/
   tasks:
   - 0
+- index: 1
+  name: Final Phase
+  description: Models are trained on the same training set and evaluated on an unseen
+    test set. Only one submission is allowed.
+  start: '2027-07-01 00:00:00'
+  max_submissions: 1
+  execution_time_limit: 1800
+  tasks:
+  - 1
 
+# Each task: input data = train data + train labels + test data,
+# reference data = test labels. The ingestion program trains the model and
+# predicts the test data, the scoring program compares with the test labels.
 tasks:
 - index: 0
-  name: Competition Tagging Task
+  name: Competition Tagging Feedback Task
   description: Multi-label classification of ML competitions across Machine Learning Domain
-    and Fields of Application. Evaluated via a stratified train/test split on the
-    full labeled dataset.
-  input_data: input_data/
-  reference_data: reference_data/
+    and Fields of Application. Train on 3030 samples, evaluate on the 1030 validation samples.
+  input_data: feedback_phase/input_data/
+  reference_data: feedback_phase/reference_data/
+  ingestion_program: ingestion_program/
+  scoring_program: scoring_program/
+- index: 1
+  name: Competition Tagging Final Task
+  description: Multi-label classification of ML competitions across Machine Learning Domain
+    and Fields of Application. Train on 3030 samples, evaluate on the 1030 test samples.
+  input_data: final_phase/input_data/
+  reference_data: final_phase/reference_data/
   ingestion_program: ingestion_program/
   scoring_program: scoring_program/
 
 # Fact sheets to add more information in the leaderboard
 fact_sheet: {
     "method_name": {
-        "key": "name",
+        "key": "method_name",
         "type": "text",
         "title": "Method name",
         "selection": "",
@@ -56,28 +78,39 @@ fact_sheet: {
     }
 }
 
+# The first column (average rank of the two F1 columns) is used for ranking.
+# The keys must match the ones written by the scoring program.
 leaderboards:
 - title: Results
   key: main
   submission_rule: Add_And_Delete_Multiple
   columns:
-  - title: Mean Macro F1
-    key: primary
+  - title: Average Rank
+    key: avg_rank
     index: 0
+    sorting: asc
+    precision: 2
+    computation: avg_rank
+    computation_indexes:
+    - 1
+    - 2
+  - title: ML Domain Macro F1
+    key: ml_domain_f1
+    index: 1
     sorting: desc
     precision: 4
-  - title: F1 Std Dev
-    key: f1_std
-    index: 1
-    sorting: asc
+  - title: Fields of Application Macro F1
+    key: fields_f1
+    index: 2
+    sorting: desc
     precision: 4
   - title: Train Time (s)
     key: train_time_s
-    index: 2
+    index: 3
     sorting: asc
     precision: 2
   - title: Infer Time (ms/sample)
     key: infer_time_ms_per_sample
-    index: 3
+    index: 4
     sorting: asc
     precision: 3
