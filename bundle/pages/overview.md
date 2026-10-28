@@ -32,15 +32,15 @@ Given the title and description of a competition (as a single text string of the
 - Climate
 - Energy
 - Robotics
-- Cybersecurity
+- Security
 - Transportation
 - Agriculture
 - Sports
 - Education
-- Social Media
+- Media
+- Linguistics
 - Astronomy
 - Legal
-- Science
 - Other
 
 ## Data

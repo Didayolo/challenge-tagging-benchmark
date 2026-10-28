@@ -55,7 +55,7 @@ Shared Task 1: BanglaKnight : Classify Bangla prompts (Bangla script, romanized,
 
 ```
 Machine Learning Domain;Fields of Application;Conferences
-NLP,LLM;Cybersecurity;NAACL
+NLP,LLM;Security,Linguistics;NAACL
 ```
 
 ## Sample Data
