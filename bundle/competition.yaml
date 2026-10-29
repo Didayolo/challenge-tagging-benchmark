@@ -31,6 +31,8 @@ phases:
     Models are trained on the training set and evaluated on the validation set.
   start: '2026-09-09 00:00:00'
   end: '2027-06-30 23:59:59'
+  is_parallel: false
+  is_locked_phase: false
   execution_time_limit: 1800
   starting_kit: starting_kit/
   tasks:
@@ -40,6 +42,8 @@ phases:
   description: Models are trained on the same training set and evaluated on an unseen
     test set. Only one submission is allowed.
   start: '2027-07-01 00:00:00'
+  is_parallel: false
+  is_locked_phase: false
   max_submissions: 1
   execution_time_limit: 1800
   tasks:
