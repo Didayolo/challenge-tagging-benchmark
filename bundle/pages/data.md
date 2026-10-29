@@ -64,7 +64,7 @@ A 10-row sample illustrating the data schema is available in the **Starting Kit*
 
 ## Split Policy
 
-The 5090 labeled samples are shuffled (`SEED=42`) and split into **3030 train**, **1030 validation** and **1030 test** samples. The split is checked so that every tag appears at least once in each of the three sets.
+The 3874 deduplicated labeled samples are shuffled (`SEED=42`) and split into **2326 train**, **774 validation** and **774 test** samples. The split is checked so that every tag appears at least once in each of the three sets.
 
 - **Feedback Phase**: train on the train set, evaluate on the validation set.
 - **Final Phase**: train on the same train set, evaluate on the test set.

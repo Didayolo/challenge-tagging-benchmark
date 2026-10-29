@@ -52,7 +52,7 @@ tasks:
 - index: 0
   name: Competition Tagging Feedback Task
   description: Multi-label classification of ML competitions across Machine Learning Domain
-    and Fields of Application. Train on 3030 samples, evaluate on the 1030 validation samples.
+    and Fields of Application. Train on 2326 samples, evaluate on the 774 validation samples.
   input_data: feedback_phase/input_data/
   reference_data: feedback_phase/reference_data/
   ingestion_program: ingestion_program/
@@ -60,7 +60,7 @@ tasks:
 - index: 1
   name: Competition Tagging Final Task
   description: Multi-label classification of ML competitions across Machine Learning Domain
-    and Fields of Application. Train on 3030 samples, evaluate on the 1030 test samples.
+    and Fields of Application. Train on 2326 samples, evaluate on the 774 test samples.
   input_data: final_phase/input_data/
   reference_data: final_phase/reference_data/
   ingestion_program: ingestion_program/

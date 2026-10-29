@@ -45,7 +45,7 @@ Given the title and description of a competition (as a single text string of the
 
 ## Data
 
-Data sourced from CodaLab and Codabench competition archives, collected by Abderrahmane Moujar and Aleksandra Kruchinina. A 10-row sample is provided in the starting kit to illustrate the data format. The 5090 labeled samples are split into 3030 train, 1030 validation and 1030 test samples, every tag being present in each set.
+Data sourced from CodaLab and Codabench competition archives, collected by Abderrahmane Moujar and Aleksandra Kruchinina. A 10-row sample is provided in the starting kit to illustrate the data format. The 3874 deduplicated labeled samples are split into 2326 train, 774 validation and 774 test samples, every tag being present in each set.
 
 ## Evaluation
 
