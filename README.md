@@ -14,5 +14,5 @@ Layout:
 
 Data:
 
-- `data/input_data.csv`, `data/reference_data.csv` — full labeled dataset (5090 samples)
-- `data/split_data.py` — shuffles it into train (3030) / valid (1030) / test (1030), checks every label is present in each set, and writes the phase folders of the bundle
+- `data/input_data.csv`, `data/reference_data.csv` — full labeled dataset (3874 deduplicated samples)
+- `data/split_data.py` — shuffles it into train (2326) / valid (774) / test (774), checks every label is present in each set, and writes the phase folders of the bundle

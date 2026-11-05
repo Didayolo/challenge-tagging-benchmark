@@ -1,1031 +1,775 @@
 Machine Learning Domain;Fields of Application;Conferences
-Other;Other;
-Multimodal,Computer Vision,NLP;Science;
-Tabular;Cybersecurity,Education,Finance;
-Computer Vision;Science;
-NLP;Science;
-Computer Vision;Legal;ECCV
-NLP;Science;
-NLP;Education,Sports;
-NLP;Social Media;
-Audio;Science;
-Computer Vision;Sports;
-Audio;Science;
-Algorithms;Education;
-Computer Vision;Healthcare;
-NLP;Science;
-Other;Other;
-Computer Vision;Science;CVPR
-Computer Vision;Healthcare;
-NLP;Social Media;
-Tabular;Biology,Education;
-Tabular;Education;
-Tabular;Healthcare;
-Computer Vision;Astronomy,Science;
-Algorithms,Reinforcement Learning;Finance;NeurIPS
-Tabular;Education;
 Tabular;Agriculture;
-AutoML,Computer Vision;Science;ECCV
-NLP;Science;
-Time Series,Computer Vision,Multimodal;Healthcare,Science;
-Computer Vision;Cybersecurity;
-Computer Vision;Education;
-Tabular;Biology,Education;
-NLP;Social Media;
-NLP;Science;
-Computer Vision;Sports;
-Other;Other;
-Multimodal,Computer Vision,NLP,Generative AI;Science,Healthcare;CVPR
-Algorithms,Reinforcement Learning;Transportation;
-Tabular,Time Series;Energy,Finance;
-Multimodal,Computer Vision,NLP,LLM;Transportation;
-NLP,LLM;Finance,E-commerce;
-Computer Vision;Science,Sports;
-NLP;Education;
-Computer Vision,Generative AI;Science;
-Tabular;Finance,Education;
-Other;Other;
-Other;Other;
-Computer Vision;Education;
-NLP;Social Media;
-Computer Vision;Earth Observation,Education;
-Other;Other;
-Computer Vision;Robotics;ICCV
-Other;Other;
-Computer Vision;Science;
-NLP;Social Media;
-Tabular;Education,Cybersecurity;
-Algorithms;Transportation;
-Other;Other;
-Computer Vision;Transportation;
-Computer Vision;Agriculture,Earth Observation;
-NLP,LLM,Algorithms;Science;
-Audio;Science;
-Computer Vision;Science;
-NLP;Social Media;
-Multimodal,Computer Vision,NLP;Science;NAACL
-NLP;Science;ACL
-Audio,NLP;Science;
-LLM;Other;
-Computer Vision,Generative AI,Multimodal;Earth Observation;CVPR
-Audio;Science;
-Audio;Cybersecurity;
-Tabular;Biology,Education;
-Computer Vision;Science;CVPR
-NLP,Tabular,Algorithms;Science;
-NLP;Science;
-Tabular;Biology,Education;
-Computer Vision;Education;
-Computer Vision;Earth Observation;
-Algorithms;Science;
-Computer Vision;Sports;
-Tabular;Biology;
-Computer Vision,NLP,Multimodal;Healthcare,Science;
-NLP,LLM;Healthcare;
-Audio;Science;
-Audio,Multimodal;Robotics,Science;
-Other;Other;
-Computer Vision;Cybersecurity,Science;
-NLP;Social Media;
-Computer Vision;Cybersecurity,Science;
-NLP;Science;
-Multimodal,Computer Vision,NLP,LLM;Healthcare;NAACL
-Tabular,Time Series;Climate;
-Other;Other;
-Computer Vision;Science;ECCV
-Computer Vision;Science;
-NLP;Biology,Healthcare,Science;ACL
-Computer Vision;Healthcare;MICCAI
-Computer Vision;Science;
-Generative AI,NLP;Social Media;
-Multimodal,Computer Vision,NLP;Social Media;
-Tabular;Healthcare,Cybersecurity;
-Computer Vision;Sports;
-Tabular,Algorithms;Healthcare,Biology;
-Computer Vision;Transportation,Science;CVPR
-Computer Vision;Earth Observation;
-Computer Vision,LLM;Education;
-NLP;Science;NAACL
-Other;Other;
-Computer Vision;Transportation,Robotics;
-Tabular;Education;
-Computer Vision;Science;ICCV
-Other;Other;
-Tabular;Education;
-Computer Vision;Healthcare;MICCAI
-Tabular;Education;
-NLP;Healthcare,Biology;
-Other;Other;
-NLP;Climate,Education,Science;
-Computer Vision;Cybersecurity,Science;
-Computer Vision;Finance,E-commerce;
-AutoML;Science;NeurIPS
-Other;Other;
-NLP;Social Media;
-Other;Other;
-AutoML,Computer Vision;Science;ECCV
-Tabular;Education;
-Computer Vision;Science;
-Computer Vision,Multimodal,NLP;Science;ICCV
-Other;Other;
-Computer Vision;Healthcare;MICCAI
-Graphs,Tabular;Healthcare,Science;
-NLP;Education;
-Computer Vision;Science;ICCV
-Multimodal,Computer Vision,NLP,Generative AI;Science;
-Tabular;Biology,Education;
-Tabular;Energy;
-NLP;Healthcare,Social Media;
-LLM,NLP;Healthcare,Legal;
-Audio,NLP;Science;
-NLP;Social Media,Science;ACL
-Computer Vision;Cybersecurity,Science;
-Computer Vision;Science;
-NLP;Science;NeurIPS
-NLP;Science;
-Other;Other;
-Audio,Computer Vision,Multimodal,NLP;Science;
-Computer Vision;Science;
-Generative AI,NLP;Science;
-Computer Vision;Science;
-Computer Vision;Finance,E-commerce;
-Multimodal,Computer Vision,NLP,LLM;Healthcare;MICCAI
-Computer Vision;Science;NeurIPS,ICCV,ECCV
-Algorithms,Tabular;Cybersecurity,Science;
-Computer Vision;Science;
-Computer Vision;Astronomy,Science;ECCV
-Computer Vision;Science;NeurIPS,ICCV
-Tabular,Algorithms;Energy,Science;NeurIPS
-Computer Vision,Algorithms;Robotics,Transportation;
-Tabular;Transportation,E-commerce,Education;
-Other;Other;
-Audio;Cybersecurity;
-Computer Vision;Education;
-Computer Vision;Cybersecurity,Science;
-Other;Other;
-NLP,LLM;Social Media,Cybersecurity;
-Tabular;Biology,Education;
-Computer Vision;Earth Observation;CVPR
-Audio;Science;
-Computer Vision,Multimodal,NLP;Science;
-Other;Other;
-Computer Vision;Agriculture,Robotics;
-Other;Other;
-Other;Other;
-Other;Other;
-Computer Vision;Transportation,Robotics;
-Audio,Computer Vision,Multimodal,NLP;Science;
-Computer Vision;Transportation,Robotics;
-Computer Vision;Education;
-Computer Vision;Transportation;ECCV
-Computer Vision;Science;ECCV
-NLP,Generative AI;Science;
-Multimodal,Computer Vision;Earth Observation;CVPR
-Computer Vision;Science;CVPR
-Computer Vision,Generative AI;Cybersecurity,Education;
-LLM,NLP;Education,Science;
-Computer Vision,Multimodal,NLP;Science;
-Computer Vision;Earth Observation;
-Computer Vision,Multimodal;Earth Observation;
-NLP,Tabular;Finance,Science;
-Computer Vision,Generative AI;Science;CVPR,ECCV
-NLP;Science,Social Media;
-Tabular;Science;
-LLM;Cybersecurity;NeurIPS
-Computer Vision;Healthcare;
-Computer Vision;Robotics;
-Computer Vision,Tabular;Healthcare;
-Other;Other;
-NLP;Science;
-Computer Vision,Multimodal;Robotics;
-NLP;Social Media;
-NLP;Science;ACL
-Computer Vision;Science;CVPR,ECCV
-Tabular;Healthcare,Biology;
-Computer Vision;Transportation;CVPR,ICCV
-LLM,Algorithms,NLP;Science,Education;ICML
-Audio,NLP;Science;
-Computer Vision,Multimodal;Earth Observation;CVPR
-Computer Vision;Healthcare;
-NLP;Science;
-AutoML,Computer Vision;Science;ECCV
-NLP,Graphs,LLM;Science;ACL
-Tabular;Cybersecurity;
-Algorithms,AutoML,Tabular;Science;
-LLM,NLP,Tabular;Healthcare,Science;
-Other;Other;
-NLP;Social Media;
-Other;Other;
-Computer Vision;Earth Observation,Transportation;ECCV
-Other;Other;
-Computer Vision,Generative AI,Multimodal,NLP;Science;CVPR
-NLP;Science;
-Computer Vision;Cybersecurity,Science;
-Computer Vision;Cybersecurity,Science;
-NLP;Healthcare;
-NLP,Tabular,Multimodal;E-commerce;
-NLP,LLM;Cybersecurity,Science;
-Other;Other;
-Audio;Science;
-NLP,LLM;Science;
-Computer Vision,Multimodal;Robotics,Science;ECCV
-Audio,Computer Vision,Multimodal;Science;
-Computer Vision;Science;
-Computer Vision;Earth Observation,Transportation;
-Computer Vision,Multimodal;Earth Observation;CVPR
-Multimodal,Computer Vision,NLP;Science;ICCV
-Computer Vision,Generative AI;Science;
-NLP,Tabular;Education;
-Graphs,LLM,NLP;Science;
-NLP;Education;
-Computer Vision,Generative AI;Science;CVPR
-Tabular;Education;
-AutoML;Science;
-NLP;Education,Science;
-NLP;Science;
-Audio,Computer Vision,Multimodal;Cybersecurity;
-Audio;Science;
-Tabular,Algorithms;Cybersecurity;
-Algorithms;Cybersecurity;
-NLP;Social Media;
-Other;Other;
-NLP;Education,Science;
-Computer Vision;Education;
-Computer Vision;Science;CVPR
-Multimodal,Computer Vision,Audio;Cybersecurity,Social Media;
-Computer Vision,Generative AI;Science;
-Computer Vision,Generative AI,Multimodal,NLP;Science;CVPR
-NLP,Time Series;Healthcare,Social Media;
-Computer Vision;E-commerce,Education;
-Computer Vision;Science;ICCV
-NLP;Science,Social Media;
-Audio,Computer Vision,Multimodal,NLP;Healthcare,Science;
-Algorithms;Science;
-Other;Other;
-Tabular;Education;
-Generative AI,LLM,NLP;E-commerce;
-Audio;Science;
-NLP;Social Media,Science;
-Computer Vision;Education,Transportation;
-AutoML,Tabular;Science;
-Computer Vision;Science;ECCV
-Multimodal,NLP,Computer Vision,Algorithms;Science,Education;
-Computer Vision;Education;
-Computer Vision,Multimodal,NLP;Earth Observation,Robotics;
-NLP;Social Media;
-NLP;Social Media;
-Algorithms,Tabular;Cybersecurity;
-NLP,Tabular;Biology,Healthcare;
-Tabular;Science;
-Computer Vision,Time Series,Multimodal;Healthcare,Science;CVPR
-Computer Vision;Agriculture,Robotics;
-NLP;Healthcare;
-NLP;Healthcare,Science,Social Media;
-Computer Vision,Multimodal,NLP;Social Media;
-Other;Other;
-NLP;Social Media;
-AutoML,Computer Vision;Biology,Education,Healthcare;
-Audio;Science;
-LLM,NLP;Science;
-Tabular,Time Series;Climate;
-Time Series,Tabular;Sports,Education;
-Computer Vision;Agriculture;
-NLP;Science;
-Computer Vision;Science;
-Audio;Science;
-Tabular;Education;
-Tabular,Time Series;Cybersecurity,Science;
-LLM,NLP;Science;
-NLP;Cybersecurity,Science,Social Media;
-Audio;Science;
-Audio;Science;
-Audio,Computer Vision,Multimodal;Healthcare,Social Media;
-NLP;Science,Social Media;
-Computer Vision,Generative AI;Cybersecurity,Science;CVPR
-NLP;Healthcare,Social Media;
-Tabular;Biology;
-NLP,LLM,Graphs;Science;
-LLM,NLP;Legal,Science;
-Audio;Cybersecurity;
-Other;Other;
-NLP;Healthcare,Science;
-Audio,Computer Vision,Multimodal;Science;
-Computer Vision,Generative AI;Cybersecurity;CVPR
-NLP;Social Media;
-Computer Vision;Healthcare;ICCV
-Computer Vision,Multimodal,NLP;Science,Social Media;
-Other;Other;
-NLP;Education,E-commerce;
-Computer Vision,Audio,Multimodal;Healthcare;
-Other;Other;
-Computer Vision,Generative AI;Cybersecurity,Science;ICCV
-Tabular;Biology,Healthcare;
-Audio,Computer Vision,Multimodal;Science;
-Tabular;Healthcare,Cybersecurity;
-Tabular;Biology,Education;
-NLP;Science;
-Audio;Science;
-Computer Vision;Education;
-Computer Vision;Earth Observation;
-Computer Vision,Audio,Multimodal,Tabular;Healthcare;
-Computer Vision,Time Series;Transportation,Education;
-Computer Vision;Healthcare;MICCAI
-Computer Vision;Education;
-Computer Vision;Science;
-LLM,NLP;Science;
-Time Series,Tabular;Energy,Climate;
-Tabular;Biology;
-NLP,LLM;Cybersecurity,Legal;
-Tabular,Time Series;Energy;
-Computer Vision,Multimodal;Healthcare;MICCAI
-NLP;Education;
-Computer Vision;Cybersecurity;
-Tabular;Agriculture,Biology;
-Audio;Science;
-Computer Vision;Cybersecurity,Science;
-Tabular;Biology;
-Computer Vision,Graphs;Science;ICCV
-Computer Vision;Science;CVPR
-Computer Vision;Earth Observation,Robotics;
-Computer Vision;Science;
-Computer Vision;Science;CVPR
-NLP;Science,Social Media;NAACL
-Tabular;Education;
-Computer Vision;Education;
-Computer Vision;Science;CVPR
 Time Series;Energy;
-Computer Vision,Generative AI;Science;CVPR
-Computer Vision;Biology,Education;
-Computer Vision;Cybersecurity,Science;
-NLP;Healthcare,Science;
-NLP;Healthcare,Social Media;
-Computer Vision;Science;CVPR
-Time Series,NLP,Multimodal;Finance;NeurIPS
-Computer Vision;Science;ICCV
-Tabular;Biology,Education;
-Audio,Multimodal,NLP;Science,Social Media;
-Time Series;Energy;
-NLP;Healthcare,Science,Social Media;
-Computer Vision;Healthcare,Biology;ICLR
-Computer Vision;Healthcare;
-NLP;Science;
-Graphs,NLP;Science;
-Computer Vision;Healthcare;
-NLP;Finance,Science;
-NLP,LLM;Science;
-LLM,NLP;Science;
-Computer Vision;Science;
-Computer Vision,Multimodal,NLP;Sports;
-Time Series,Computer Vision,Multimodal;Healthcare;
-Computer Vision,Generative AI;Science;
-Tabular;Finance,E-commerce;ECML-PKDD
-Other;Other;
-Computer Vision;Healthcare,Robotics;
-Computer Vision;Healthcare;
-Computer Vision,Multimodal;Earth Observation;
-Computer Vision,LLM,Multimodal;Transportation;
-Computer Vision;Robotics,Transportation;
-Multimodal,Computer Vision,NLP;Science;
-Computer Vision;Robotics,Science;
-NLP;Education,Social Media;
-Computer Vision;Transportation,Education;
-Tabular;Biology,Education;
-NLP;Science;
-NLP;Science;
-Computer Vision;Science;
-Computer Vision;Robotics,Transportation;
-Computer Vision,Multimodal,NLP;Healthcare,Science;
-NLP;Science;
-Multimodal,NLP,Reinforcement Learning;Science,Robotics;NeurIPS
-Computer Vision;Cybersecurity,Science;
-Tabular;Energy,Science;
-LLM,NLP;Healthcare,Legal;
-Time Series;Energy;
-NLP;Social Media;
-Tabular;Biology;
-NLP;Healthcare,Science,Social Media;
-NLP;Climate,Social Media;
-Tabular,Algorithms;Healthcare,Biology;
-Computer Vision,Generative AI;Science;CVPR
-NLP;Science;
-Computer Vision,Tabular;Climate,Biology;
-NLP,Generative AI;Social Media;
-Computer Vision;Science;
-Audio,Computer Vision,Multimodal;Science;
-Algorithms,Graphs;Education;
-Tabular;Biology,Education;
-Computer Vision;Agriculture,Earth Observation;
-NLP,LLM;Healthcare;
-Computer Vision;Transportation;ECCV
-NLP;Cybersecurity;
-NLP;Healthcare,Social Media;
-Tabular;Biology,Education;
-Computer Vision;Science;
-Computer Vision,Multimodal,NLP;Science;
-NLP;Science;
-Tabular,Time Series;Education;
-NLP;Science;ICLR
-Computer Vision;Science;CVPR
-Tabular;Biology,Education;
-Audio;Science;
-Computer Vision,Reinforcement Learning;Robotics;CVPR
-Computer Vision;Science;CVPR
-Computer Vision,Audio,Multimodal;Science;
-Computer Vision,Multimodal;Earth Observation;
-NLP;Science;
-Other;Other;
-NLP;Healthcare,Social Media;
-Computer Vision;Education,Energy;
-Other;Other;
-NLP,LLM;Science;
-LLM,NLP;Science;
-Computer Vision;Transportation;
-Computer Vision;Healthcare;
-Tabular;Education,Finance;
-Algorithms;Science;
-NLP;Science;
-Computer Vision;Cybersecurity,Science;
-Computer Vision;Earth Observation;
-Algorithms;Science;
-Multimodal,Computer Vision,NLP;Robotics;CVPR
-NLP;Social Media;
-Computer Vision;Transportation;
-AutoML,Computer Vision;Science;NeurIPS,CVPR,ICLR,ICCV,ECCV
-Tabular;Biology;
-Computer Vision;Agriculture;ICCV
-AutoML,Reinforcement Learning;Science;
-Computer Vision,Generative AI;Science;CVPR
-Algorithms,AutoML;Science;
-Other;Other;
-Tabular;Biology;
-Computer Vision;Science;ECCV
-NLP;Education,Social Media;
-LLM;Cybersecurity;NeurIPS
-Time Series;Education;
-NLP;Social Media;
-Computer Vision;Education;
-Audio,Computer Vision,Multimodal;Science;
-Computer Vision,AutoML;Science;CVPR
-Tabular,Algorithms;Transportation;
-Computer Vision;Science;
-Multimodal,Computer Vision,NLP;Social Media;
-Tabular;Agriculture,Biology;
-NLP;Biology,Healthcare,Science;
-Computer Vision;Robotics,Transportation;
-Computer Vision,Time Series;Transportation,Education;
-Computer Vision;Healthcare;
-Tabular,Computer Vision;Astronomy;
-Computer Vision;Transportation;
-Computer Vision;Cybersecurity,Science;
-Algorithms;Education;
-Computer Vision;Science;ICCV
-NLP;Social Media,Science;
-Graphs,NLP;Science;
-Audio;Science;
-Other;Other;
-Computer Vision;Transportation;CVPR
-Other;Other;
-Computer Vision;Earth Observation;
-Graphs,LLM,NLP;Science;
-Tabular;Education;
-Computer Vision;Agriculture,Earth Observation;
-Tabular;Energy;
-Algorithms;Transportation,Energy;
-AutoML,Computer Vision;Science;CVPR
-Other;Other;
-Computer Vision;Cybersecurity;
-Computer Vision;Science;CVPR
-Computer Vision;Healthcare;MICCAI
-Audio,NLP;Science;
-Computer Vision;Healthcare;MICCAI
-Generative AI,NLP;Social Media;
-Computer Vision;Robotics,Science;
-NLP;Social Media;
-NLP,LLM,Algorithms;Science;
-Other;Other;
-Tabular;Biology;
-Other;Other;
-Computer Vision;Science;
-NLP;Social Media;
-Computer Vision;Earth Observation;CVPR
-NLP;Social Media;ACL
-Computer Vision;Healthcare,Science;
-Computer Vision;Healthcare;
-Reinforcement Learning;Energy;NeurIPS
-Computer Vision;Science;
-Computer Vision;Agriculture,Earth Observation;
-Computer Vision;Science;CVPR,ICCV
-Other;Other;
-Tabular;Education;
-Computer Vision;Cybersecurity,Science;
-NLP;Social Media;
-Computer Vision;Robotics;
-Computer Vision,Generative AI;Science;CVPR
-AutoML,Reinforcement Learning;Science;
-Computer Vision;Healthcare,Science;
-Tabular;Education;
-Computer Vision,Generative AI;Science;
-Computer Vision;Science;
-Other;Other;
-Computer Vision;Science;ECCV
-Computer Vision,Generative AI;Science;
-Audio,NLP;Robotics,Science;
-NLP;E-commerce;
-Multimodal,Time Series;Transportation;
-Computer Vision,Generative AI;Education;
-Computer Vision,Generative AI;Science;CVPR
-Audio;Science;
-NLP;Science;
-Computer Vision;Science;ECCV
-Computer Vision;Healthcare;MICCAI
-Computer Vision;Education;
-Multimodal,Computer Vision,Audio;Healthcare,Biology,Science;
-Audio;Science;
-Algorithms;Education,Science;
-Audio;Cybersecurity;
-Tabular;Climate,Science;
-Computer Vision;Healthcare,Science;
-NLP;Healthcare,Social Media;
-NLP;Social Media;
-Tabular;Agriculture;
-Computer Vision,Generative AI;Science;CVPR
-AutoML,Reinforcement Learning;Science;
-Computer Vision,Generative AI;Cybersecurity;
-Computer Vision;Cybersecurity;
-Computer Vision;Education,Energy,Science;
-Computer Vision;Education;
-Computer Vision,NLP;Science;
-Tabular;Education,Energy;
-Computer Vision;Education;
-NLP;Healthcare,Social Media;
-NLP,LLM;Science;
-Other;Other;
-Computer Vision;Education,Healthcare;
-Other;Other;
-Computer Vision,Multimodal,NLP;Science;
-NLP;Science;
-NLP;Social Media;
-Computer Vision;Healthcare;
-Computer Vision,Generative AI;Science;CVPR
-Computer Vision;Science;
-NLP;Science;
-Computer Vision;Healthcare;MICCAI
-Other;Other;
-Computer Vision;Other;
-Time Series,Tabular;Climate;
-Other;Other;
-Audio,NLP;Science;
-Other;Other;
-Computer Vision;Healthcare;MICCAI
-Computer Vision;Science;
-Computer Vision;Agriculture,Biology,Robotics,Science;
-Audio;Science;
-Computer Vision;Cybersecurity;
-Computer Vision,NLP;Science;
-Algorithms;Science;
-NLP;Finance,E-commerce;
-NLP;E-commerce,Science;
-Computer Vision;Science;CVPR
-Time Series,Tabular;Finance,E-commerce;
-NLP;Healthcare,Legal,Social Media;
-Audio;Science;
-Multimodal,Computer Vision,NLP;Science;
-Computer Vision,Generative AI,Multimodal,NLP;Science;
-Computer Vision;Agriculture,Earth Observation;
-NLP,LLM;Science;
-NLP,Tabular;E-commerce,Social Media;
-Audio;Science;
-Computer Vision;Healthcare,Science;
-NLP;Healthcare,Science,Social Media;
-Computer Vision;Science;CVPR
-Tabular;Biology;
-Computer Vision,NLP,Multimodal;Cybersecurity;
-Tabular;Biology;
-Algorithms;Education,Transportation;
-NLP;Healthcare,Science;
-Tabular;Biology,Education;
-NLP,Generative AI;Education,Social Media;
-Audio,Computer Vision,Multimodal,NLP;Cybersecurity,Science;
-Other;Other;
-Computer Vision,Generative AI;Science;CVPR
-Computer Vision;Earth Observation,Agriculture;
-Tabular;Biology,Education;
-Algorithms;Education;
-Audio;Cybersecurity,Science;
-Time Series;Energy;
-Computer Vision;Science;
-NLP;Social Media;
-NLP,LLM;Cybersecurity;
-NLP,LLM;Education,Science;
-Audio;Cybersecurity,Social Media;
-NLP,LLM;Education,Science;
-Other;Other;
-Tabular,Time Series;Energy,Transportation;
-Tabular;E-commerce,Education,Finance;
-Tabular,Time Series;Energy,Transportation;
-Computer Vision;Cybersecurity,Science;
-Audio,Computer Vision,Multimodal;Science;
-Other;Other;
-Computer Vision,Time Series;Astronomy,Robotics;ECCV
-NLP;Science;
-Other;Other;
-NLP;Education;ACL
-Audio;Science;
-NLP;Finance,E-commerce,Transportation;
-Audio;Science;
-Computer Vision;Science;
-Computer Vision,Multimodal;Robotics;ECCV
-NLP;Science,Social Media;
-Computer Vision,Generative AI;Science;ECCV
-Computer Vision,Generative AI;Science;CVPR
-Audio,Computer Vision,Multimodal;Science;
-Computer Vision;Science,Sports;
-Tabular;Energy;
-Audio,NLP;Science;
-Reinforcement Learning,Time Series;Finance;
-NLP;Education;
-Computer Vision;Education;
-Computer Vision;Healthcare,Education;
-Computer Vision;Healthcare;
-Computer Vision;Science;
-Computer Vision;Science;
-NLP;Science;
-NLP;Education;
-Time Series,Tabular;Energy,Climate;
-Tabular,Time Series;Energy;
-Computer Vision;Transportation,Robotics;
-Computer Vision;Transportation,Science;ECCV
-NLP;Healthcare,Social Media;
-NLP;Education,Science;
-Computer Vision;Education;
-Graphs,NLP;Cybersecurity;
-Computer Vision,Generative AI,Multimodal,NLP;Science;
-Computer Vision;Education;
-Time Series;Education;
-Computer Vision;Science,Transportation;
-NLP;Social Media;
-Computer Vision;Earth Observation,Science;
-Computer Vision;Biology,Agriculture;
-NLP;Social Media;
-Audio,NLP;Robotics,Science;
-Computer Vision,Generative AI;Science;CVPR
-Tabular;Education;
-Computer Vision;Education;
-Tabular;Cybersecurity;
-Audio;Cybersecurity;
-Audio;Science;
-Computer Vision;Education;
-Computer Vision,Generative AI;Science;CVPR
-NLP;Education;
-NLP;Finance,E-commerce;
-Computer Vision;Robotics;
-NLP,LLM;Science;
-Computer Vision;Healthcare,Science;
-AutoML,Computer Vision;Science;ECCV
-Computer Vision;Robotics,Science;NeurIPS
-Tabular;Science;
-Computer Vision;Science;CVPR
-Computer Vision;Science;ICCV,ECCV
-Tabular;Biology,Education;
-Computer Vision;Science;
-NLP;Education,Science;ACL
-Other;Other;
-Multimodal,Computer Vision;Earth Observation;CVPR
-NLP;Social Media;
-Tabular;Biology;
-Computer Vision;Science;
-Other;Other;
-AutoML,Computer Vision;Science;CVPR
-NLP;Social Media;
-Tabular,Time Series;Education;
-NLP,Tabular;Science;
-Computer Vision,LLM,Multimodal,NLP;Science;
-Computer Vision,Generative AI;Science;CVPR,ICCV
-Computer Vision;Robotics,Science;CVPR,ICCV
-Tabular;Education;
-Computer Vision,Multimodal,NLP;Science,Social Media;NAACL
-Computer Vision;Science;
-Computer Vision;Science;
-Other;Other;
-Computer Vision;Transportation;
-Computer Vision;Science;ICCV
-Computer Vision;Cybersecurity,Science;
-Computer Vision;Robotics,Transportation;
-Other;Other;
-Reinforcement Learning;Transportation,Education;
-Audio,Generative AI;Science;
-Audio,Computer Vision,Generative AI,Multimodal;Science,Social Media;CVPR
-NLP;Science,Social Media;
-Audio,NLP;Science;
-Algorithms;Science;
-Computer Vision;Finance,E-commerce;
-NLP;Biology,Healthcare;
-NLP,LLM;Science;ACL
-Computer Vision;Science;CVPR
-Other;Other;
-NLP,Graphs,LLM;Science;
-Computer Vision;Astronomy,Robotics;CVPR
-Tabular,Time Series;Cybersecurity,Education;
-Multimodal,Audio,Computer Vision,NLP;Science;
-Computer Vision;Cybersecurity,Science;
-Computer Vision,Multimodal;Climate,Earth Observation;
-NLP,Time Series;Climate,Social Media;
-NLP;Social Media;
-Computer Vision;Science,Transportation;
-Computer Vision;Science;CVPR
-Computer Vision;Science;CVPR
-Other;Other;
-Tabular;Biology,Education;
-Computer Vision;Robotics,Transportation;ECCV
-NLP;Healthcare;
-Time Series;Energy;
-Audio,NLP;Healthcare,Science;
-Tabular;Biology,Education;
-Computer Vision;Healthcare,Biology;
-Computer Vision,Multimodal,LLM,NLP;Robotics;ECCV
-Tabular,Time Series;Transportation;
-NLP;Education;
-NLP;Science;
-Computer Vision;Earth Observation,Cybersecurity;
-Multimodal,Audio,Computer Vision;Science;
-Tabular;Finance,Education;
-NLP;Education;
-LLM,Tabular,Time Series;Energy,Robotics;
-Computer Vision,NLP,Multimodal;Robotics;NeurIPS
-Tabular;Biology;
-Multimodal,Computer Vision,Audio;Healthcare,Biology,Science;
-Tabular;Energy;
-Computer Vision;Education;
-Computer Vision;Healthcare;MICCAI
-Computer Vision;Cybersecurity,Legal,Science;CVPR
-Tabular;Agriculture,Biology;
-Computer Vision;Education;
-Computer Vision,Generative AI;Science;
-Computer Vision;Education;
-NLP,Tabular;Finance,Science;
-Computer Vision;Healthcare;MICCAI
-Computer Vision;Transportation;ECCV
-NLP,Tabular,Algorithms;Science;
-Audio,NLP;Science;
+Computer Vision,Generative AI;Media;CVPR,ECCV
 LLM,NLP;Education;
-Computer Vision,Generative AI,Multimodal;Earth Observation;CVPR
+NLP;Finance;
 Computer Vision;Healthcare;
-Computer Vision;Science;ICCV
 Audio,Computer Vision,Multimodal;Healthcare;
-NLP;Climate,Science,Social Media;ACL
-NLP;Science;
-Computer Vision;Science;CVPR,ICCV
-Audio;Science;
-Time Series,Tabular;Education;
-Time Series;Healthcare,Robotics;
-Audio;Science;
-Computer Vision,Generative AI;Other;
-Computer Vision;Biology,Science;
-Tabular;Biology,Education;
-NLP;Science;
-NLP;Science;
-Computer Vision,Multimodal,NLP;Science;ECCV
-NLP;Climate,Social Media;
-Audio;Science;
-NLP;Healthcare,Biology;
-Computer Vision,Generative AI;Science;CVPR
-Tabular;Agriculture,Biology;
-Computer Vision;Transportation;CVPR
-Computer Vision;Science;CVPR
-Reinforcement Learning,Algorithms;Transportation,Education;
-Computer Vision,Algorithms;Transportation;
-NLP;Healthcare,Social Media;
-Computer Vision;Robotics,Transportation;
-NLP;Science;
-NLP;Science;
-Multimodal,Audio,Computer Vision;Science;
-Computer Vision;Robotics;CVPR
-Computer Vision;Agriculture,Robotics;
-Computer Vision;Agriculture,Biology;
+LLM,NLP;Healthcare,Security;
+Computer Vision;Robotics,Earth Observation,Agriculture;
+Algorithms;Education;
+Multimodal,Computer Vision,NLP;Healthcare;MICCAI
+Computer Vision,Multimodal,NLP;Linguistics,Education;
+NLP;Media;
+Computer Vision;Energy,Education;
+Tabular,Time Series;Security;
+Computer Vision;Earth Observation,Agriculture,Climate;
+Audio;Linguistics;
+Computer Vision,Algorithms;Robotics;
+Tabular;E-commerce,Education;
+LLM,NLP;Media;
+NLP;Linguistics;
+Audio;Linguistics;
+Computer Vision;Security;ICCV
+Algorithms,Reinforcement Learning;Transportation;
+Computer Vision,Generative AI;Media;CVPR,ICCV
+Computer Vision;Earth Observation,Transportation;
+Computer Vision;Media,Education;
+NLP;Linguistics;SemEval
+Tabular;Healthcare,Education;
+Audio;Linguistics;
+Computer Vision;Biology,Earth Observation;
+Computer Vision,Generative AI;Media;
+Computer Vision;Sports;
+Computer Vision,Generative AI;Media;CVPR
+NLP;Media;
+Algorithms;Other;
+NLP;Linguistics;
+Algorithms,LLM,NLP;Other;
+NLP,LLM;Finance;NeurIPS
+Generative AI,Time Series;Education,Security;
+Computer Vision;Security;NeurIPS
+Computer Vision;Transportation;
+Audio,Computer Vision,Multimodal;Security,Linguistics;
 Other;Other;
-Time Series;Education;
-LLM,NLP;Cybersecurity,Education,Science;
-Computer Vision;Science;CVPR
-Tabular;Biology,Education;
-NLP,Tabular;E-commerce;
-Time Series;Energy;
-Tabular;Biology;
-Tabular;Cybersecurity;
-Multimodal,NLP,Computer Vision;Science;
-Computer Vision,Generative AI;Science;CVPR
-NLP;Social Media;
-NLP;Education,E-commerce;
-Audio;Science;
-Computer Vision;Education,Biology;
-Audio,Computer Vision,Multimodal;Science,Social Media;ICCV
-Tabular;Education,Finance,E-commerce;
-Computer Vision;Education;
-NLP;Science;
-Audio;Science;
-Graphs,Tabular;Biology;
-NLP,LLM;Legal;
-Computer Vision;Transportation,Cybersecurity;
-NLP;Cybersecurity,Science;
-NLP;Science,Social Media;
-NLP;Biology,Healthcare,Science;
-Computer Vision;Robotics,Science,Transportation;
-Computer Vision;Science;CVPR
+Tabular,Time Series;Security;
+NLP;Linguistics;
+Tabular;Energy;
 Tabular;Education;
-Audio,Computer Vision,Multimodal;Science;
-NLP;Social Media,Science;
+Computer Vision;Robotics;
+Graphs,NLP;Education;
+NLP;Linguistics;
+Algorithms,Tabular;Other;
+Algorithms,AutoML;Other;
+NLP,LLM;Healthcare,Security;
+Multimodal,Computer Vision,Audio;Healthcare,Biology;
+Multimodal,LLM,NLP;Healthcare;NAACL
+Computer Vision;Earth Observation;
+Computer Vision,Generative AI;Other;CVPR
+Computer Vision;Earth Observation,Education;CVPR
+Computer Vision;Other;
+Computer Vision;Media;CVPR
+Computer Vision;Agriculture,Earth Observation;
+Computer Vision,Time Series;Biology,Healthcare;
+Computer Vision;Healthcare;
+Computer Vision;Other;
+Computer Vision;Other;ECCV
+NLP;Media,Education;
+Computer Vision;Robotics,Transportation;
+Other;Other;
+Other;Other;
+Computer Vision;Media;CVPR
+Computer Vision;Transportation,Robotics;CVPR
+Tabular;Energy;
+Reinforcement Learning,Time Series;Finance;
+Audio;Linguistics;
+Graphs,Algorithms;Biology,Healthcare;
+Computer Vision,Multimodal,NLP;Robotics;
+Computer Vision;Robotics;
+Computer Vision,Multimodal;Robotics;
+Algorithms,NLP;Security;
+LLM,NLP;Security;NeurIPS
+Computer Vision;Earth Observation;
+NLP;Healthcare,Biology;
+NLP;Linguistics;
+Audio,NLP;Linguistics;
+NLP;E-commerce;
+Computer Vision,Generative AI;Media;CVPR
+NLP;Media;
+Computer Vision;Healthcare;CVPR
+Computer Vision;Earth Observation;
+Computer Vision;Healthcare;
+Computer Vision;Media;
+Audio;Linguistics;
+Multimodal,Reinforcement Learning,Computer Vision;Robotics;
+Multimodal,Computer Vision,Audio,Generative AI;Security,Media;
+Computer Vision;Other;CVPR
+Audio;Linguistics;
+Multimodal,NLP,Computer Vision;Media;
+NLP;Media;
+Computer Vision;Linguistics;ICCV
+Computer Vision;Media;CVPR
+NLP;Media;
+Computer Vision,NLP,Multimodal;Media;
+Tabular,Time Series;Energy,Transportation;
+Computer Vision,Generative AI;Media;CVPR
+NLP;Linguistics;SemEval
+Other;Education;
+Computer Vision;Robotics;
+Audio;Linguistics;
+Computer Vision,Multimodal,NLP;Media;
+LLM,NLP;Linguistics;SemEval
+Computer Vision;Security,Robotics;CVPR
+Audio;Linguistics;
+Tabular;Biology,Education;
+Computer Vision;Media;CVPR
+Computer Vision;Other;
+Computer Vision;Transportation,Robotics;
+Computer Vision;Other;ECCV
+Tabular;Education;
+Computer Vision;Media;ICCV
+Computer Vision;Education;
+Tabular,Computer Vision;Astronomy;
+Tabular,Time Series;Education;
+Audio;Linguistics;
+LLM,NLP;Healthcare;
+Multimodal,Computer Vision,NLP;Media;CVPR
+Computer Vision;Biology,Healthcare;
+Computer Vision;Security;
+Tabular,Time Series;Energy,Transportation;
+NLP;Media,Education;
+Audio,Computer Vision,Multimodal;Healthcare,Media;
+Computer Vision;Healthcare;
+Computer Vision,NLP,Multimodal;Sports;
+Computer Vision,Multimodal,LLM;Media;
+Audio,NLP;Linguistics,Education;
+AutoML,Reinforcement Learning,Time Series;Other;
+NLP;Linguistics;
+Computer Vision;Agriculture,Earth Observation;
+Computer Vision,Generative AI,Multimodal;Earth Observation;CVPR
+Tabular;Biology,Education;
+Multimodal,Computer Vision,NLP;Education;
+NLP,LLM;Education;
+Computer Vision,NLP,Multimodal,Generative AI;Healthcare;ACL
+Computer Vision,Generative AI;Other;CVPR
+AutoML,NLP;Other;
+NLP;Healthcare,Media;
+NLP;Media;
+Computer Vision;Media;
+Computer Vision;Other;
+Computer Vision;Agriculture,Robotics;
+NLP;Biology,Healthcare;
+Reinforcement Learning,Tabular;Finance;
+NLP;Security;
+NLP;Education;
+NLP;Education,Linguistics;
+Audio;Linguistics;
+Computer Vision,Generative AI;Media;ECCV
+Computer Vision;Healthcare;MICCAI
+NLP,Reinforcement Learning,Multimodal;Robotics;NeurIPS
+Computer Vision;Education;
+Tabular;Other;
+Tabular;Education;
+Audio;Linguistics;
+Tabular;Other;
+Computer Vision,LLM,Multimodal,NLP;Other;ECCV
+Multimodal,Computer Vision,Audio;Media;
+Reinforcement Learning;Transportation,Robotics;
+NLP;Healthcare,Media;
+Computer Vision;Security;CVPR,ICCV
+NLP;Linguistics,Media;
+Audio;Linguistics;
+Computer Vision;Security;
+Computer Vision,Generative AI;Security;NeurIPS
+Tabular;Biology,Education;
+NLP;Education;
+NLP;Climate,Finance;
+Other;Other;
+Multimodal,Computer Vision;Robotics;CVPR
+Computer Vision,Generative AI;Media;CVPR
+Audio;Security;
+Computer Vision,Multimodal,NLP;Linguistics;
+Tabular;Biology,Education;
+Computer Vision,Generative AI;Transportation;ECCV
+Computer Vision;Robotics,Transportation;
+Computer Vision;Media;ECCV
+Audio,NLP;Linguistics;
+LLM,NLP;Healthcare;
+Audio;Linguistics;
+NLP;Healthcare,Media;
+NLP;Healthcare,Media;
+Computer Vision;Other;
+Time Series,Tabular;Climate,Earth Observation;
+Computer Vision;Transportation,Robotics;
+NLP;Media;ACL
+Algorithms,Tabular;Security;
+Computer Vision;Media,E-commerce;
+Computer Vision;Healthcare;
+NLP;Media;
+Computer Vision,Generative AI;Media;CVPR
+Computer Vision;Transportation,Education;
+Computer Vision;Healthcare;MICCAI
+Multimodal,Computer Vision,NLP;Transportation,Robotics;
+LLM,NLP;Linguistics,Media;
+Computer Vision,NLP,Multimodal;Robotics;ICCV,ACL
+Computer Vision;Sports;
+Computer Vision;Security;CVPR
+Algorithms;Transportation;NeurIPS
+Computer Vision,Multimodal,NLP;Media;
+Computer Vision,NLP,Multimodal;Healthcare,Linguistics;CVPR
+Computer Vision,Generative AI;Other;CVPR
+NLP;Media;
+NLP;Linguistics;
+Tabular;Energy;
+Computer Vision;Security;CVPR
+Tabular,Algorithms;Other;
+NLP;Media;
+NLP;Media;
+Audio,NLP;Linguistics;
+Computer Vision;Transportation;
+Computer Vision;Other;
+Audio,Computer Vision,Multimodal;Media;
+Audio;Security;
+NLP;Climate,Media;ACL
+Time Series;Healthcare,Robotics;
+Computer Vision;Education,Biology;
+Computer Vision,Generative AI;Media;ICCV
+Computer Vision;Other;
+Tabular;Other;
+Audio;Linguistics;
+Computer Vision,Generative AI;Transportation;
+NLP;Media,Education;
+NLP;Linguistics;SemEval
+Audio,NLP;Linguistics;
+Tabular,Time Series;Finance;
+Audio,NLP;Linguistics;
+Computer Vision;Education,Transportation;
+Computer Vision,Multimodal;Education;
+Other;Other;
+Computer Vision;Other;ECCV
+Audio,NLP;Linguistics;
+Computer Vision;Media;CVPR
+Computer Vision,Multimodal,Tabular;Healthcare;
+Computer Vision,Generative AI;Media;
+NLP;Media;
+Computer Vision;Sports;
+NLP;Education;
+Computer Vision;Robotics;ICCV
+Graphs,NLP;Other;
+Audio,Computer Vision,Multimodal;Healthcare;
+Computer Vision;Earth Observation,Transportation;
+LLM,NLP;Healthcare,Media;
+Computer Vision;Earth Observation;
+Computer Vision;Transportation;
+Computer Vision;Agriculture,Earth Observation;
+Computer Vision;Media,Education;
+NLP;Media;ACL
+Audio;Linguistics;
+Time Series;Healthcare;
+Other;Other;
+NLP;Media;
+NLP;Linguistics;NAACL
+Multimodal,Computer Vision,NLP;Linguistics;SemEval
+Audio;Media,Linguistics;
+Tabular;Education;
+Computer Vision;Media;CVPR,ECCV
+Computer Vision,Time Series;Astronomy,Robotics;ECCV
+Tabular;Biology,Education;
+Other;Other;
+Computer Vision;Robotics,Transportation;ICCV
+Time Series;Education;
+NLP;Healthcare;SemEval
+Audio,Multimodal,NLP;Media;NAACL
+AutoML,Computer Vision;Other;CVPR
+NLP;Media;ACL
+Algorithms,AutoML,Tabular;Other;NeurIPS
+NLP;Other;
+NLP;Linguistics,Education;
+Other;Education;
+Tabular;Legal;
+Other;Other;
+NLP;Media;
+Computer Vision;Education;
+Computer Vision;Sports;
+Computer Vision;Transportation;ECCV
+NLP;Healthcare;
+Audio,NLP;Linguistics;
+Time Series,Multimodal;Healthcare;
+Computer Vision;Media;CVPR
+Other;Education;
+Computer Vision;Security,Robotics;
+Computer Vision;Earth Observation,Education;
+Computer Vision,Time Series;Astronomy,Robotics;ECCV
+Tabular;Security,E-commerce;
+Computer Vision;Earth Observation;
+Tabular;Finance,Transportation;
+Audio;Linguistics;
+Algorithms,Time Series;Energy,Climate;
+NLP;Media;
+Computer Vision;Media;
+Computer Vision;Robotics;
+NLP;Education,Linguistics;
+LLM,NLP;Healthcare,Security;
+Computer Vision;Robotics,Transportation;
+Computer Vision;Security;NeurIPS
+Audio,LLM,Multimodal;Linguistics;
+Computer Vision;Earth Observation;
+Computer Vision;Biology;
+Tabular,Time Series;Finance,E-commerce;ECML PKDD
+Multimodal,Computer Vision,NLP;Healthcare,Education;
+Computer Vision;Healthcare;MICCAI
+Time Series,Algorithms;Energy,Climate;
+Computer Vision;Security;
+Computer Vision;Robotics,Transportation;
+NLP;Linguistics,Media;
+Computer Vision,Time Series;Transportation,Education;
+Computer Vision,Multimodal;Earth Observation;
+Computer Vision;Healthcare;ICCV
+LLM,Algorithms;Other;
+Graphs,Multimodal,NLP,Tabular;Other;
+Computer Vision;Earth Observation;CVPR
+Computer Vision,Generative AI,Multimodal,NLP;Media;
+NLP;Media;
+NLP;Healthcare,Media;
+NLP;Media;SemEval
+NLP;Healthcare,Media;
+Computer Vision;Robotics,Security;
+Algorithms,Graphs;Education;
+Computer Vision;Other;
+Computer Vision,Generative AI,Multimodal,NLP;Media;
+Audio;Linguistics;
+NLP;Media,Linguistics;
+NLP;Healthcare;NAACL
+Audio;Robotics;
+NLP;Media;
+Computer Vision,Generative AI;Media;CVPR
+Computer Vision;Media;CVPR
+Computer Vision;Security,Education;
+Computer Vision;Media;CVPR
+AutoML,Reinforcement Learning;Other;
+Algorithms;Education,Transportation;
+NLP;Other;
+Computer Vision;Earth Observation,Transportation;
+Computer Vision;Other;
+NLP;Linguistics;
+Computer Vision;Media;
+LLM,NLP;Biology,Healthcare;
+Reinforcement Learning;Transportation,Education;
+Tabular,Time Series;E-commerce;
+NLP;Education;
+Computer Vision;Other;CVPR
+NLP;Healthcare;
+Computer Vision;Other;
+NLP;Media;
+Other;Other;
+Computer Vision;Other;CVPR
+Computer Vision;Other;CVPR,ICCV,ECCV
 Other;Other;
 NLP;Healthcare;
-Computer Vision;Science;CVPR
-Computer Vision,LLM,Multimodal,NLP;Healthcare,Science;
-Other;Other;
-Algorithms;Cybersecurity,Science;
-Tabular;Education;
-NLP;Science;
-Multimodal,Computer Vision,NLP;Finance,E-commerce;
-LLM,Reinforcement Learning,Algorithms;Robotics,Cybersecurity;
-Computer Vision;Robotics,Science;CVPR
-Computer Vision;Education;
-Algorithms,Reinforcement Learning;Transportation;NeurIPS
-Audio;Science;
-NLP;Science;
-Algorithms,Graphs;Education;
-Computer Vision;Science;ICCV
-Computer Vision;Robotics,Science;CVPR,ICCV
-Computer Vision;Science;
-Time Series;Energy;
-NLP;Science;
-NLP,LLM;Education;
-Computer Vision;Agriculture,Robotics;
-Other;Other;
-NLP;Social Media;
-NLP;Finance;
-Computer Vision;Science;CVPR,ICCV
-Tabular;Cybersecurity;
-Multimodal,Computer Vision,NLP;Science;
-Tabular;Finance;
-NLP;Social Media;
-NLP;Education;
-Computer Vision;Earth Observation,Cybersecurity;
-Computer Vision,Multimodal;Robotics,Transportation;
-Other;Other;
-Reinforcement Learning;Cybersecurity;
-Computer Vision;Transportation,Science;CVPR
-Tabular;Biology;
-Audio;Science;
-Computer Vision;Science;CVPR
-Audio;Cybersecurity;
-Algorithms,AutoML;Science;NeurIPS
-Computer Vision;Healthcare,Science;ICCV
-Computer Vision;Cybersecurity,Science;
-Computer Vision;Science;CVPR,ICCV,ECCV
-NLP;Education;
-NLP;Social Media,Education;
-Audio;Science;
-Tabular;Science;
-Multimodal,Computer Vision,Audio;Healthcare,Biology,Science;
-NLP;Science;
-Audio,NLP;Science;
-Computer Vision;Transportation;
-NLP;Science;
-NLP;Healthcare,Social Media;
-Audio;Science;
-Graphs,AutoML;Science;
-Computer Vision;Science;CVPR,ICCV
-Audio;Science;
-Other;Other;
-NLP;Social Media;
-Algorithms,Graphs;Education,Science;
-LLM,NLP;Science;
-Other;Other;
-Computer Vision,Multimodal;Robotics;
-NLP,LLM;Legal,Education;
-Tabular;Energy;
-Audio;Cybersecurity,Social Media;
-Computer Vision,Multimodal,NLP;Social Media,Science;
-AutoML,Computer Vision;Biology;
-Computer Vision;Transportation;
-NLP;Science;
-Computer Vision;Other;
-Other;Other;
-Computer Vision;Transportation;
-Other;Other;
-Audio,Computer Vision,Multimodal,NLP;Healthcare,Science;
-Tabular;Cybersecurity;
-Computer Vision,Generative AI;Science;CVPR
-Computer Vision;Science;
-Computer Vision;Science;
-Computer Vision;E-commerce,Education;
-Algorithms,Computer Vision;Education;
-Tabular;Agriculture;
-Tabular;Cybersecurity;
-Computer Vision;Robotics,Transportation;
-Computer Vision,NLP,Multimodal;Robotics;
-Computer Vision,Generative AI;Science,Social Media;CVPR
-Other;Other;
-NLP,LLM;Science;
-Computer Vision;Robotics,Transportation;
-NLP;Science;
-NLP;Social Media;
-Computer Vision,Time Series;Healthcare;MICCAI
-Computer Vision,Multimodal,NLP;Science;CVPR
-Tabular;Education;
-Computer Vision;Cybersecurity;
-NLP;Cybersecurity,Finance;
-Audio,NLP;Science;
-Computer Vision,Multimodal;Education,Transportation;
-NLP;Social Media,Sports;ACL
-NLP;Science;
-NLP;Education,Science;
-Computer Vision,Generative AI;Science;CVPR
-NLP;Education,Finance;
-Computer Vision;Earth Observation;
-Computer Vision;Transportation,Education;
-Audio;Science;
-Computer Vision;Cybersecurity,Science;
-NLP;Science;
-Computer Vision;Robotics,Science;
-Time Series;Education;
-Other;Other;
-NLP;Healthcare,Science,Social Media;
-NLP,LLM;Education;ACL
-Other;Other;
-NLP,LLM;Science;
-Computer Vision,Generative AI;Education,Science;
-Audio;Science;
-Computer Vision,Generative AI;Science;CVPR
-Computer Vision;Cybersecurity;NeurIPS
-NLP;Healthcare,Social Media;
-Computer Vision;Science;ICCV,ECCV
-Computer Vision,NLP,Multimodal;Healthcare,Science;CVPR
-Audio;Science;
-Computer Vision;Biology,Healthcare,Science;
-NLP,LLM;Education,Science;
-NLP;Science;
-Computer Vision;Healthcare;
-NLP;Cybersecurity,Social Media;
-NLP;Science;
-Tabular;Biology,Education;
-NLP;Healthcare,Social Media;
-Reinforcement Learning,Time Series;Energy;
-Time Series,Tabular;Climate,Energy,Education;
-Reinforcement Learning;E-commerce,Finance,Science;
-Generative AI,NLP;Science;
-Audio,Multimodal,NLP;Science;
-Audio;Science;
-Computer Vision;Robotics,Transportation;CVPR
-NLP;Social Media;
-Audio,Computer Vision,Multimodal;Science;
-NLP;Healthcare,Social Media;
-Computer Vision;Science;ECCV
-NLP,Generative AI;Science;
-NLP;Science;
-Algorithms,Tabular;Cybersecurity;
-NLP;Healthcare,Social Media;
-Audio;Science;
-NLP;Science;
-NLP;Social Media,Sports;
-Computer Vision;Science;CVPR
-Tabular;Education;
-Computer Vision;Robotics,Transportation;
-Tabular;Science;
-Algorithms,NLP;Science;
-Other;Other;
-Other;Other;
-Computer Vision;Science;
-Tabular;Biology,Education;
-Audio,NLP;Science;
-NLP;Social Media;
-Audio,NLP;Science;
-Tabular,Time Series;Cybersecurity;
-NLP;Education,Science;
-NLP;Education;
-NLP;Education;
-Multimodal,Audio,Computer Vision;Science;
-Other;Other;
-NLP,LLM;Healthcare,Cybersecurity;
-NLP;Social Media;
-NLP;Social Media;
-NLP;Finance,Education;
-Computer Vision;Science;
-NLP;Science;
-Computer Vision;Science;
+Computer Vision,LLM,Multimodal,NLP;Media;
 Computer Vision;Healthcare;MICCAI
-Audio;Science;
-Computer Vision;Science;
-NLP;Social Media;
-Audio,NLP;Robotics,Science;
-NLP;Healthcare,Science;
-Time Series;Energy;
-Algorithms,AutoML;Science;NeurIPS
-Computer Vision;Earth Observation,Robotics,Science,Transportation;
-NLP;Science;
-Computer Vision;Science;CVPR
-Computer Vision;Science,Sports;ECCV
-Computer Vision;Science;ICCV
-Computer Vision;Science;CVPR
-Other;Other;
-Tabular;Education;
-NLP;Social Media,Science;
+NLP;Healthcare,Security;
+Computer Vision;Robotics,Transportation;
+Algorithms,Tabular,Time Series;Energy;
 NLP;Education;
-NLP;Healthcare,Science;
-Multimodal,Audio,Computer Vision;Science;
+Computer Vision;Sports;
+Computer Vision;Sports;
+Tabular;Education;
+NLP;Linguistics,Education;
+Computer Vision;Security;
+Audio;Media,Security;
+Computer Vision,Multimodal;Robotics;
+Generative AI,NLP;Media,Linguistics;
+NLP;Media;
+Computer Vision;Other;CVPR
+NLP;Linguistics;SemEval
+Generative AI,NLP;Finance;
+Tabular;Education;
+NLP;Healthcare,Media;
+Computer Vision;Media;CVPR
+Computer Vision;Healthcare;
+Computer Vision;Earth Observation;
+Tabular;Education;
+Computer Vision;Agriculture,Robotics;
+NLP;Media;
+Computer Vision;Media;ICCV
+NLP;Linguistics;SemEval
+Audio;Linguistics;
+LLM,NLP;Education,Security;ACL
+NLP;Linguistics;SemEval
+Other;Other;
+Multimodal,Time Series;Transportation;
+Multimodal,Computer Vision,LLM;Education;
+NLP;Media;NAACL
+NLP;Education;
+Tabular;Education,Energy;
+NLP;Education;
+Computer Vision;Healthcare;
+Computer Vision;Media,Education;
+NLP;Media;
+NLP;Linguistics;
+Computer Vision;Security,Education;
+Computer Vision;Security;
+Computer Vision;Earth Observation;
+NLP;Education,Finance;
+Computer Vision;Climate,Earth Observation;CVPR,ICCV
+NLP;Media;
+Computer Vision;Robotics;
+Tabular;Biology,Healthcare;
+Audio;Security;
+NLP;Linguistics;
+Computer Vision,Multimodal,NLP;Media;SemEval
+NLP;Linguistics;
+Computer Vision,Multimodal;Healthcare;
+LLM,NLP;Other;
+Computer Vision,LLM,Multimodal,NLP;Education;
+Computer Vision;Healthcare;
+Algorithms;Education;
+Computer Vision,Generative AI;Media;CVPR
+Computer Vision,Generative AI;Media;
+Computer Vision;Other;ECCV
+NLP;Education,Linguistics;ACL
+NLP;Education;
+NLP;Linguistics;NeurIPS
+Computer Vision;Healthcare;
+Other;Other;
+Computer Vision;Security;
+AutoML,Computer Vision;Other;NeurIPS
+Computer Vision,Multimodal,NLP;Other;
+Computer Vision,Multimodal,NLP;Media;
+Computer Vision,Multimodal,Time Series;Security;
+Computer Vision;Other;
+Computer Vision;Transportation,Education;
+NLP;Linguistics;
+Multimodal,NLP,Computer Vision;Media;
+Computer Vision;Healthcare;MICCAI
+NLP;Media;
+Computer Vision;Media,Education;
+Tabular;Education,Energy;
+NLP;Media;
+Computer Vision,NLP,Multimodal;Other;CVPR,ICCV,ECCV
+NLP;Other;
+Tabular;Biology,Education;
+Computer Vision,Multimodal,NLP;Other;ICCV
+Multimodal,Computer Vision,NLP;Media;
+Other;Other;
+Computer Vision,Multimodal;Earth Observation;CVPR
+Computer Vision;Other;
+Audio;Linguistics;
+NLP,LLM;Other;CVPR,ECCV
+Computer Vision;Robotics;
+AutoML,Computer Vision;Other;CVPR
+NLP;Healthcare,Media;
+Audio;Linguistics;
+Computer Vision,LLM,Multimodal,NLP;Healthcare;
+NLP;Linguistics;
+NLP;Linguistics;
+Other;Other;SemEval
+Other;Other;
+NLP;Media,Linguistics;ACL
+Computer Vision;Security;
+NLP;Linguistics;
+Tabular;Transportation,E-commerce,Education;
+NLP;Other;
+Computer Vision;Other;NeurIPS,ICCV,ECCV
+Audio,Computer Vision,Multimodal;Media;
+Computer Vision;Linguistics,Healthcare;ECCV
+Computer Vision;Robotics;CVPR
+Tabular;Security;
+Computer Vision;Education,Media;
+Computer Vision,Multimodal;Security,Media;
+Computer Vision,Generative AI;Media;
+Computer Vision;Media;CVPR
+Computer Vision,Multimodal,NLP;Sports;
+Computer Vision;Sports;
+Computer Vision;Healthcare;
+NLP,Graphs;Education;
+Computer Vision;Media;
+NLP;Healthcare,Media;
+Computer Vision;Transportation;ECCV
+Graphs,Algorithms;Biology,Healthcare;
+Computer Vision,Generative AI;Media;ICCV
+NLP;Media;
+NLP;Linguistics;
+Time Series;Climate;
+Computer Vision;Media;CVPR
+Computer Vision;Security,Robotics;
+Computer Vision,Generative AI;Other;CVPR
+Generative AI,NLP;Media;
+Computer Vision;Education;
+Computer Vision,Generative AI;Media;CVPR
+Computer Vision;Media;
+Generative AI,LLM,NLP;Linguistics;
+Multimodal,Reinforcement Learning,Computer Vision;Transportation,Robotics,Security;NeurIPS
+NLP;Healthcare,Media;
+Computer Vision;Other;ECCV
+NLP;E-commerce,Education;
+NLP;Media;
+Computer Vision;Other;ICCV
+Time Series,Algorithms;Energy;NeurIPS
+NLP;Education;
+Computer Vision;Education;
+Computer Vision,Generative AI;Media;
+Multimodal,Computer Vision,NLP;Education;ACL
+Computer Vision;Healthcare;MICCAI
+Multimodal,Computer Vision,NLP;Education;
+NLP;Linguistics;
+NLP;Finance,Linguistics;
+Graphs,NLP;Education;
+Multimodal,Computer Vision,NLP;Linguistics;SemEval
+Audio,NLP;Linguistics;
+Tabular;Biology,Healthcare;
+Computer Vision;Transportation,Robotics;
+LLM;Security;NeurIPS
+Computer Vision;Earth Observation;
+Multimodal,Computer Vision,Audio;Healthcare,Biology;
+Tabular;Biology,Healthcare;
+Computer Vision;Transportation;
+Audio;Linguistics;
+Algorithms,AutoML;Other;
+NLP;Linguistics;NeurIPS
+Computer Vision;Healthcare;
+NLP;Media;
+Reinforcement Learning,Time Series;Finance;
+Tabular;Security;
+NLP;Healthcare,Media;
+Audio;Linguistics;
+Multimodal,Audio,Computer Vision;Media;
+NLP;Astronomy;
+Computer Vision,Multimodal;Earth Observation;
+Computer Vision;Other;
+Computer Vision;Other;
+Computer Vision,Tabular;Climate,Biology;
+Audio,Computer Vision,Generative AI;Media;CVPR
+Reinforcement Learning;Transportation,Robotics;NeurIPS
+Computer Vision;Agriculture,Biology;
+Algorithms,Tabular;Transportation;NeurIPS
+Algorithms,Reinforcement Learning;Transportation;
+Multimodal,Computer Vision,NLP;Linguistics;SemEval
+Computer Vision;Media;
+Tabular;Education;
+Other;Other;
+NLP;Media;
+LLM,NLP;Other;
+Computer Vision;Healthcare;MICCAI
+NLP;Linguistics;SemEval
+NLP;Media;
+Algorithms;Transportation;
+Multimodal,NLP,Computer Vision;Media;
+Computer Vision;Robotics;
+Computer Vision,NLP;Education;
+Other;Other;
+AutoML,Tabular;Education;NeurIPS
+Audio,Generative AI;Security;
+Audio;Linguistics;
+Time Series;Energy,Climate;
+Other;Other;
+Audio;Linguistics;
+Time Series,Tabular;Energy;
+Computer Vision;Media;
+Computer Vision,Generative AI;Media;CVPR
+NLP;Media;ACL
+Other;Other;
+Computer Vision;Robotics,Transportation;
+Computer Vision,Multimodal;Transportation,Robotics;
+Computer Vision;Media;
+Audio,NLP;Linguistics;
+Audio;Linguistics;
+Computer Vision,NLP,Multimodal;Robotics;NeurIPS
+NLP,Generative AI;Linguistics,Media;
+Computer Vision;Biology,Earth Observation;
+Generative AI,NLP;Media;ACL
+AutoML,Computer Vision;Biology,Education,Healthcare;
+NLP;Linguistics;
+Computer Vision;Healthcare;MICCAI
+Generative AI,NLP;Media,Linguistics;
+Computer Vision,Generative AI,Multimodal;Media;CVPR
+LLM,NLP;Healthcare;ACL
+NLP;Biology,Healthcare;
+Tabular;Finance,Education;
+Computer Vision;Media;CVPR
+Computer Vision;Transportation;
+Reinforcement Learning;Media,Education;
+Computer Vision;Security;
+Computer Vision;Education,Media;
+Audio;Security;
+Time Series,Tabular;Security;
+Tabular,Time Series;Energy,Transportation;
+Algorithms,LLM,NLP;Education;
+Computer Vision,NLP,Multimodal,LLM;Robotics;CVPR
+Computer Vision,Graphs;Other;ECCV
+Computer Vision,Generative AI;Media;
+Computer Vision,Generative AI;Media;CVPR
+Computer Vision;Security;
+Computer Vision;Media;CVPR
+LLM,NLP,Tabular;Healthcare;
+Multimodal,Computer Vision,Audio;Healthcare;
+Tabular;Energy;
+Tabular;Education;
+Audio,Computer Vision,Multimodal;Security;
+Computer Vision;Media,Transportation;CVPR
+NLP;E-commerce,Education;
+NLP;Linguistics;SemEval
+NLP;Media;
+Audio;Linguistics;
+Computer Vision;Other;
+Computer Vision;Media;CVPR
+NLP;Media;
+LLM,NLP;Education;
+LLM,NLP;E-commerce;NAACL
+NLP;Media;
+Audio;Security;
+NLP;Legal,Security;
+Computer Vision,Multimodal;Linguistics;
+LLM,NLP;Healthcare;
+NLP;Linguistics;
+Computer Vision;Other;
+NLP;Media;
+NLP;Linguistics;
+LLM,NLP;Healthcare,Legal;
+LLM,NLP;Linguistics;
+NLP;Linguistics;
+Computer Vision;Media;CVPR
+NLP;Linguistics,Education;
+Computer Vision;Other;
+NLP,Time Series;Other;
+Computer Vision;Other;
+NLP,Time Series;Healthcare,Media;
+Computer Vision;Linguistics;
+LLM,NLP;Other;
+Computer Vision;Media;CVPR
+Audio;Linguistics;
+Computer Vision;Transportation,Education;
+Tabular;Education;
+NLP;Linguistics;
+Algorithms,Tabular;Transportation,Education;
+Other;Other;
+Computer Vision,NLP,Multimodal;Media;ACL
+LLM,NLP;Linguistics;
+Generative AI,Graphs,NLP;Biology;ACL
+LLM,NLP;Media;
+Generative AI,NLP;Media;
+Audio;Linguistics;
+Other;Other;
+NLP;Healthcare,Media;
+NLP;Linguistics;
+Computer Vision;Sports;
+NLP;Education,Media;
+Audio,Computer Vision,NLP,Multimodal;Other;
+Computer Vision;Media;
+Audio;Linguistics;
+AutoML,Computer Vision;Biology,Education,Healthcare;
+Time Series,Tabular;Energy,Transportation;
+Computer Vision,Generative AI;Other;CVPR
+Computer Vision;Healthcare;
+NLP;Other;
+Computer Vision;Earth Observation;
+Audio;Linguistics;
+Computer Vision;Media;CVPR
+Tabular;Education;
+NLP;Linguistics;ACL
+Computer Vision;Healthcare;
+Reinforcement Learning,Time Series;Finance;
+Reinforcement Learning,Time Series;Energy;
+Tabular,Time Series;Energy;
+Audio;Linguistics;
+Audio;Linguistics;
+Reinforcement Learning;Energy,Climate;
+NLP;Linguistics;
+Computer Vision,Multimodal;Robotics;
+Computer Vision,LLM,Multimodal;Transportation;
+LLM,Algorithms;Education;ICML
+Computer Vision;Education;
+Algorithms,Tabular;Healthcare;
+Computer Vision;Agriculture,Biology;
+Time Series,Audio;Healthcare;
+Computer Vision;Education;
+NLP;Media;
+NLP;Linguistics;
+Other;Other;
+Computer Vision;Transportation,Earth Observation;
+NLP,LLM,Generative AI;Healthcare;
+Computer Vision,Generative AI;Media;
+Multimodal,Audio,Computer Vision,NLP;Media;
+Time Series,Tabular;Finance;
+NLP;Healthcare;
+Computer Vision;Education;
+NLP;Climate,Media;
+Computer Vision;Earth Observation;CVPR
+Computer Vision;Healthcare;MICCAI
+Computer Vision;Media;CVPR
+Computer Vision;Transportation;CVPR
+Audio,NLP;Linguistics;
+Computer Vision;Media;CVPR
+Computer Vision;Education;
+Audio;Linguistics;
+Audio,NLP;Linguistics;
+Reinforcement Learning,Time Series;Energy,Education;
+Audio;Security,Education;
+Computer Vision;Other;CVPR
+Computer Vision;Healthcare;
+Computer Vision,Generative AI;Media;CVPR
+Audio;Linguistics;
+Tabular;Security;
+NLP;Finance;
+Audio;Linguistics;
+NLP;Linguistics;
+Computer Vision;Media;
+Computer Vision;Healthcare;
+Computer Vision;Transportation,Robotics;
+NLP;Education,Linguistics;ACL
+NLP;Healthcare,Biology;
+Computer Vision;Healthcare;MICCAI
+Computer Vision;Agriculture;
+Computer Vision;Media;CVPR
+Computer Vision,Generative AI;Security;ICCV
+Multimodal,Computer Vision,NLP;Healthcare;ACL
+Computer Vision;Agriculture;
+Time Series,Tabular;Climate;
+Computer Vision;Healthcare;
+Computer Vision;Security,Education;
+LLM;Security;NeurIPS
+Time Series;Astronomy;
+Time Series;Healthcare;
+Computer Vision;Other;
+Time Series,Tabular;E-commerce;
+Tabular;Education,Security;
+NLP;Media;
+Computer Vision,Multimodal;Climate,Earth Observation;
+Audio;Linguistics;
+Audio,NLP,Multimodal;Linguistics;
+Computer Vision;Healthcare;MICCAI
+Multimodal,Computer Vision,Audio;Media,Security;
+Computer Vision;Security;
+Computer Vision;Healthcare;
+Computer Vision,Generative AI;Media;CVPR
+Multimodal,Computer Vision,Audio;Security,Linguistics;
+Time Series,Tabular;Finance,Education;
+Computer Vision,Generative AI;Security;
+Computer Vision,Generative AI;Security,Media;CVPR
+Computer Vision;Healthcare;MICCAI
+Algorithms,Graphs;Education;
+LLM,NLP;Education;
+Computer Vision;Media;CVPR
+NLP;Education,Linguistics;ACL
+NLP,Generative AI;Linguistics;
+Reinforcement Learning,Time Series;Finance;
+Computer Vision;E-commerce;
+LLM,Algorithms;Education;
+Audio,NLP,LLM;Linguistics;
+Computer Vision,Generative AI,Multimodal;Earth Observation;CVPR
+Computer Vision;Healthcare;
+Computer Vision,LLM;Education;
+Computer Vision;Other;
+NLP;Healthcare,Media;
+NLP;Healthcare,Media;
+Audio,NLP;Linguistics;
+Tabular,Time Series;Energy,Transportation;
+Tabular;Energy;
+NLP;Media,Security;
+NLP;Healthcare;
+Computer Vision;Sports,Healthcare;
+Computer Vision;Robotics,Transportation;
+Multimodal,Computer Vision,NLP;Earth Observation;
+Computer Vision,LLM,Multimodal;Media;CVPR
+NLP;Media,Linguistics;SemEval
+Computer Vision,Generative AI;Media;CVPR
+NLP;Media;
+Audio;Linguistics;
+NLP;Other;
+Computer Vision;Sports;
+Audio;Linguistics;
+Reinforcement Learning,Tabular;Finance,E-commerce;
+NLP;Media;
+Computer Vision;Media;CVPR

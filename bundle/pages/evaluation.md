@@ -6,9 +6,9 @@ The labeled dataset is shuffled and split once into three sets:
 
 | Set | Samples | Used in |
 |-----|---------|---------|
-| Train | 3030 | both phases (training) |
-| Validation | 1030 | Feedback Phase (evaluation) |
-| Test | 1030 | Final Phase (evaluation) |
+| Train | 2326 | both phases (training) |
+| Validation | 774 | Feedback Phase (evaluation) |
+| Test | 774 | Final Phase (evaluation) |
 
 Every tag appears at least once in each of the three sets.
 

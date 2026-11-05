@@ -26,7 +26,7 @@ import numpy as np
 
 csv.field_size_limit(sys.maxsize)
 
-N_TRAIN, N_VALID, N_TEST = 3030, 1030, 1030
+N_TRAIN, N_VALID, N_TEST = 2326, 774, 774
 SEED = 42
 MAX_ATTEMPTS = 100
 
